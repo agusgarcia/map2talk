@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Assets\Scripts\Autofocus.cs" />
+     <Compile Include="Assets\Assets\Scripts\FadePanel.cs" />
      <Compile Include="Assets\Assets\Scripts\ScrollButtons.cs" />
      <Compile Include="Assets\Assets\Scripts\ShowSquare.cs" />
      <Compile Include="Assets\Libraries\UITween\Prefabs\Click Effect Pref\ClickedWaveAnimation.cs" />
@@ -55,6 +56,7 @@
      <Compile Include="Assets\Libraries\UITween\Scripts\EasyTween.cs" />
      <Compile Include="Assets\Libraries\UITween\Scripts\ReferencedFrom.cs" />
      <Compile Include="Assets\Libraries\UITween\Scripts\UITween.cs" />
+     <Compile Include="Assets\Testbutton.cs" />
      <Compile Include="Assets\Vuforia\Scripts\BackgroundPlaneBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\CloudRecoBehaviour.cs" />
      <Compile Include="Assets\Vuforia\Scripts\CylinderTargetBehaviour.cs" />
@@ -98,6 +100,7 @@
      <None Include="Assets\link.xml" />
      <None Include="Assets\Vuforia\Shaders\VertexLitWithZ.shader" />
      <None Include="Assets\Vuforia\Shaders\RenderVideoBackground.shader" />
+     <None Include="Assets\StreamingAssets\QCAR\Image_Targets.xml" />
      <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
      <None Include="Assets\Vuforia\Shaders\VideoBackground.shader" />
      <None Include="Assets\Vuforia\Editor\WebcamProfiles\profiles.xml" />
