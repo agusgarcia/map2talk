@@ -48,7 +48,6 @@
      <Compile Include="Assets\Assets\Scripts\Autofocus.cs" />
      <Compile Include="Assets\Assets\Scripts\FadePanel.cs" />
      <Compile Include="Assets\Assets\Scripts\ScrollButtons.cs" />
-     <Compile Include="Assets\Assets\Scripts\ShowSquare.cs" />
      <Compile Include="Assets\Assets\Scripts\SlideTraveller.cs" />
      <Compile Include="Assets\Libraries\UITween\Prefabs\Click Effect Pref\ClickedWaveAnimation.cs" />
      <Compile Include="Assets\Libraries\UITween\ScenesExamplesScripts\ActivateOnEnable.cs" />

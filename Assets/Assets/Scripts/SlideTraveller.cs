@@ -14,6 +14,7 @@ public class SlideTraveller : MonoBehaviour
 
 	private float step;
 	public float speed;
+	public float distance = 400;
 
 	//For content_1 
 	private bool keepMoving_1 = false;
@@ -23,21 +24,40 @@ public class SlideTraveller : MonoBehaviour
 	private bool keepMoving_2 = false;
 	private Vector3 newPosition_2;
 
+	private float startPosition;
+
+
+
+	public void Start() {
+
+		startPosition = content_1.transform.position.x;
+
+	}
 
 	public void Update() {
 
+		if ((Math.Abs(content_1.transform.position.x - startPosition) <= 1) & (newPosition_1.x >= startPosition)) {
+			keepMoving_1 = false;
+			keepMoving_2 = false;
+			Debug.Log ("nooope");
+		}
+
+		 
+//		Debug.Log ("Alors ? : " + content_1.transform.position.x + " / " + newPosition_1.x);
 
 		//Content_1
 		if (keepMoving_1) {
 			step = speed * Time.deltaTime;
+		
 
-			//Move content towards its new position
-			content_1.transform.position = Vector3.MoveTowards (content_1.transform.position, new Vector3(newPosition_1.x, content_1.transform.position.y, 
-				content_1.transform.position.z), step);
-
+				//Move content towards its new position
+				content_1.transform.position = Vector3.MoveTowards (content_1.transform.position, new Vector3(newPosition_1.x, content_1.transform.position.y, 
+					content_1.transform.position.z), step);
+				
+	
 			//Debug.Log (content.transform.position.x +" / "+ newPosition.x);
 
-			if (Math.Abs(content_1.transform.position.x - newPosition_1.x) <= 1.5) {
+			if (Math.Abs(content_1.transform.position.x - newPosition_1.x) <= 1) {
 				keepMoving_1 = false;
 				Debug.Log (keepMoving_1);
 			}
@@ -45,6 +65,9 @@ public class SlideTraveller : MonoBehaviour
 
 		//Content_2
 		if (keepMoving_2) {
+
+			Debug.Log ("content 2 moving");
+
 			step = speed * Time.deltaTime;
 
 			//Move content towards its new position
@@ -78,9 +101,9 @@ public class SlideTraveller : MonoBehaviour
 	public void Increment ()
 	{
 
-		MoveFirstContent(-400);
+		MoveFirstContent(-distance);
 		
-		StartCoroutine (MoveSecondContent (0.15f, -400));
+		StartCoroutine (MoveSecondContent (0.12f, -distance));
 
 		/*	if (Target == null || TheOtherButton == null)
 			throw new Exception ("Setup ScrollbarIncrementer");
@@ -125,8 +148,8 @@ public class SlideTraveller : MonoBehaviour
 
 	public void Decrement ()
 	{
-		MoveFirstContent(400);
-		StartCoroutine (MoveSecondContent (0.15f, 400));
+		MoveFirstContent(distance);
+		StartCoroutine (MoveSecondContent (0.12f, distance));
 
 		/*	if (Target == null || TheOtherButton == null)
 			throw new Exception ("Setup ScrollbarIncrementer");
