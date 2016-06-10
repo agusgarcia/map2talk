@@ -17,8 +17,10 @@ public class FadePanel : MonoBehaviour {
 	void Start () {
 		
 		container = GameObject.Find("TravellerContacted");
-		containerCanvas = container.GetComponent<Canvas>();
-		containerCanvas.sortingOrder = 0;
+		if (container != null) {
+			containerCanvas = container.GetComponent<Canvas> ();
+			containerCanvas.sortingOrder = 0;
+		}
 
 		if (EventSystem.current.currentSelectedGameObject != null)
 		{
@@ -73,12 +75,10 @@ public class FadePanel : MonoBehaviour {
 			Debug.Log ("else");
 
 			containerCanvas.sortingOrder = 1;
-		//	Debug.Log ("hide");
+
 			panel.CrossFadeAlpha (0f, .3f, false);
 			background.CrossFadeAlpha (0f, .3f, false);
 		
-			//background.enabled = false;
-			//panel.enabled = false;
 			foreach (Graphic child in childrenImage) {
 				child.CrossFadeAlpha (0f, .3f, false);
 			}
