@@ -10,83 +10,60 @@ public class FadePanel : MonoBehaviour {
 	protected CanvasRenderer[] childrenCanvas;
 	protected Graphic[] childrenImage;
 	protected Button button;
-	bool shown = false;
-	protected GameObject container;
+	public GameObject container;
 	protected Canvas containerCanvas;
 
 	void Start () {
 		
-		container = GameObject.Find("TravellerContacted");
-		if (container != null) {
-			containerCanvas = container.GetComponent<Canvas> ();
-			containerCanvas.sortingOrder = 0;
-		}
+		//Get Canvas component from target
+		containerCanvas = transform.GetComponent<Canvas> ();
+		//Place target behind the scene
+		containerCanvas.sortingOrder = 1;
 
-		if (EventSystem.current.currentSelectedGameObject != null)
-		{
-			Debug.Log(EventSystem.current.currentSelectedGameObject.name);
-		}
 		//Set panel and bg Alpha = 0
-		panel.GetComponent<CanvasRenderer>().SetAlpha(0f);
+		//panel.GetComponent<CanvasRenderer>().SetAlpha(0f);
 		background.GetComponent<CanvasRenderer>().SetAlpha(0f);
-		//panel.enabled = false;
-		//background.enabled = false;
 
-		Debug.Log ("panel: "+panel.isActiveAndEnabled);
-
-		//Set for each children Alpha = 0
-		childrenCanvas = panel.GetComponentsInChildren<CanvasRenderer>();
+		//Set for each panel's child Alpha = 0
+	/**	childrenCanvas = panel.GetComponentsInChildren<CanvasRenderer>();
 		foreach (CanvasRenderer child in childrenCanvas) {
 			child.SetAlpha(0f);
 		}
-			
-		childrenImage = panel.GetComponentsInChildren<Graphic>();
+	*/	
 
-		button = GetComponent<Button>();	
+		//Get Graphic component in panel's children (Images and Texts)
+		childrenImage = panel.GetComponentsInChildren<Graphic>();
 	}
 
-	public void ChangeAlpha() {
 
+	public void ShowPanel() {
+		containerCanvas.sortingOrder = 3;
+		background.GetComponent<CanvasRenderer>().SetAlpha(0f);
 
-		Debug.Log ("clicked");
-		Debug.Log ("Change Alpha");
-		Debug.Log ("shown : " + shown);	
-		Debug.Log ("alpha : " + panel.GetComponent<CanvasRenderer> ().GetAlpha ());
+		panel.CrossFadeAlpha (1f, .3f, false);
+		background.CrossFadeAlpha (0.4f, 0.3f, false);
 
-	if ((panel.GetComponent<CanvasRenderer>().GetAlpha() == 0f) & (shown == false)) {
-			
-			Debug.Log ("avant");
-			containerCanvas.sortingOrder = 3;
-			Debug.Log ("après");
-			panel.CrossFadeAlpha (1f, .3f, false);
-			//background.enabled = true;
-			//panel.enabled = true;
-			background.CrossFadeAlpha (0.4f, .3f, false);
-
-			foreach (Graphic child in childrenImage) {
-				child.CrossFadeAlpha (1f, .3f, false);
-			}
-
-			Debug.Log ("aprespres");
-			button.interactable = false;
-			shown = true;
-
-		} else {
-			Debug.Log ("else");
-
-			containerCanvas.sortingOrder = 1;
-
-			panel.CrossFadeAlpha (0f, .3f, false);
-			background.CrossFadeAlpha (0f, .3f, false);
-		
-			foreach (Graphic child in childrenImage) {
-				child.CrossFadeAlpha (0f, .3f, false);
-			}
-
-			panel.GetComponent<CanvasRenderer>().SetAlpha(0);
-			Debug.Log ("alpha 2: " + panel.GetComponent<CanvasRenderer> ().GetAlpha ());
-
+		foreach (Graphic child in childrenImage) {
+			child.CrossFadeAlpha(1f, .3f, false);
 		}
 	}
+
+	public void HidePanel() {
+
+		//Put target behind the scene
+		containerCanvas.sortingOrder = 1;
+
+		//Fade panel and bg color to 0
+		panel.CrossFadeAlpha (0f, .3f, false);
+		background.CrossFadeAlpha (0f, .3f, false);
+
+		//Fade alpha for each panel's child
+		foreach (Graphic child in childrenImage) {
+			child.CrossFadeAlpha (0f, .3f, false);
+		}
+
+		//panel.GetComponent<CanvasRenderer>().SetAlpha(0);
+	}
+
 
 }

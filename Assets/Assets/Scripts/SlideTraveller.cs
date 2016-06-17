@@ -7,7 +7,7 @@ using System.Collections;
 public class SlideTraveller : MonoBehaviour {
 
 	//public Scrollbar Target;
-	//public Button TheOtherButton;
+	public Button theOtherButton;
 	public Transform content_1;
 	public Transform content_2;
 
@@ -32,6 +32,7 @@ public class SlideTraveller : MonoBehaviour {
 
 	public void Start () {
 		nbChildren = content_1.transform.childCount;
+		GetComponent<Button>().interactable = false;
 	}
 
 	public void Update () {
@@ -75,6 +76,7 @@ public class SlideTraveller : MonoBehaviour {
 			TestKeepMoving (content_1, newPosition_1, keepMoving_1);
 		}
 
+
 		if (keepMoving_2) {
 			TestKeepMoving (content_2, newPosition_2, keepMoving_2);
 		}
@@ -85,10 +87,15 @@ public class SlideTraveller : MonoBehaviour {
 
 		//Test if the content has shown all its components (its children)
 		//If it hasn't, move
-		if (counter < nbChildren-1) {
+		if (counter < nbChildren - 1) {
 			counter += 1;
 			MoveFirstContent (-distance);
 			StartCoroutine (MoveSecondContent (-distance));
+			GetComponent<Button>().interactable = true;
+		} 
+			
+		if (counter == nbChildren - 1) {
+			theOtherButton.interactable = false;
 		}
 	}
 
@@ -100,6 +107,11 @@ public class SlideTraveller : MonoBehaviour {
 			counter -= 1;
 			MoveFirstContent (distance);
 			StartCoroutine (MoveSecondContent (distance));
+			theOtherButton.interactable = true;
+
+		}
+		if (counter == 0) {
+			GetComponent<Button>().interactable = false;
 		}
 	}
 
@@ -140,8 +152,9 @@ public class SlideTraveller : MonoBehaviour {
 
 		//If content position is (almost) equal to the new position, stop moving
 		if (Math.Abs (content.transform.position.x - newPosition.x) <= 1) {
-			keepMoving = false;
+			//keepMoving_1 = false;
 		}
+
 	}
 	
 }

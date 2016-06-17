@@ -1,15 +1,9 @@
 fileFormatVersion: 2
 guid: 3ac8493fc2a84c54bb635a6a7a5759e7
-timeCreated: 1463731379
+timeCreated: 1466064418
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: menu_spritesheet_0
-    21300002: menu_spritesheet_1
-    21300004: menu_spritesheet_2
-    21300006: menu_spritesheet_3
-    21300008: menu_spritesheet_4
-    21300010: menu_spritesheet_5
+  fileIDToRecycleName: {}
   serializedVersion: 2
   mipmaps:
     mipMapMode: 0
@@ -44,152 +38,18 @@ TextureImporter:
   rGBM: 0
   compressionQuality: 50
   allowsAlphaSplitting: 0
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteBorder: {x: 0, y: 117, z: 55, w: 0}
   spritePixelsToUnits: 100
   alphaIsTransparency: 1
   textureType: 8
   buildTargetSettings: []
   spriteSheet:
-    sprites:
-    - name: menu_spritesheet_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 109.33333
-        width: 54.5
-        height: 54.666668
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -21.5, y: -6.1666718}
-        - {x: -23.5, y: -8.166672}
-        - {x: -23.5, y: -13.166672}
-        - {x: -21.5, y: -15.166672}
-        - {x: 22.5, y: -15.166672}
-        - {x: 22.5, y: -6.1666718}
-      - - {x: -23.5, y: 5.8333282}
-        - {x: -23.5, y: -1.1666718}
-        - {x: -21.5, y: -3.1666718}
-        - {x: 22.5, y: -3.1666718}
-        - {x: 22.5, y: 5.8333282}
-      - - {x: -23.5, y: 17.833328}
-        - {x: -23.5, y: 8.833328}
-        - {x: 22.5, y: 8.833328}
-        - {x: 22.5, y: 17.833328}
-    - name: menu_spritesheet_1
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 109.33333
-        width: 54.5
-        height: 54.666668
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -14.5, y: 24.833328}
-        - {x: -20.5, y: 24.833328}
-        - {x: -27.5, y: 17.833328}
-        - {x: -27.5, y: -21.166672}
-        - {x: -6.5, y: -21.166672}
-        - {x: 20.5, y: -9.166672}
-        - {x: 22.5, y: -3.1666718}
-        - {x: 22.5, y: 7.8333282}
-    - name: menu_spritesheet_2
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 55.333332
-        width: 54.5
-        height: 54.666668
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -27.5, y: 22.833332}
-        - {x: -27.5, y: -19.166668}
-        - {x: -25.5, y: -21.166668}
-        - {x: -6.5, y: -21.166668}
-        - {x: 22.5, y: -12.166668}
-        - {x: 22.5, y: 11.833332}
-        - {x: -9.5, y: 22.833332}
-    - name: menu_spritesheet_3
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 55.333332
-        width: 54.5
-        height: 54.666668
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 20.5, y: 10.833332}
-        - {x: 16.5, y: 18.833332}
-        - {x: -8.5, y: 25.833332}
-        - {x: -13.5, y: 25.833332}
-        - {x: -19.5, y: 21.833332}
-        - {x: -19.5, y: 18.833332}
-        - {x: -13.5, y: 9.833332}
-        - {x: -19.5, y: -18.166668}
-        - {x: -16.5, y: -24.166668}
-        - {x: -8.5, y: -24.166668}
-        - {x: 17.5, y: -15.166668}
-        - {x: 20.5, y: -7.166668}
-      - - {x: -27.5, y: 4.833332}
-        - {x: -27.5, y: -4.166668}
-        - {x: -12.5, y: -4.166668}
-        - {x: -12.5, y: 4.833332}
-    - name: menu_spritesheet_4
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 1.3333321
-        width: 54.5
-        height: 54.666668
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: 11.5, y: 19.833332}
-        - {x: 6.5, y: 14.833332}
-        - {x: -9.5, y: 21.833332}
-        - {x: -19.5, y: 21.833332}
-        - {x: -20.5, y: 20.833332}
-        - {x: -20.5, y: -21.166668}
-        - {x: 7.5, y: -21.166668}
-        - {x: 19.5, y: -16.166668}
-        - {x: 19.5, y: 12.833332}
-        - {x: 14.5, y: 19.833332}
-      - - {x: -27.5, y: 3.833332}
-        - {x: -27.5, y: -5.166668}
-        - {x: -19.5, y: -5.166668}
-        - {x: -17.5, y: -3.166668}
-        - {x: -17.5, y: 1.8333321}
-        - {x: -19.5, y: 3.833332}
-    - name: menu_spritesheet_5
-      rect:
-        serializedVersion: 2
-        x: 54
-        y: 1.3333321
-        width: 54.5
-        height: 54.666668
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline:
-      - - {x: -13.5, y: 18.833332}
-        - {x: -19.5, y: 14.833332}
-        - {x: -19.5, y: -21.166668}
-        - {x: 20.5, y: -21.166668}
-        - {x: 20.5, y: 12.833332}
-        - {x: 18.5, y: 18.833332}
+    sprites: []
     outline: []
   spritePackingTag: 
   userData: 

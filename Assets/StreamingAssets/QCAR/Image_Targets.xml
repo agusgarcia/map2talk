@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="carte_2" size="50.000000 37.500000" />
-    <ImageTarget name="london_map" size="50.000000 36.083984" />
+    <ImageTarget name="palace" size="100.000000 50.108932" />
+    <ImageTarget name="piscine" size="100.000000 135.611511" />
+    <ImageTarget name="bateau" size="100.000000 49.406780" />
+    <ImageTarget name="montgolfiere" size="100.000000 165.476196" />
+    <ImageTarget name="balancoire" size="100.000000 159.420288" />
   </Tracking>
 </QCARConfig>

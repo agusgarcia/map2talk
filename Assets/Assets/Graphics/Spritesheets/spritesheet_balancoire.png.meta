@@ -1,0 +1,6192 @@
+fileFormatVersion: 2
+guid: 491bec677a274ad428fe3c0e018360b7
+timeCreated: 1465997807
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheet_balancoire_0
+    21300002: spritesheet_balancoire_1
+    21300004: spritesheet_balancoire_2
+    21300006: spritesheet_balancoire_3
+    21300008: spritesheet_balancoire_4
+    21300010: spritesheet_balancoire_5
+    21300012: spritesheet_balancoire_6
+    21300014: spritesheet_balancoire_7
+    21300016: spritesheet_balancoire_8
+    21300018: spritesheet_balancoire_9
+    21300020: spritesheet_balancoire_10
+    21300022: spritesheet_balancoire_11
+    21300024: spritesheet_balancoire_12
+    21300026: spritesheet_balancoire_13
+    21300028: spritesheet_balancoire_14
+    21300030: spritesheet_balancoire_15
+    21300032: spritesheet_balancoire_16
+    21300034: spritesheet_balancoire_17
+    21300036: spritesheet_balancoire_18
+    21300038: spritesheet_balancoire_19
+    21300040: spritesheet_balancoire_20
+    21300042: spritesheet_balancoire_21
+    21300044: spritesheet_balancoire_22
+    21300046: spritesheet_balancoire_23
+    21300048: spritesheet_balancoire_24
+    21300050: spritesheet_balancoire_25
+    21300052: spritesheet_balancoire_26
+    21300054: spritesheet_balancoire_27
+    21300056: spritesheet_balancoire_28
+    21300058: spritesheet_balancoire_29
+    21300060: spritesheet_balancoire_30
+    21300062: spritesheet_balancoire_31
+    21300064: spritesheet_balancoire_32
+    21300066: spritesheet_balancoire_33
+    21300068: spritesheet_balancoire_34
+    21300070: spritesheet_balancoire_35
+    21300072: spritesheet_balancoire_36
+    21300074: spritesheet_balancoire_37
+    21300076: spritesheet_balancoire_38
+    21300078: spritesheet_balancoire_39
+    21300080: spritesheet_balancoire_40
+    21300082: spritesheet_balancoire_41
+    21300084: spritesheet_balancoire_42
+    21300086: spritesheet_balancoire_43
+    21300088: spritesheet_balancoire_44
+    21300090: spritesheet_balancoire_45
+    21300092: spritesheet_balancoire_46
+    21300094: spritesheet_balancoire_47
+    21300096: spritesheet_balancoire_48
+    21300098: spritesheet_balancoire_49
+    21300100: spritesheet_balancoire_50
+    21300102: spritesheet_balancoire_51
+    21300104: spritesheet_balancoire_52
+    21300106: spritesheet_balancoire_53
+    21300108: spritesheet_balancoire_54
+    21300110: spritesheet_balancoire_55
+    21300112: spritesheet_balancoire_56
+    21300114: spritesheet_balancoire_57
+    21300116: spritesheet_balancoire_58
+    21300118: spritesheet_balancoire_59
+    21300120: spritesheet_balancoire_60
+    21300122: spritesheet_balancoire_61
+    21300124: spritesheet_balancoire_62
+    21300126: spritesheet_balancoire_63
+    21300128: spritesheet_balancoire_64
+    21300130: spritesheet_balancoire_65
+    21300132: spritesheet_balancoire_66
+    21300134: spritesheet_balancoire_67
+    21300136: spritesheet_balancoire_68
+    21300138: spritesheet_balancoire_69
+    21300140: spritesheet_balancoire_70
+    21300142: spritesheet_balancoire_71
+    21300144: spritesheet_balancoire_72
+    21300146: spritesheet_balancoire_73
+    21300148: spritesheet_balancoire_74
+    21300150: spritesheet_balancoire_75
+    21300152: spritesheet_balancoire_76
+    21300154: spritesheet_balancoire_77
+    21300156: spritesheet_balancoire_78
+    21300158: spritesheet_balancoire_79
+    21300160: spritesheet_balancoire_80
+    21300162: spritesheet_balancoire_81
+    21300164: spritesheet_balancoire_82
+    21300166: spritesheet_balancoire_83
+    21300168: spritesheet_balancoire_84
+    21300170: spritesheet_balancoire_85
+    21300172: spritesheet_balancoire_86
+    21300174: spritesheet_balancoire_87
+    21300176: spritesheet_balancoire_88
+    21300178: spritesheet_balancoire_89
+    21300180: spritesheet_balancoire_90
+    21300182: spritesheet_balancoire_91
+    21300184: spritesheet_balancoire_92
+    21300186: spritesheet_balancoire_93
+    21300188: spritesheet_balancoire_94
+    21300190: spritesheet_balancoire_95
+    21300192: spritesheet_balancoire_96
+    21300194: spritesheet_balancoire_97
+    21300196: spritesheet_balancoire_98
+    21300198: spritesheet_balancoire_99
+    21300200: spritesheet_balancoire_100
+    21300202: spritesheet_balancoire_101
+    21300204: spritesheet_balancoire_102
+    21300206: spritesheet_balancoire_103
+    21300208: spritesheet_balancoire_104
+    21300210: spritesheet_balancoire_105
+    21300212: spritesheet_balancoire_106
+    21300214: spritesheet_balancoire_107
+    21300216: spritesheet_balancoire_108
+    21300218: spritesheet_balancoire_109
+    21300220: spritesheet_balancoire_110
+    21300222: spritesheet_balancoire_111
+    21300224: spritesheet_balancoire_112
+    21300226: spritesheet_balancoire_113
+    21300228: spritesheet_balancoire_114
+    21300230: spritesheet_balancoire_115
+    21300232: spritesheet_balancoire_116
+    21300234: spritesheet_balancoire_117
+    21300236: spritesheet_balancoire_118
+    21300238: spritesheet_balancoire_119
+    21300240: spritesheet_balancoire_120
+    21300242: spritesheet_balancoire_121
+    21300244: spritesheet_balancoire_122
+    21300246: spritesheet_balancoire_123
+    21300248: spritesheet_balancoire_124
+    21300250: spritesheet_balancoire_125
+    21300252: spritesheet_balancoire_126
+    21300254: spritesheet_balancoire_127
+    21300256: spritesheet_balancoire_128
+    21300258: spritesheet_balancoire_129
+    21300260: spritesheet_balancoire_130
+    21300262: spritesheet_balancoire_131
+    21300264: spritesheet_balancoire_132
+    21300266: spritesheet_balancoire_133
+    21300268: spritesheet_balancoire_134
+    21300270: spritesheet_balancoire_135
+    21300272: spritesheet_balancoire_136
+    21300274: spritesheet_balancoire_137
+    21300276: spritesheet_balancoire_138
+    21300278: spritesheet_balancoire_139
+    21300280: spritesheet_balancoire_140
+    21300282: spritesheet_balancoire_141
+    21300284: spritesheet_balancoire_142
+    21300286: spritesheet_balancoire_143
+    21300288: spritesheet_balancoire_144
+    21300290: spritesheet_balancoire_145
+    21300292: spritesheet_balancoire_146
+    21300294: spritesheet_balancoire_147
+    21300296: spritesheet_balancoire_148
+    21300298: spritesheet_balancoire_149
+    21300300: spritesheet_balancoire_150
+    21300302: spritesheet_balancoire_151
+    21300304: spritesheet_balancoire_152
+    21300306: spritesheet_balancoire_153
+    21300308: spritesheet_balancoire_154
+    21300310: spritesheet_balancoire_155
+    21300312: spritesheet_balancoire_156
+    21300314: spritesheet_balancoire_157
+    21300316: spritesheet_balancoire_158
+    21300318: spritesheet_balancoire_159
+    21300320: spritesheet_balancoire_160
+    21300322: spritesheet_balancoire_161
+    21300324: spritesheet_balancoire_162
+    21300326: spritesheet_balancoire_163
+    21300328: spritesheet_balancoire_164
+    21300330: spritesheet_balancoire_165
+    21300332: spritesheet_balancoire_166
+    21300334: spritesheet_balancoire_167
+    21300336: spritesheet_balancoire_168
+    21300338: spritesheet_balancoire_169
+    21300340: spritesheet_balancoire_170
+    21300342: spritesheet_balancoire_171
+    21300344: spritesheet_balancoire_172
+    21300346: spritesheet_balancoire_173
+    21300348: spritesheet_balancoire_174
+    21300350: spritesheet_balancoire_175
+    21300352: spritesheet_balancoire_176
+    21300354: spritesheet_balancoire_177
+    21300356: spritesheet_balancoire_178
+    21300358: spritesheet_balancoire_179
+    21300360: spritesheet_balancoire_180
+    21300362: spritesheet_balancoire_181
+    21300364: spritesheet_balancoire_182
+    21300366: spritesheet_balancoire_183
+    21300368: spritesheet_balancoire_184
+    21300370: spritesheet_balancoire_185
+    21300372: spritesheet_balancoire_186
+    21300374: spritesheet_balancoire_187
+    21300376: spritesheet_balancoire_188
+    21300378: spritesheet_balancoire_189
+    21300380: spritesheet_balancoire_190
+    21300382: spritesheet_balancoire_191
+    21300384: spritesheet_balancoire_192
+    21300386: spritesheet_balancoire_193
+    21300388: spritesheet_balancoire_194
+    21300390: spritesheet_balancoire_195
+    21300392: spritesheet_balancoire_196
+    21300394: spritesheet_balancoire_197
+    21300396: spritesheet_balancoire_198
+    21300398: spritesheet_balancoire_199
+    21300400: spritesheet_balancoire_200
+    21300402: spritesheet_balancoire_201
+    21300404: spritesheet_balancoire_202
+    21300406: spritesheet_balancoire_203
+    21300408: spritesheet_balancoire_204
+    21300410: spritesheet_balancoire_205
+    21300412: spritesheet_balancoire_206
+    21300414: spritesheet_balancoire_207
+    21300416: spritesheet_balancoire_208
+    21300418: spritesheet_balancoire_209
+    21300420: spritesheet_balancoire_210
+    21300422: spritesheet_balancoire_211
+    21300424: spritesheet_balancoire_212
+    21300426: spritesheet_balancoire_213
+    21300428: spritesheet_balancoire_214
+    21300430: spritesheet_balancoire_215
+    21300432: spritesheet_balancoire_216
+    21300434: spritesheet_balancoire_217
+    21300436: spritesheet_balancoire_218
+    21300438: spritesheet_balancoire_219
+    21300440: spritesheet_balancoire_220
+    21300442: spritesheet_balancoire_221
+    21300444: spritesheet_balancoire_222
+    21300446: spritesheet_balancoire_223
+    21300448: spritesheet_balancoire_224
+    21300450: spritesheet_balancoire_225
+    21300452: spritesheet_balancoire_226
+    21300454: spritesheet_balancoire_227
+    21300456: spritesheet_balancoire_228
+    21300458: spritesheet_balancoire_229
+    21300460: spritesheet_balancoire_230
+    21300462: spritesheet_balancoire_231
+    21300464: spritesheet_balancoire_232
+    21300466: spritesheet_balancoire_233
+    21300468: spritesheet_balancoire_234
+    21300470: spritesheet_balancoire_235
+    21300472: spritesheet_balancoire_236
+    21300474: spritesheet_balancoire_237
+    21300476: spritesheet_balancoire_238
+    21300478: spritesheet_balancoire_239
+    21300480: spritesheet_balancoire_240
+    21300482: spritesheet_balancoire_241
+    21300484: spritesheet_balancoire_242
+    21300486: spritesheet_balancoire_243
+    21300488: spritesheet_balancoire_244
+    21300490: spritesheet_balancoire_245
+    21300492: spritesheet_balancoire_246
+    21300494: spritesheet_balancoire_247
+    21300496: spritesheet_balancoire_248
+    21300498: spritesheet_balancoire_249
+    21300500: spritesheet_balancoire_250
+    21300502: spritesheet_balancoire_251
+    21300504: spritesheet_balancoire_252
+    21300506: spritesheet_balancoire_253
+    21300508: spritesheet_balancoire_254
+    21300510: spritesheet_balancoire_255
+    21300512: spritesheet_balancoire_256
+    21300514: spritesheet_balancoire_257
+    21300516: spritesheet_balancoire_258
+    21300518: spritesheet_balancoire_259
+    21300520: spritesheet_balancoire_260
+    21300522: spritesheet_balancoire_261
+    21300524: spritesheet_balancoire_262
+    21300526: spritesheet_balancoire_263
+    21300528: spritesheet_balancoire_264
+    21300530: spritesheet_balancoire_265
+    21300532: spritesheet_balancoire_266
+    21300534: spritesheet_balancoire_267
+    21300536: spritesheet_balancoire_268
+    21300538: spritesheet_balancoire_269
+    21300540: spritesheet_balancoire_270
+    21300542: spritesheet_balancoire_271
+    21300544: spritesheet_balancoire_272
+    21300546: spritesheet_balancoire_273
+    21300548: spritesheet_balancoire_274
+    21300550: spritesheet_balancoire_275
+    21300552: spritesheet_balancoire_276
+    21300554: spritesheet_balancoire_277
+    21300556: spritesheet_balancoire_278
+    21300558: spritesheet_balancoire_279
+    21300560: spritesheet_balancoire_280
+    21300562: spritesheet_balancoire_281
+    21300564: spritesheet_balancoire_282
+    21300566: spritesheet_balancoire_283
+    21300568: spritesheet_balancoire_284
+    21300570: spritesheet_balancoire_285
+    21300572: spritesheet_balancoire_286
+    21300574: spritesheet_balancoire_287
+    21300576: spritesheet_balancoire_288
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritesheet_balancoire_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 36.029297}
+        - {x: -27.5, y: 36.029297}
+        - {x: -44.5, y: 5.029297}
+        - {x: -44.5, y: -38.970703}
+        - {x: -37.5, y: -47.970703}
+        - {x: -12.5, y: -47.970703}
+        - {x: -6.5, y: -42.970703}
+        - {x: 2.5, y: 4.029297}
+        - {x: 2.5, y: 33.029297}
+    - name: spritesheet_balancoire_1
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 6400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.029419, y: 36.029297}
+        - {x: -43.02942, y: 7.029297}
+        - {x: -43.02942, y: -32.970703}
+        - {x: -39.02942, y: -47.970703}
+        - {x: -7.029419, y: -47.970703}
+        - {x: 3.970581, y: 1.0292969}
+        - {x: 3.970581, y: 30.029297}
+        - {x: -13.029419, y: 36.029297}
+    - name: spritesheet_balancoire_2
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 6400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.058838, y: 36.029297}
+        - {x: -43.058838, y: 10.029297}
+        - {x: -43.058838, y: -37.970703}
+        - {x: -34.058838, y: -47.970703}
+        - {x: -13.058838, y: -47.970703}
+        - {x: -4.058838, y: -41.970703}
+        - {x: 3.941162, y: -0.9707031}
+        - {x: 3.941162, y: 35.029297}
+        - {x: 1.9411621, y: 36.029297}
+    - name: spritesheet_balancoire_3
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 6400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.088257, y: 36.029297}
+        - {x: -43.088257, y: 4.029297}
+        - {x: -43.088257, y: -32.970703}
+        - {x: -36.088257, y: -46.970703}
+        - {x: -30.088257, y: -47.970703}
+        - {x: -22.088257, y: -47.970703}
+        - {x: -4.088257, y: -42.970703}
+        - {x: 3.9117432, y: 14.029297}
+        - {x: 3.9117432, y: 33.029297}
+        - {x: -9.088257, y: 36.029297}
+    - name: spritesheet_balancoire_4
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 6400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.117676, y: 36.029297}
+        - {x: -28.117676, y: 36.029297}
+        - {x: -43.117676, y: 11.029297}
+        - {x: -43.117676, y: -43.970703}
+        - {x: -35.117676, y: -47.970703}
+        - {x: -10.117676, y: -47.970703}
+        - {x: -6.117676, y: -41.970703}
+        - {x: 3.8823242, y: 15.029297}
+        - {x: 3.8823242, y: 31.029297}
+    - name: spritesheet_balancoire_5
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.1470947, y: 36.029297}
+        - {x: -31.147095, y: 36.029297}
+        - {x: -43.147095, y: 14.029297}
+        - {x: -43.147095, y: -36.970703}
+        - {x: -42.147095, y: -41.970703}
+        - {x: -32.147095, y: -47.970703}
+        - {x: -17.147095, y: -47.970703}
+        - {x: -6.1470947, y: -41.970703}
+        - {x: 2.8529053, y: 7.029297}
+        - {x: 2.8529053, y: 30.029297}
+        - {x: 1.8529053, y: 33.029297}
+    - name: spritesheet_balancoire_6
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 6400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.176514, y: 36.029297}
+        - {x: -43.176514, y: 14.029297}
+        - {x: -43.176514, y: -47.970703}
+        - {x: -5.1765137, y: -47.970703}
+        - {x: 3.8234863, y: -0.9707031}
+        - {x: 3.8234863, y: 36.029297}
+    - name: spritesheet_balancoire_7
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 6400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.20593262, y: 36.029297}
+        - {x: -31.205933, y: 36.029297}
+        - {x: -43.205933, y: 20.029297}
+        - {x: -43.205933, y: -39.970703}
+        - {x: -42.205933, y: -41.970703}
+        - {x: -32.205933, y: -47.970703}
+        - {x: -8.205933, y: -47.970703}
+        - {x: -1.2059326, y: -23.970703}
+        - {x: 2.7940674, y: 5.029297}
+        - {x: 2.7940674, y: 34.029297}
+    - name: spritesheet_balancoire_8
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 6400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.235352, y: 36.029297}
+        - {x: -43.23535, y: 24.029297}
+        - {x: -43.23535, y: -47.970703}
+        - {x: -20.235352, y: -47.970703}
+        - {x: -5.2353516, y: -41.970703}
+        - {x: 3.7646484, y: 6.029297}
+        - {x: 3.7646484, y: 30.029297}
+        - {x: -14.235352, y: 36.029297}
+    - name: spritesheet_balancoire_9
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 6400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.7352295, y: 33.029297}
+        - {x: -14.2647705, y: 36.029297}
+        - {x: -26.26477, y: 36.029297}
+        - {x: -32.26477, y: 25.029297}
+        - {x: -43.26477, y: 0.029296875}
+        - {x: -44.26477, y: -3.9707031}
+        - {x: -44.26477, y: -26.970703}
+        - {x: -39.26477, y: -45.970703}
+        - {x: -33.26477, y: -47.970703}
+        - {x: -18.26477, y: -47.970703}
+        - {x: -6.2647705, y: -41.970703}
+        - {x: 2.7352295, y: 8.029297}
+        - {x: 2.7352295, y: 29.029297}
+    - name: spritesheet_balancoire_10
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.2941895, y: 36.029297}
+        - {x: -28.29419, y: 36.029297}
+        - {x: -43.29419, y: 7.029297}
+        - {x: -43.29419, y: -34.970703}
+        - {x: -38.29419, y: -47.970703}
+        - {x: -19.29419, y: -47.970703}
+        - {x: -5.2941895, y: -41.970703}
+        - {x: 3.7058105, y: 2.0292969}
+        - {x: 3.7058105, y: 30.029297}
+        - {x: 2.7058105, y: 34.029297}
+    - name: spritesheet_balancoire_11
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 6400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.323608, y: 36.029297}
+        - {x: -44.32361, y: 17.029297}
+        - {x: -44.32361, y: -34.970703}
+        - {x: -41.32361, y: -47.970703}
+        - {x: -8.323608, y: -47.970703}
+        - {x: -5.3236084, y: -41.970703}
+        - {x: 2.6763916, y: 9.029297}
+        - {x: 2.6763916, y: 36.029297}
+    - name: spritesheet_balancoire_12
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 6400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.353027, y: 36.029297}
+        - {x: -43.353027, y: 21.029297}
+        - {x: -43.353027, y: -47.970703}
+        - {x: -7.3530273, y: -47.970703}
+        - {x: 3.6469727, y: -3.9707031}
+        - {x: 3.6469727, y: 32.029297}
+        - {x: -15.353027, y: 36.029297}
+    - name: spritesheet_balancoire_13
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 6400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.382446, y: 36.029297}
+        - {x: -44.382446, y: 6.029297}
+        - {x: -44.382446, y: -38.970703}
+        - {x: -37.382446, y: -47.970703}
+        - {x: -8.382446, y: -47.970703}
+        - {x: -2.3824463, y: -43.970703}
+        - {x: 2.6175537, y: 10.029297}
+        - {x: 2.6175537, y: 36.029297}
+    - name: spritesheet_balancoire_14
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 6400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.411865, y: 36.029297}
+        - {x: -43.411865, y: 15.029297}
+        - {x: -43.411865, y: -42.970703}
+        - {x: -30.411865, y: -47.970703}
+        - {x: -20.411865, y: -47.970703}
+        - {x: -5.411865, y: -41.970703}
+        - {x: 3.5881348, y: 5.029297}
+        - {x: 3.5881348, y: 31.029297}
+        - {x: -4.411865, y: 36.029297}
+    - name: spritesheet_balancoire_15
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.441284, y: 36.029297}
+        - {x: -25.441284, y: 36.029297}
+        - {x: -32.441284, y: 30.029297}
+        - {x: -44.441284, y: 10.029297}
+        - {x: -44.441284, y: -45.970703}
+        - {x: -39.441284, y: -47.970703}
+        - {x: -18.441284, y: -47.970703}
+        - {x: -6.441284, y: -41.970703}
+        - {x: 2.5587158, y: 5.029297}
+        - {x: 2.5587158, y: 33.029297}
+    - name: spritesheet_balancoire_16
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 6400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.970703, y: 36.029297}
+        - {x: -27.970703, y: 36.029297}
+        - {x: -42.970703, y: 2.0292969}
+        - {x: -42.970703, y: -28.970703}
+        - {x: -40.970703, y: -39.970703}
+        - {x: -36.970703, y: -47.970703}
+        - {x: -6.970703, y: -47.970703}
+        - {x: 4.029297, y: 0.029296875}
+        - {x: 4.029297, y: 30.029297}
+        - {x: 2.0292969, y: 32.029297}
+    - name: spritesheet_balancoire_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 34.558716}
+        - {x: -30.5, y: 27.558716}
+        - {x: -40.5, y: 10.558716}
+        - {x: -44.5, y: -5.441284}
+        - {x: -44.5, y: -30.441284}
+        - {x: -41.5, y: -42.441284}
+        - {x: -34.5, y: -48.441284}
+        - {x: -20.5, y: -48.441284}
+        - {x: -5.5, y: -43.441284}
+        - {x: 2.5, y: 8.558716}
+        - {x: 2.5, y: 30.558716}
+        - {x: -11.5, y: 34.558716}
+    - name: spritesheet_balancoire_18
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 6000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.029419, y: 34.558716}
+        - {x: -43.02942, y: 6.558716}
+        - {x: -43.02942, y: -37.441284}
+        - {x: -42.02942, y: -42.441284}
+        - {x: -35.02942, y: -48.441284}
+        - {x: -15.029419, y: -48.441284}
+        - {x: -4.029419, y: -43.441284}
+        - {x: 3.970581, y: -14.441284}
+        - {x: 3.970581, y: 31.558716}
+        - {x: -0.029418945, y: 34.558716}
+    - name: spritesheet_balancoire_19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 6000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.058838, y: 34.558716}
+        - {x: -29.058838, y: 34.558716}
+        - {x: -43.058838, y: 10.558716}
+        - {x: -43.058838, y: -46.441284}
+        - {x: -36.058838, y: -48.441284}
+        - {x: -8.058838, y: -48.441284}
+        - {x: 3.941162, y: 2.5587158}
+        - {x: 3.941162, y: 33.558716}
+    - name: spritesheet_balancoire_20
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 6000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.088257, y: 34.558716}
+        - {x: -43.088257, y: 0.5587158}
+        - {x: -43.088257, y: -40.441284}
+        - {x: -35.088257, y: -48.441284}
+        - {x: -15.088257, y: -48.441284}
+        - {x: -3.0882568, y: -43.441284}
+        - {x: 2.9117432, y: -1.4412842}
+        - {x: 2.9117432, y: 31.558716}
+        - {x: -5.088257, y: 34.558716}
+    - name: spritesheet_balancoire_21
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 6000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.117676, y: 34.558716}
+        - {x: -29.117676, y: 34.558716}
+        - {x: -43.117676, y: 13.558716}
+        - {x: -43.117676, y: -45.441284}
+        - {x: -34.117676, y: -48.441284}
+        - {x: -19.117676, y: -48.441284}
+        - {x: -10.117676, y: -46.441284}
+        - {x: -7.117676, y: -41.441284}
+        - {x: 3.8823242, y: 14.558716}
+        - {x: 3.8823242, y: 29.558716}
+    - name: spritesheet_balancoire_22
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 6000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.147095, y: 34.558716}
+        - {x: -43.147095, y: 5.558716}
+        - {x: -43.147095, y: -44.441284}
+        - {x: -33.147095, y: -48.441284}
+        - {x: -19.147095, y: -48.441284}
+        - {x: -1.1470947, y: -45.441284}
+        - {x: 2.8529053, y: -1.4412842}
+        - {x: 2.8529053, y: 34.558716}
+    - name: spritesheet_balancoire_23
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 6000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.176514, y: 34.558716}
+        - {x: -43.176514, y: 6.558716}
+        - {x: -43.176514, y: -36.441284}
+        - {x: -36.176514, y: -48.441284}
+        - {x: -12.176514, y: -48.441284}
+        - {x: -2.1765137, y: -43.441284}
+        - {x: 3.8234863, y: -1.4412842}
+        - {x: 3.8234863, y: 30.558716}
+        - {x: -8.176514, y: 34.558716}
+    - name: spritesheet_balancoire_24
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 6000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.205933, y: 34.558716}
+        - {x: -27.205933, y: 34.558716}
+        - {x: -43.205933, y: 2.5587158}
+        - {x: -43.205933, y: -36.441284}
+        - {x: -42.205933, y: -43.441284}
+        - {x: -33.205933, y: -48.441284}
+        - {x: -9.205933, y: -48.441284}
+        - {x: 2.7940674, y: -5.441284}
+        - {x: 2.7940674, y: 32.558716}
+    - name: spritesheet_balancoire_25
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 6000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.235352, y: 34.558716}
+        - {x: -43.23535, y: 11.558716}
+        - {x: -43.23535, y: -45.441284}
+        - {x: -33.23535, y: -48.441284}
+        - {x: -18.235352, y: -48.441284}
+        - {x: 3.7646484, y: -45.441284}
+        - {x: 3.7646484, y: 34.558716}
+    - name: spritesheet_balancoire_26
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 6000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.26477, y: 34.558716}
+        - {x: -26.26477, y: 34.558716}
+        - {x: -44.26477, y: 7.558716}
+        - {x: -44.26477, y: -45.441284}
+        - {x: -38.26477, y: -48.441284}
+        - {x: -20.26477, y: -48.441284}
+        - {x: -5.2647705, y: -43.441284}
+        - {x: 2.7352295, y: 7.558716}
+        - {x: 2.7352295, y: 32.558716}
+    - name: spritesheet_balancoire_27
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 6000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.29419, y: 34.558716}
+        - {x: -24.29419, y: 34.558716}
+        - {x: -43.29419, y: 10.558716}
+        - {x: -43.29419, y: -43.441284}
+        - {x: -37.29419, y: -48.441284}
+        - {x: -14.294189, y: -48.441284}
+        - {x: -2.2941895, y: -43.441284}
+        - {x: 3.7058105, y: 2.5587158}
+        - {x: 3.7058105, y: 29.558716}
+        - {x: 1.7058105, y: 29.558716}
+    - name: spritesheet_balancoire_28
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 6000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.6763916, y: 30.558716}
+        - {x: -16.323608, y: 34.558716}
+        - {x: -28.323608, y: 34.558716}
+        - {x: -44.32361, y: 7.558716}
+        - {x: -44.32361, y: -48.441284}
+        - {x: -8.323608, y: -48.441284}
+        - {x: -7.3236084, y: -42.441284}
+        - {x: 2.6763916, y: 16.558716}
+        - {x: 2.6763916, y: 27.558716}
+    - name: spritesheet_balancoire_29
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 6000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.6469727, y: 29.558716}
+        - {x: -6.3530273, y: 34.558716}
+        - {x: -33.353027, y: 34.558716}
+        - {x: -43.353027, y: 8.558716}
+        - {x: -43.353027, y: -40.441284}
+        - {x: -37.353027, y: -48.441284}
+        - {x: -21.353027, y: -48.441284}
+        - {x: -11.353027, y: -45.441284}
+        - {x: -6.3530273, y: -42.441284}
+        - {x: 3.6469727, y: 11.558716}
+    - name: spritesheet_balancoire_30
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 6000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.382446, y: 34.558716}
+        - {x: -28.382446, y: 34.558716}
+        - {x: -44.382446, y: 8.558716}
+        - {x: -44.382446, y: -47.441284}
+        - {x: -40.382446, y: -48.441284}
+        - {x: -6.3824463, y: -48.441284}
+        - {x: 2.6175537, y: -12.441284}
+        - {x: 2.6175537, y: 30.558716}
+        - {x: 1.6175537, y: 31.558716}
+    - name: spritesheet_balancoire_31
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 6000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.411865, y: 34.558716}
+        - {x: -27.411865, y: 34.558716}
+        - {x: -43.411865, y: 13.558716}
+        - {x: -43.411865, y: -40.441284}
+        - {x: -42.411865, y: -48.441284}
+        - {x: -17.411865, y: -48.441284}
+        - {x: -5.411865, y: -42.441284}
+        - {x: 3.5881348, y: 6.558716}
+        - {x: 3.5881348, y: 29.558716}
+    - name: spritesheet_balancoire_32
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 6000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.441284, y: 34.558716}
+        - {x: -25.441284, y: 34.558716}
+        - {x: -34.441284, y: 29.558716}
+        - {x: -44.441284, y: 0.5587158}
+        - {x: -44.441284, y: -36.441284}
+        - {x: -37.441284, y: -48.441284}
+        - {x: -9.441284, y: -48.441284}
+        - {x: 0.5587158, y: -29.441284}
+        - {x: 2.5587158, y: -8.441284}
+        - {x: 2.5587158, y: 31.558716}
+    - name: spritesheet_balancoire_33
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 6000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.0292969, y: 31.558716}
+        - {x: -7.970703, y: 34.558716}
+        - {x: -28.970703, y: 34.558716}
+        - {x: -42.970703, y: 4.558716}
+        - {x: -42.970703, y: -23.441284}
+        - {x: -41.970703, y: -42.441284}
+        - {x: -32.970703, y: -48.441284}
+        - {x: -11.970703, y: -48.441284}
+        - {x: -2.9707031, y: -42.441284}
+        - {x: 4.029297, y: -3.4412842}
+        - {x: 4.029297, y: 28.558716}
+    - name: spritesheet_balancoire_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.5, y: 35.588135}
+        - {x: -27.5, y: 35.588135}
+        - {x: -44.5, y: 7.588135}
+        - {x: -44.5, y: -36.411865}
+        - {x: -43.5, y: -44.411865}
+        - {x: -39.5, y: -48.411865}
+        - {x: -12.5, y: -48.411865}
+        - {x: 2.5, y: -34.411865}
+        - {x: 2.5, y: 29.588135}
+        - {x: 1.5, y: 30.588135}
+    - name: spritesheet_balancoire_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 5600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.02942, y: 35.588135}
+        - {x: -43.02942, y: 27.588135}
+        - {x: -43.02942, y: -40.411865}
+        - {x: -37.02942, y: -48.411865}
+        - {x: -3.029419, y: -48.411865}
+        - {x: -1.029419, y: -46.411865}
+        - {x: 3.970581, y: -13.411865}
+        - {x: 3.970581, y: 35.588135}
+    - name: spritesheet_balancoire_36
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 5600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.058838, y: 35.588135}
+        - {x: -43.058838, y: 17.588135}
+        - {x: -43.058838, y: -38.411865}
+        - {x: -37.058838, y: -48.411865}
+        - {x: -10.058838, y: -48.411865}
+        - {x: -9.058838, y: -47.411865}
+        - {x: 3.941162, y: -30.411865}
+        - {x: 3.941162, y: 35.588135}
+    - name: spritesheet_balancoire_37
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.088257, y: 35.588135}
+        - {x: -26.088257, y: 35.588135}
+        - {x: -43.088257, y: 5.588135}
+        - {x: -43.088257, y: -39.411865}
+        - {x: -37.088257, y: -48.411865}
+        - {x: -3.0882568, y: -48.411865}
+        - {x: 3.9117432, y: -42.411865}
+        - {x: 3.9117432, y: 23.588135}
+        - {x: 2.9117432, y: 28.588135}
+        - {x: 0.91174316, y: 31.588135}
+    - name: spritesheet_balancoire_38
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 5600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.882324, y: 28.588135}
+        - {x: 1.8823242, y: 31.588135}
+        - {x: -12.117676, y: 35.588135}
+        - {x: -27.117676, y: 35.588135}
+        - {x: -43.117676, y: 8.588135}
+        - {x: -43.117676, y: -28.411865}
+        - {x: -41.117676, y: -43.411865}
+        - {x: -30.117676, y: -48.411865}
+        - {x: -8.117676, y: -48.411865}
+        - {x: 5.882324, y: -29.411865}
+        - {x: 5.882324, y: -4.411865}
+    - name: spritesheet_balancoire_39
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.147095, y: 35.588135}
+        - {x: -43.147095, y: 14.588135}
+        - {x: -43.147095, y: -44.411865}
+        - {x: -42.147095, y: -48.411865}
+        - {x: -10.147095, y: -48.411865}
+        - {x: 6.8529053, y: -35.411865}
+        - {x: 6.8529053, y: 30.588135}
+        - {x: 0.8529053, y: 35.588135}
+    - name: spritesheet_balancoire_40
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.176514, y: 35.588135}
+        - {x: -43.176514, y: 21.588135}
+        - {x: -43.176514, y: -48.411865}
+        - {x: -12.176514, y: -48.411865}
+        - {x: -9.176514, y: -47.411865}
+        - {x: 7.8234863, y: -30.411865}
+        - {x: 7.8234863, y: 30.588135}
+        - {x: -7.1765137, y: 35.588135}
+    - name: spritesheet_balancoire_41
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 5600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.205933, y: 35.588135}
+        - {x: -43.205933, y: 7.588135}
+        - {x: -43.205933, y: -45.411865}
+        - {x: -38.205933, y: -48.411865}
+        - {x: -6.2059326, y: -48.411865}
+        - {x: 8.794067, y: -41.411865}
+        - {x: 8.794067, y: 35.588135}
+    - name: spritesheet_balancoire_42
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 5600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.235352, y: 35.588135}
+        - {x: -43.23535, y: -2.4118652}
+        - {x: -43.23535, y: -30.411865}
+        - {x: -40.23535, y: -43.411865}
+        - {x: -38.23535, y: -48.411865}
+        - {x: -7.2353516, y: -48.411865}
+        - {x: 10.764648, y: -38.411865}
+        - {x: 10.764648, y: -9.411865}
+        - {x: 4.7646484, y: 26.588135}
+        - {x: 0.76464844, y: 30.588135}
+        - {x: -14.235352, y: 35.588135}
+    - name: spritesheet_balancoire_43
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 5600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.26477, y: 35.588135}
+        - {x: -44.26477, y: 15.588135}
+        - {x: -44.26477, y: -45.411865}
+        - {x: -37.26477, y: -48.411865}
+        - {x: 10.7352295, y: -48.411865}
+        - {x: 10.7352295, y: 35.588135}
+    - name: spritesheet_balancoire_44
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.294189, y: 35.588135}
+        - {x: -29.29419, y: 35.588135}
+        - {x: -43.29419, y: -1.4118652}
+        - {x: -43.29419, y: -30.411865}
+        - {x: -40.29419, y: -48.411865}
+        - {x: -11.294189, y: -48.411865}
+        - {x: 0.70581055, y: -46.411865}
+        - {x: 12.705811, y: -31.411865}
+        - {x: 12.705811, y: -0.41186523}
+        - {x: 7.7058105, y: 28.588135}
+    - name: spritesheet_balancoire_45
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 5600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.32361, y: 35.588135}
+        - {x: -44.32361, y: -1.4118652}
+        - {x: -44.32361, y: -40.411865}
+        - {x: -42.32361, y: -48.411865}
+        - {x: -7.3236084, y: -48.411865}
+        - {x: 13.676392, y: -24.411865}
+        - {x: 13.676392, y: -9.411865}
+        - {x: 4.6763916, y: 35.588135}
+    - name: spritesheet_balancoire_46
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 5600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.3530273, y: 35.588135}
+        - {x: -29.353027, y: 35.588135}
+        - {x: -43.353027, y: 15.588135}
+        - {x: -43.353027, y: -42.411865}
+        - {x: -40.353027, y: -48.411865}
+        - {x: 5.6469727, y: -48.411865}
+        - {x: 14.646973, y: -33.411865}
+        - {x: 14.646973, y: 10.588135}
+        - {x: 2.6469727, y: 33.588135}
+    - name: spritesheet_balancoire_47
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 5600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.382446, y: 35.588135}
+        - {x: -44.382446, y: 4.588135}
+        - {x: -44.382446, y: -37.411865}
+        - {x: -39.382446, y: -47.411865}
+        - {x: -31.382446, y: -48.411865}
+        - {x: -1.3824463, y: -48.411865}
+        - {x: 15.617554, y: -41.411865}
+        - {x: 15.617554, y: 35.588135}
+    - name: spritesheet_balancoire_48
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 5600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.411865, y: 35.588135}
+        - {x: -43.411865, y: 17.588135}
+        - {x: -43.411865, y: -41.411865}
+        - {x: -42.411865, y: -48.411865}
+        - {x: 10.588135, y: -48.411865}
+        - {x: 16.588135, y: -26.411865}
+        - {x: 16.588135, y: 30.588135}
+        - {x: -9.411865, y: 35.588135}
+    - name: spritesheet_balancoire_49
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.4412842, y: 35.588135}
+        - {x: -29.441284, y: 35.588135}
+        - {x: -44.441284, y: 15.588135}
+        - {x: -44.441284, y: -48.411865}
+        - {x: -1.4412842, y: -48.411865}
+        - {x: 17.558716, y: -28.411865}
+        - {x: 17.558716, y: 4.588135}
+        - {x: 2.5587158, y: 32.588135}
+    - name: spritesheet_balancoire_50
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 5600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.970703, y: -46.411865}
+        - {x: -40.970703, y: -48.411865}
+        - {x: 0.029296875, y: -48.411865}
+        - {x: 19.029297, y: -34.411865}
+        - {x: 19.029297, y: -0.41186523}
+        - {x: 2.0292969, y: 31.588135}
+        - {x: -13.970703, y: 35.588135}
+        - {x: -27.970703, y: 35.588135}
+        - {x: -42.970703, y: 14.588135}
+    - name: spritesheet_balancoire_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 34.617554}
+        - {x: -30.5, y: 34.617554}
+        - {x: -44.5, y: 3.6175537}
+        - {x: -44.5, y: -48.382446}
+        - {x: -0.5, y: -48.382446}
+        - {x: 19.5, y: -18.382446}
+        - {x: 19.5, y: -4.3824463}
+        - {x: 2.5, y: 32.617554}
+    - name: spritesheet_balancoire_52
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 5200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.029419, y: 34.617554}
+        - {x: -43.02942, y: 7.6175537}
+        - {x: -43.02942, y: -38.382446}
+        - {x: -42.02942, y: -41.382446}
+        - {x: -37.02942, y: -48.382446}
+        - {x: -2.029419, y: -48.382446}
+        - {x: 20.970581, y: -29.382446}
+        - {x: 20.970581, y: -5.3824463}
+        - {x: 4.970581, y: 34.617554}
+    - name: spritesheet_balancoire_53
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 5200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.058838, y: 34.617554}
+        - {x: -43.058838, y: -48.382446}
+        - {x: -9.058838, y: -48.382446}
+        - {x: 21.941162, y: -25.382446}
+        - {x: 21.941162, y: 17.617554}
+        - {x: 3.941162, y: 34.617554}
+    - name: spritesheet_balancoire_54
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 5200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.088257, y: 34.617554}
+        - {x: -43.088257, y: 16.617554}
+        - {x: -43.088257, y: -48.382446}
+        - {x: -12.088257, y: -48.382446}
+        - {x: 21.911743, y: -32.382446}
+        - {x: 21.911743, y: 17.617554}
+        - {x: 15.911743, y: 34.617554}
+    - name: spritesheet_balancoire_55
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 5200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.882324, y: 28.617554}
+        - {x: 3.8823242, y: 32.617554}
+        - {x: -9.117676, y: 34.617554}
+        - {x: -28.117676, y: 34.617554}
+        - {x: -43.117676, y: 21.617554}
+        - {x: -43.117676, y: -48.382446}
+        - {x: 11.882324, y: -48.382446}
+        - {x: 22.882324, y: -40.382446}
+        - {x: 22.882324, y: -5.3824463}
+        - {x: 20.882324, y: -2.3824463}
+    - name: spritesheet_balancoire_56
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 5200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.147095, y: -48.382446}
+        - {x: 12.852905, y: -48.382446}
+        - {x: 22.852905, y: -43.382446}
+        - {x: 22.852905, y: 2.6175537}
+        - {x: 1.8529053, y: 34.617554}
+        - {x: -36.147095, y: 34.617554}
+        - {x: -43.147095, y: 4.6175537}
+    - name: spritesheet_balancoire_57
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 5200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39.176514, y: 34.617554}
+        - {x: -43.176514, y: 12.617554}
+        - {x: -43.176514, y: -35.382446}
+        - {x: -35.176514, y: -47.382446}
+        - {x: -33.176514, y: -48.382446}
+        - {x: 2.8234863, y: -48.382446}
+        - {x: 23.823486, y: -13.382446}
+        - {x: 23.823486, y: 29.617554}
+        - {x: 13.823486, y: 34.617554}
+    - name: spritesheet_balancoire_58
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 5200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.7940674, y: 31.617554}
+        - {x: 0.7940674, y: 34.617554}
+        - {x: -28.205933, y: 34.617554}
+        - {x: -43.205933, y: 16.617554}
+        - {x: -43.205933, y: -40.382446}
+        - {x: -41.205933, y: -45.382446}
+        - {x: -33.205933, y: -48.382446}
+        - {x: -16.205933, y: -48.382446}
+        - {x: -6.2059326, y: -43.382446}
+        - {x: 23.794067, y: -26.382446}
+        - {x: 23.794067, y: 6.6175537}
+    - name: spritesheet_balancoire_59
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 5200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.23535, y: 3.6175537}
+        - {x: -43.23535, y: -48.382446}
+        - {x: 8.764648, y: -48.382446}
+        - {x: 24.764648, y: -37.382446}
+        - {x: 24.764648, y: 2.6175537}
+        - {x: 2.7646484, y: 32.617554}
+        - {x: -7.2353516, y: 34.617554}
+        - {x: -27.235352, y: 34.617554}
+        - {x: -30.235352, y: 27.617554}
+    - name: spritesheet_balancoire_60
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 5200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.73523, y: 7.6175537}
+        - {x: 5.7352295, y: 30.617554}
+        - {x: -6.2647705, y: 34.617554}
+        - {x: -32.26477, y: 34.617554}
+        - {x: -44.26477, y: -1.3824463}
+        - {x: -44.26477, y: -36.382446}
+        - {x: -39.26477, y: -43.382446}
+        - {x: -31.26477, y: -48.382446}
+        - {x: -22.26477, y: -48.382446}
+        - {x: -11.2647705, y: -47.382446}
+        - {x: -6.2647705, y: -38.382446}
+        - {x: 21.73523, y: -10.382446}
+        - {x: 23.73523, y: -6.3824463}
+    - name: spritesheet_balancoire_61
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 5200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.70581, y: 8.617554}
+        - {x: 1.7058105, y: 29.617554}
+        - {x: -12.294189, y: 34.617554}
+        - {x: -28.29419, y: 34.617554}
+        - {x: -43.29419, y: 2.6175537}
+        - {x: -43.29419, y: -33.382446}
+        - {x: -38.29419, y: -48.382446}
+        - {x: -9.294189, y: -48.382446}
+        - {x: -6.2941895, y: -41.382446}
+        - {x: 21.70581, y: -7.3824463}
+        - {x: 24.70581, y: -2.3824463}
+    - name: spritesheet_balancoire_62
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 5200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.6763916, y: 34.617554}
+        - {x: -31.323608, y: 34.617554}
+        - {x: -44.32361, y: 11.617554}
+        - {x: -44.32361, y: -45.382446}
+        - {x: -41.32361, y: -48.382446}
+        - {x: -13.323608, y: -48.382446}
+        - {x: -3.3236084, y: -43.382446}
+        - {x: 24.676392, y: -1.3824463}
+        - {x: 24.676392, y: 11.617554}
+        - {x: 2.6763916, y: 33.617554}
+    - name: spritesheet_balancoire_63
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 5200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.6469727, y: 34.617554}
+        - {x: -40.353027, y: 34.617554}
+        - {x: -43.353027, y: 22.617554}
+        - {x: -43.353027, y: -46.382446}
+        - {x: -42.353027, y: -48.382446}
+        - {x: -9.353027, y: -48.382446}
+        - {x: -1.3530273, y: -46.382446}
+        - {x: 24.646973, y: -10.382446}
+        - {x: 24.646973, y: 15.617554}
+        - {x: 22.646973, y: 25.617554}
+    - name: spritesheet_balancoire_64
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 5200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.382446, y: -45.382446}
+        - {x: -43.382446, y: -48.382446}
+        - {x: 8.617554, y: -48.382446}
+        - {x: 24.617554, y: -34.382446}
+        - {x: 24.617554, y: 14.617554}
+        - {x: 10.617554, y: 34.617554}
+        - {x: -40.382446, y: 34.617554}
+        - {x: -44.382446, y: 26.617554}
+    - name: spritesheet_balancoire_65
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 5200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.411865, y: 34.617554}
+        - {x: -43.411865, y: -5.3824463}
+        - {x: -43.411865, y: -34.382446}
+        - {x: -38.411865, y: -48.382446}
+        - {x: -6.411865, y: -48.382446}
+        - {x: 24.588135, y: -2.3824463}
+        - {x: 24.588135, y: 28.617554}
+        - {x: 7.588135, y: 34.617554}
+    - name: spritesheet_balancoire_66
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 5200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.441284, y: 34.617554}
+        - {x: -44.441284, y: 2.6175537}
+        - {x: -44.441284, y: -48.382446}
+        - {x: 3.5587158, y: -48.382446}
+        - {x: 23.558716, y: -26.382446}
+        - {x: 23.558716, y: 23.617554}
+        - {x: 11.558716, y: 34.617554}
+    - name: spritesheet_balancoire_67
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 5200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.0292969, y: 32.617554}
+        - {x: -5.970703, y: 34.617554}
+        - {x: -27.970703, y: 34.617554}
+        - {x: -42.970703, y: 10.617554}
+        - {x: -42.970703, y: -33.382446}
+        - {x: -39.970703, y: -41.382446}
+        - {x: -31.970703, y: -48.382446}
+        - {x: -18.970703, y: -48.382446}
+        - {x: -10.970703, y: -46.382446}
+        - {x: -6.970703, y: -41.382446}
+        - {x: 25.029297, y: -5.3824463}
+        - {x: 25.029297, y: 19.617554}
+    - name: spritesheet_balancoire_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.5, y: 35.646973}
+        - {x: -44.5, y: -48.353027}
+        - {x: -17.5, y: -48.353027}
+        - {x: -5.5, y: -43.353027}
+        - {x: 24.5, y: -3.3530273}
+        - {x: 24.5, y: 16.646973}
+        - {x: 7.5, y: 35.646973}
+    - name: spritesheet_balancoire_69
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.029419, y: 35.646973}
+        - {x: -26.029419, y: 35.646973}
+        - {x: -43.02942, y: 4.6469727}
+        - {x: -43.02942, y: -32.353027}
+        - {x: -40.02942, y: -48.353027}
+        - {x: -6.029419, y: -48.353027}
+        - {x: 24.970581, y: -3.3530273}
+        - {x: 24.970581, y: 14.646973}
+        - {x: 2.970581, y: 33.646973}
+    - name: spritesheet_balancoire_70
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.058838, y: -47.353027}
+        - {x: -42.058838, y: -48.353027}
+        - {x: -3.058838, y: -48.353027}
+        - {x: 25.941162, y: -20.353027}
+        - {x: 25.941162, y: 25.646973}
+        - {x: 9.941162, y: 35.646973}
+        - {x: -27.058838, y: 35.646973}
+        - {x: -43.058838, y: 4.6469727}
+    - name: spritesheet_balancoire_71
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.088257, y: 35.646973}
+        - {x: -43.088257, y: 26.646973}
+        - {x: -43.088257, y: -41.353027}
+        - {x: -39.088257, y: -48.353027}
+        - {x: -7.088257, y: -48.353027}
+        - {x: 24.911743, y: -6.3530273}
+        - {x: 24.911743, y: 20.646973}
+        - {x: 10.911743, y: 35.646973}
+    - name: spritesheet_balancoire_72
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.117676, y: -31.353027}
+        - {x: -42.117676, y: -44.353027}
+        - {x: -40.117676, y: -48.353027}
+        - {x: -5.117676, y: -48.353027}
+        - {x: 25.882324, y: -19.353027}
+        - {x: 25.882324, y: 22.646973}
+        - {x: 1.8823242, y: 31.646973}
+        - {x: -12.117676, y: 35.646973}
+        - {x: -26.117676, y: 35.646973}
+        - {x: -43.117676, y: 6.6469727}
+    - name: spritesheet_balancoire_73
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.147095, y: 35.646973}
+        - {x: -28.147095, y: 35.646973}
+        - {x: -43.147095, y: 5.6469727}
+        - {x: -43.147095, y: -48.353027}
+        - {x: -3.1470947, y: -48.353027}
+        - {x: 24.852905, y: -7.3530273}
+        - {x: 24.852905, y: 15.646973}
+        - {x: 3.8529053, y: 29.646973}
+    - name: spritesheet_balancoire_74
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.176514, y: -40.353027}
+        - {x: -39.176514, y: -48.353027}
+        - {x: 7.8234863, y: -48.353027}
+        - {x: 24.823486, y: -29.353027}
+        - {x: 24.823486, y: 17.646973}
+        - {x: 4.8234863, y: 35.646973}
+        - {x: -41.176514, y: 35.646973}
+        - {x: -43.176514, y: 29.646973}
+    - name: spritesheet_balancoire_75
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.205933, y: 35.646973}
+        - {x: -43.205933, y: 9.646973}
+        - {x: -43.205933, y: -35.353027}
+        - {x: -41.205933, y: -48.353027}
+        - {x: -6.2059326, y: -48.353027}
+        - {x: 24.794067, y: -9.353027}
+        - {x: 24.794067, y: 22.646973}
+        - {x: 9.794067, y: 35.646973}
+    - name: spritesheet_balancoire_76
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.7646484, y: 32.646973}
+        - {x: -9.235352, y: 35.646973}
+        - {x: -28.235352, y: 35.646973}
+        - {x: -43.23535, y: -2.3530273}
+        - {x: -43.23535, y: -47.353027}
+        - {x: -38.23535, y: -48.353027}
+        - {x: -6.2353516, y: -48.353027}
+        - {x: 24.764648, y: 2.6469727}
+        - {x: 24.764648, y: 14.646973}
+    - name: spritesheet_balancoire_77
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.26477, y: 35.646973}
+        - {x: -44.26477, y: 14.646973}
+        - {x: -44.26477, y: -42.353027}
+        - {x: -38.26477, y: -48.353027}
+        - {x: -3.2647705, y: -48.353027}
+        - {x: 24.73523, y: -19.353027}
+        - {x: 24.73523, y: 29.646973}
+        - {x: 17.73523, y: 35.646973}
+    - name: spritesheet_balancoire_78
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.29419, y: -48.353027}
+        - {x: 0.70581055, y: -48.353027}
+        - {x: 24.70581, y: -28.353027}
+        - {x: 24.70581, y: 31.646973}
+        - {x: 15.705811, y: 35.646973}
+        - {x: -38.29419, y: 35.646973}
+        - {x: -43.29419, y: 8.646973}
+    - name: spritesheet_balancoire_79
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.676392, y: 35.646973}
+        - {x: -38.32361, y: 35.646973}
+        - {x: -44.32361, y: 22.646973}
+        - {x: -44.32361, y: -47.353027}
+        - {x: -43.32361, y: -48.353027}
+        - {x: -5.3236084, y: -48.353027}
+        - {x: 2.6763916, y: -43.353027}
+        - {x: 24.676392, y: 4.6469727}
+        - {x: 24.676392, y: 27.646973}
+    - name: spritesheet_balancoire_80
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.353027, y: 35.646973}
+        - {x: -27.353027, y: 35.646973}
+        - {x: -43.353027, y: 7.6469727}
+        - {x: -43.353027, y: -34.353027}
+        - {x: -39.353027, y: -48.353027}
+        - {x: -6.3530273, y: -48.353027}
+        - {x: 24.646973, y: -5.3530273}
+        - {x: 24.646973, y: 15.646973}
+        - {x: 2.6469727, y: 33.646973}
+    - name: spritesheet_balancoire_81
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.382446, y: 35.646973}
+        - {x: -44.382446, y: 27.646973}
+        - {x: -44.382446, y: -48.353027}
+        - {x: -5.3824463, y: -48.353027}
+        - {x: 24.617554, y: -16.353027}
+        - {x: 24.617554, y: 20.646973}
+        - {x: 7.6175537, y: 28.646973}
+        - {x: -7.3824463, y: 35.646973}
+    - name: spritesheet_balancoire_82
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.411865, y: -38.353027}
+        - {x: -42.411865, y: -41.353027}
+        - {x: -38.411865, y: -48.353027}
+        - {x: -6.411865, y: -48.353027}
+        - {x: 24.588135, y: -19.353027}
+        - {x: 24.588135, y: 26.646973}
+        - {x: 9.588135, y: 35.646973}
+        - {x: -30.411865, y: 35.646973}
+        - {x: -43.411865, y: 6.6469727}
+    - name: spritesheet_balancoire_83
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.441284, y: -48.353027}
+        - {x: -0.44128418, y: -48.353027}
+        - {x: 24.558716, y: -22.353027}
+        - {x: 24.558716, y: 22.646973}
+        - {x: -2.4412842, y: 35.646973}
+        - {x: -30.441284, y: 35.646973}
+        - {x: -44.441284, y: 15.646973}
+        - {x: -44.441284, y: -46.353027}
+    - name: spritesheet_balancoire_84
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 4800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.970703, y: -48.353027}
+        - {x: -6.970703, y: -48.353027}
+        - {x: 25.029297, y: -11.353027}
+        - {x: 25.029297, y: 21.646973}
+        - {x: 8.029297, y: 35.646973}
+        - {x: -28.970703, y: 35.646973}
+        - {x: -42.970703, y: 24.646973}
+    - name: spritesheet_balancoire_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.5, y: 34.67639}
+        - {x: -44.5, y: 4.6763916}
+        - {x: -44.5, y: -38.32361}
+        - {x: -38.5, y: -48.32361}
+        - {x: -3.5, y: -48.32361}
+        - {x: 23.5, y: -14.323608}
+        - {x: 23.5, y: 23.676392}
+        - {x: 15.5, y: 34.67639}
+    - name: spritesheet_balancoire_86
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.970581, y: 34.67639}
+        - {x: -39.02942, y: 34.67639}
+        - {x: -43.02942, y: 9.676392}
+        - {x: -43.02942, y: -46.32361}
+        - {x: -42.02942, y: -48.32361}
+        - {x: -6.029419, y: -48.32361}
+        - {x: 24.970581, y: 3.6763916}
+        - {x: 24.970581, y: 12.676392}
+        - {x: 8.970581, y: 33.67639}
+    - name: spritesheet_balancoire_87
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8.941162, y: 34.67639}
+        - {x: -43.058838, y: 34.67639}
+        - {x: -43.058838, y: -48.32361}
+        - {x: -15.058838, y: -48.32361}
+        - {x: -6.058838, y: -42.32361}
+        - {x: 24.941162, y: -2.3236084}
+        - {x: 24.941162, y: 12.676392}
+    - name: spritesheet_balancoire_88
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.9117432, y: 31.676392}
+        - {x: -17.088257, y: 34.67639}
+        - {x: -26.088257, y: 34.67639}
+        - {x: -43.088257, y: 11.676392}
+        - {x: -43.088257, y: -46.32361}
+        - {x: -42.088257, y: -48.32361}
+        - {x: -0.088256836, y: -48.32361}
+        - {x: 24.911743, y: -25.323608}
+        - {x: 24.911743, y: 9.676392}
+        - {x: 20.911743, y: 14.676392}
+    - name: spritesheet_balancoire_89
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.117676, y: -48.32361}
+        - {x: -6.117676, y: -48.32361}
+        - {x: 24.882324, y: -19.323608}
+        - {x: 24.882324, y: 18.676392}
+        - {x: 22.882324, y: 20.676392}
+        - {x: 1.8823242, y: 34.67639}
+        - {x: -30.117676, y: 34.67639}
+        - {x: -43.117676, y: 14.676392}
+    - name: spritesheet_balancoire_90
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.1470947, y: 34.67639}
+        - {x: -26.147095, y: 34.67639}
+        - {x: -29.147095, y: 29.676392}
+        - {x: -40.147095, y: 9.676392}
+        - {x: -43.147095, y: -0.3236084}
+        - {x: -43.147095, y: -42.32361}
+        - {x: -37.147095, y: -48.32361}
+        - {x: -8.147095, y: -48.32361}
+        - {x: 24.852905, y: 1.6763916}
+        - {x: 24.852905, y: 13.676392}
+        - {x: 23.852905, y: 19.676392}
+    - name: spritesheet_balancoire_91
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.176514, y: -47.32361}
+        - {x: -42.176514, y: -48.32361}
+        - {x: -10.176514, y: -48.32361}
+        - {x: 24.823486, y: -19.323608}
+        - {x: 24.823486, y: 31.676392}
+        - {x: 21.823486, y: 34.67639}
+        - {x: -32.176514, y: 34.67639}
+        - {x: -43.176514, y: 10.676392}
+    - name: spritesheet_balancoire_92
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.205933, y: 34.67639}
+        - {x: -43.205933, y: -48.32361}
+        - {x: -8.205933, y: -48.32361}
+        - {x: 24.794067, y: -17.323608}
+        - {x: 24.794067, y: 18.676392}
+        - {x: 23.794067, y: 19.676392}
+        - {x: -3.2059326, y: 34.67639}
+    - name: spritesheet_balancoire_93
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.23535, y: -0.3236084}
+        - {x: -43.23535, y: -30.323608}
+        - {x: -40.23535, y: -43.32361}
+        - {x: -38.23535, y: -48.32361}
+        - {x: -9.235352, y: -48.32361}
+        - {x: 24.764648, y: -19.323608}
+        - {x: 24.764648, y: 24.676392}
+        - {x: 11.764648, y: 34.67639}
+        - {x: -28.235352, y: 34.67639}
+        - {x: -30.235352, y: 31.676392}
+    - name: spritesheet_balancoire_94
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.2647705, y: 34.67639}
+        - {x: -30.26477, y: 34.67639}
+        - {x: -44.26477, y: 6.6763916}
+        - {x: -44.26477, y: -48.32361}
+        - {x: -2.2647705, y: -48.32361}
+        - {x: 24.73523, y: -7.3236084}
+        - {x: 24.73523, y: 10.676392}
+        - {x: 2.7352295, y: 32.67639}
+    - name: spritesheet_balancoire_95
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.2941895, y: 34.67639}
+        - {x: -28.29419, y: 34.67639}
+        - {x: -43.29419, y: -2.3236084}
+        - {x: -43.29419, y: -33.32361}
+        - {x: -40.29419, y: -48.32361}
+        - {x: -7.2941895, y: -48.32361}
+        - {x: 0.70581055, y: -46.32361}
+        - {x: 24.70581, y: 2.6763916}
+        - {x: 24.70581, y: 10.676392}
+        - {x: 1.7058105, y: 32.67639}
+    - name: spritesheet_balancoire_96
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.32361, y: 34.67639}
+        - {x: -44.32361, y: -48.32361}
+        - {x: -8.323608, y: -48.32361}
+        - {x: 23.676392, y: -14.323608}
+        - {x: 23.676392, y: 22.676392}
+        - {x: -1.3236084, y: 34.67639}
+    - name: spritesheet_balancoire_97
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.3530273, y: 34.67639}
+        - {x: -32.353027, y: 34.67639}
+        - {x: -43.353027, y: 0.6763916}
+        - {x: -43.353027, y: -39.32361}
+        - {x: -37.353027, y: -48.32361}
+        - {x: -4.3530273, y: -48.32361}
+        - {x: 24.646973, y: -6.3236084}
+        - {x: 24.646973, y: 18.676392}
+        - {x: 2.6469727, y: 32.67639}
+    - name: spritesheet_balancoire_98
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.382446, y: 34.67639}
+        - {x: -44.382446, y: -48.32361}
+        - {x: -0.3824463, y: -48.32361}
+        - {x: 23.617554, y: -14.323608}
+        - {x: 23.617554, y: 19.676392}
+        - {x: 14.617554, y: 34.67639}
+    - name: spritesheet_balancoire_99
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.411865, y: -19.323608}
+        - {x: -7.411865, y: -8.323608}
+        - {x: -6.411865, y: -6.3236084}
+        - {x: -7.411865, y: -13.323608}
+        - {x: -7.411865, y: -15.323608}
+        - {x: -6.411865, y: -19.323608}
+        - {x: -8.411865, y: -21.323608}
+        - {x: -8.411865, y: -24.323608}
+        - {x: 0.58813477, y: -29.323608}
+        - {x: 8.588135, y: -28.323608}
+        - {x: 11.588135, y: -25.323608}
+        - {x: 24.588135, y: -1.3236084}
+        - {x: 24.588135, y: 11.676392}
+        - {x: 14.588135, y: 17.676392}
+        - {x: 2.5881348, y: 32.67639}
+        - {x: -4.411865, y: 34.67639}
+        - {x: -28.411865, y: 34.67639}
+        - {x: -43.411865, y: 2.6763916}
+        - {x: -43.411865, y: -42.32361}
+        - {x: -32.411865, y: -48.32361}
+        - {x: -16.411865, y: -48.32361}
+        - {x: -6.411865, y: -42.32361}
+        - {x: -7.411865, y: -29.323608}
+        - {x: -8.411865, y: -20.323608}
+    - name: spritesheet_balancoire_100
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.441284, y: 34.67639}
+        - {x: -44.441284, y: 5.6763916}
+        - {x: -44.441284, y: -45.32361}
+        - {x: -40.441284, y: -48.32361}
+        - {x: -16.441284, y: -48.32361}
+        - {x: 20.558716, y: -29.323608}
+        - {x: 23.558716, y: -17.323608}
+        - {x: 23.558716, y: 17.676392}
+        - {x: -4.441284, y: 34.67639}
+    - name: spritesheet_balancoire_101
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 4400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.029297, y: 34.67639}
+        - {x: -28.970703, y: 34.67639}
+        - {x: -42.970703, y: 3.6763916}
+        - {x: -42.970703, y: -29.323608}
+        - {x: -39.970703, y: -40.32361}
+        - {x: -34.970703, y: -45.32361}
+        - {x: -30.970703, y: -48.32361}
+        - {x: -1.9707031, y: -48.32361}
+        - {x: 19.029297, y: -31.323608}
+        - {x: 25.029297, y: -12.323608}
+        - {x: 25.029297, y: 15.676392}
+    - name: spritesheet_balancoire_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.5, y: -24.29419}
+        - {x: 24.5, y: -9.294189}
+        - {x: 24.5, y: 10.705811}
+        - {x: 22.5, y: 12.705811}
+        - {x: 17.5, y: 14.705811}
+        - {x: 4.5, y: 28.70581}
+        - {x: -6.5, y: 35.70581}
+        - {x: -29.5, y: 35.70581}
+        - {x: -44.5, y: 12.705811}
+        - {x: -44.5, y: -47.29419}
+        - {x: -35.5, y: -48.29419}
+        - {x: -8.5, y: -48.29419}
+        - {x: -7.5, y: -42.29419}
+        - {x: -7.5, y: -26.29419}
+        - {x: 6.5, y: -29.29419}
+    - name: spritesheet_balancoire_103
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.970581, y: 21.70581}
+        - {x: 23.970581, y: 24.70581}
+        - {x: -3.029419, y: 35.70581}
+        - {x: -35.02942, y: 35.70581}
+        - {x: -43.02942, y: 21.70581}
+        - {x: -43.02942, y: -42.29419}
+        - {x: -42.02942, y: -48.29419}
+        - {x: -3.029419, y: -48.29419}
+        - {x: 20.970581, y: -25.29419}
+        - {x: 20.970581, y: -17.29419}
+        - {x: 24.970581, y: -7.2941895}
+    - name: spritesheet_balancoire_104
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.941162, y: -14.294189}
+        - {x: 25.941162, y: 3.7058105}
+        - {x: 25.941162, y: 17.70581}
+        - {x: 1.9411621, y: 33.70581}
+        - {x: -2.058838, y: 35.70581}
+        - {x: -27.058838, y: 35.70581}
+        - {x: -43.058838, y: 12.705811}
+        - {x: -43.058838, y: -35.29419}
+        - {x: -36.058838, y: -48.29419}
+        - {x: -9.058838, y: -48.29419}
+        - {x: -6.058838, y: -41.29419}
+        - {x: 17.941162, y: -25.29419}
+        - {x: 21.941162, y: -19.29419}
+    - name: spritesheet_balancoire_105
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.088257, y: -31.29419}
+        - {x: -42.088257, y: -42.29419}
+        - {x: -39.088257, y: -48.29419}
+        - {x: 24.911743, y: -48.29419}
+        - {x: 24.911743, y: 13.705811}
+        - {x: 16.911743, y: 35.70581}
+        - {x: -38.088257, y: 35.70581}
+        - {x: -43.088257, y: 9.705811}
+    - name: spritesheet_balancoire_106
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.117676, y: 35.70581}
+        - {x: -30.117676, y: 28.70581}
+        - {x: -43.117676, y: 1.7058105}
+        - {x: -43.117676, y: -48.29419}
+        - {x: 25.882324, y: -48.29419}
+        - {x: 25.882324, y: 24.70581}
+        - {x: -18.117676, y: 35.70581}
+    - name: spritesheet_balancoire_107
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.147095, y: 35.70581}
+        - {x: -43.147095, y: 14.705811}
+        - {x: -43.147095, y: -39.29419}
+        - {x: -35.147095, y: -48.29419}
+        - {x: 20.852905, y: -48.29419}
+        - {x: 26.852905, y: -34.29419}
+        - {x: 26.852905, y: 35.70581}
+    - name: spritesheet_balancoire_108
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.823486, y: 12.705811}
+        - {x: 16.823486, y: 16.70581}
+        - {x: 6.8234863, y: 30.70581}
+        - {x: -9.176514, y: 35.70581}
+        - {x: -25.176514, y: 35.70581}
+        - {x: -33.176514, y: 30.70581}
+        - {x: -43.176514, y: 7.7058105}
+        - {x: -43.176514, y: -36.29419}
+        - {x: -36.176514, y: -48.29419}
+        - {x: -9.176514, y: -48.29419}
+        - {x: -6.1765137, y: -41.29419}
+        - {x: 18.823486, y: -31.29419}
+        - {x: 25.823486, y: -19.29419}
+    - name: spritesheet_balancoire_109
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.205933, y: 35.70581}
+        - {x: -43.205933, y: 11.705811}
+        - {x: -43.205933, y: -37.29419}
+        - {x: -42.205933, y: -42.29419}
+        - {x: -38.205933, y: -48.29419}
+        - {x: -3.2059326, y: -48.29419}
+        - {x: 24.794067, y: -31.29419}
+        - {x: 24.794067, y: 22.70581}
+        - {x: 2.7940674, y: 35.70581}
+    - name: spritesheet_balancoire_110
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.23535, y: -45.29419}
+        - {x: -42.23535, y: -48.29419}
+        - {x: 9.764648, y: -48.29419}
+        - {x: 24.764648, y: -38.29419}
+        - {x: 24.764648, y: 21.70581}
+        - {x: 22.764648, y: 24.70581}
+        - {x: -12.235352, y: 35.70581}
+        - {x: -30.235352, y: 35.70581}
+        - {x: -43.23535, y: 20.70581}
+    - name: spritesheet_balancoire_111
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.73523, y: 35.70581}
+        - {x: -35.26477, y: 35.70581}
+        - {x: -44.26477, y: 15.705811}
+        - {x: -44.26477, y: -45.29419}
+        - {x: -38.26477, y: -48.29419}
+        - {x: -0.2647705, y: -48.29419}
+        - {x: 21.73523, y: -33.29419}
+        - {x: 24.73523, y: -30.29419}
+        - {x: 24.73523, y: 24.70581}
+    - name: spritesheet_balancoire_112
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.2941895, y: 35.70581}
+        - {x: -31.29419, y: 35.70581}
+        - {x: -43.29419, y: -0.29418945}
+        - {x: -43.29419, y: -37.29419}
+        - {x: -36.29419, y: -48.29419}
+        - {x: 6.7058105, y: -48.29419}
+        - {x: 24.70581, y: -18.29419}
+        - {x: 24.70581, y: 21.70581}
+        - {x: 7.7058105, y: 31.70581}
+    - name: spritesheet_balancoire_113
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.676392, y: -25.29419}
+        - {x: 24.676392, y: -15.294189}
+        - {x: 24.676392, y: 19.70581}
+        - {x: 6.6763916, y: 35.70581}
+        - {x: -43.32361, y: 35.70581}
+        - {x: -44.32361, y: 30.70581}
+        - {x: -44.32361, y: -48.29419}
+        - {x: -9.323608, y: -48.29419}
+        - {x: -8.323608, y: -41.29419}
+        - {x: -7.3236084, y: -27.29419}
+        - {x: 6.6763916, y: -28.29419}
+    - name: spritesheet_balancoire_114
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.353027, y: 35.70581}
+        - {x: -27.353027, y: 35.70581}
+        - {x: -43.353027, y: -0.29418945}
+        - {x: -43.353027, y: -28.29419}
+        - {x: -41.353027, y: -40.29419}
+        - {x: -38.353027, y: -48.29419}
+        - {x: 9.646973, y: -48.29419}
+        - {x: 24.646973, y: -21.29419}
+        - {x: 24.646973, y: 13.705811}
+        - {x: 8.646973, y: 31.70581}
+    - name: spritesheet_balancoire_115
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.3824463, y: -15.294189}
+        - {x: -7.3824463, y: -24.29419}
+        - {x: 8.617554, y: -41.29419}
+        - {x: 24.617554, y: -19.29419}
+        - {x: 24.617554, y: 22.70581}
+        - {x: -6.3824463, y: 35.70581}
+        - {x: -33.382446, y: 35.70581}
+        - {x: -44.382446, y: 10.705811}
+        - {x: -44.382446, y: -39.29419}
+        - {x: -32.382446, y: -48.29419}
+        - {x: -17.382446, y: -48.29419}
+        - {x: -7.3824463, y: -42.29419}
+        - {x: -7.3824463, y: -16.29419}
+        - {x: -6.3824463, y: -15.294189}
+    - name: spritesheet_balancoire_116
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.411865, y: -23.29419}
+        - {x: -3.4118652, y: -26.29419}
+        - {x: 9.588135, y: -27.29419}
+        - {x: 12.588135, y: -18.29419}
+        - {x: 24.588135, y: -2.2941895}
+        - {x: 24.588135, y: 15.705811}
+        - {x: 2.5881348, y: 32.70581}
+        - {x: -12.411865, y: 35.70581}
+        - {x: -27.411865, y: 35.70581}
+        - {x: -43.411865, y: 8.705811}
+        - {x: -43.411865, y: -42.29419}
+        - {x: -32.411865, y: -48.29419}
+        - {x: -18.411865, y: -48.29419}
+        - {x: -5.411865, y: -42.29419}
+        - {x: -8.411865, y: -37.29419}
+        - {x: -7.411865, y: -19.29419}
+        - {x: -7.411865, y: -4.2941895}
+    - name: spritesheet_balancoire_117
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.441284, y: 35.70581}
+        - {x: -44.441284, y: 15.705811}
+        - {x: -44.441284, y: -43.29419}
+        - {x: -39.441284, y: -47.29419}
+        - {x: -37.441284, y: -48.29419}
+        - {x: 1.5587158, y: -48.29419}
+        - {x: 24.558716, y: -14.294189}
+        - {x: 24.558716, y: 22.70581}
+        - {x: 7.558716, y: 35.70581}
+    - name: spritesheet_balancoire_118
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 4000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.970703, y: 35.70581}
+        - {x: -28.970703, y: 35.70581}
+        - {x: -42.970703, y: 3.7058105}
+        - {x: -42.970703, y: -40.29419}
+        - {x: -35.970703, y: -48.29419}
+        - {x: -9.970703, y: -48.29419}
+        - {x: 13.029297, y: -27.29419}
+        - {x: 25.029297, y: 0.70581055}
+        - {x: 25.029297, y: 18.70581}
+        - {x: 2.0292969, y: 33.70581}
+    - name: spritesheet_balancoire_119
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 34.73523}
+        - {x: -44.5, y: 2.7352295}
+        - {x: -44.5, y: -36.26477}
+        - {x: -37.5, y: -48.26477}
+        - {x: -9.5, y: -48.26477}
+        - {x: -2.5, y: -45.26477}
+        - {x: 23.5, y: -4.2647705}
+        - {x: 23.5, y: 20.73523}
+        - {x: -6.5, y: 34.73523}
+    - name: spritesheet_balancoire_120
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.02942, y: 34.73523}
+        - {x: -41.02942, y: 2.7352295}
+        - {x: -43.02942, y: -7.2647705}
+        - {x: -43.02942, y: -23.26477}
+        - {x: -42.02942, y: -48.26477}
+        - {x: -6.029419, y: -48.26477}
+        - {x: 24.970581, y: -6.2647705}
+        - {x: 24.970581, y: 20.73523}
+        - {x: 11.970581, y: 34.73523}
+    - name: spritesheet_balancoire_121
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.058838, y: 34.73523}
+        - {x: -43.058838, y: 15.7352295}
+        - {x: -43.058838, y: -35.26477}
+        - {x: -36.058838, y: -48.26477}
+        - {x: -7.058838, y: -48.26477}
+        - {x: 24.941162, y: -0.2647705}
+        - {x: 24.941162, y: 25.73523}
+        - {x: -1.0588379, y: 34.73523}
+    - name: spritesheet_balancoire_122
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.088257, y: 34.73523}
+        - {x: -31.088257, y: 34.73523}
+        - {x: -43.088257, y: 19.73523}
+        - {x: -43.088257, y: -39.26477}
+        - {x: -35.088257, y: -48.26477}
+        - {x: -14.088257, y: -48.26477}
+        - {x: -11.088257, y: -47.26477}
+        - {x: 24.911743, y: -0.2647705}
+        - {x: 24.911743, y: 13.7352295}
+        - {x: 1.9117432, y: 30.73523}
+    - name: spritesheet_balancoire_123
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.117676, y: 34.73523}
+        - {x: -43.117676, y: -48.26477}
+        - {x: -3.1176758, y: -48.26477}
+        - {x: 24.882324, y: -19.26477}
+        - {x: 24.882324, y: 19.73523}
+        - {x: 11.882324, y: 34.73523}
+    - name: spritesheet_balancoire_124
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.147095, y: 34.73523}
+        - {x: -43.147095, y: 18.73523}
+        - {x: -43.147095, y: -44.26477}
+        - {x: -42.147095, y: -48.26477}
+        - {x: -10.147095, y: -48.26477}
+        - {x: 24.852905, y: -16.26477}
+        - {x: 24.852905, y: 24.73523}
+        - {x: 18.852905, y: 34.73523}
+    - name: spritesheet_balancoire_125
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.8234863, y: 31.73523}
+        - {x: -13.176514, y: 34.73523}
+        - {x: -27.176514, y: 34.73523}
+        - {x: -43.176514, y: 9.7352295}
+        - {x: -43.176514, y: -40.26477}
+        - {x: -42.176514, y: -45.26477}
+        - {x: -34.176514, y: -48.26477}
+        - {x: -15.176514, y: -48.26477}
+        - {x: -4.1765137, y: -43.26477}
+        - {x: 24.823486, y: 2.7352295}
+        - {x: 24.823486, y: 21.73523}
+    - name: spritesheet_balancoire_126
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.205933, y: 34.73523}
+        - {x: -43.205933, y: 15.7352295}
+        - {x: -43.205933, y: -48.26477}
+        - {x: -0.20593262, y: -48.26477}
+        - {x: 24.794067, y: -26.26477}
+        - {x: 24.794067, y: 21.73523}
+        - {x: 16.794067, y: 34.73523}
+    - name: spritesheet_balancoire_127
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.23535, y: 34.73523}
+        - {x: -43.23535, y: 13.7352295}
+        - {x: -43.23535, y: -45.26477}
+        - {x: -40.23535, y: -48.26477}
+        - {x: 2.7646484, y: -48.26477}
+        - {x: 24.764648, y: -27.26477}
+        - {x: 24.764648, y: 21.73523}
+        - {x: -6.2353516, y: 34.73523}
+    - name: spritesheet_balancoire_128
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.26477, y: 34.73523}
+        - {x: -44.26477, y: 7.7352295}
+        - {x: -44.26477, y: -36.26477}
+        - {x: -39.26477, y: -48.26477}
+        - {x: 0.7352295, y: -48.26477}
+        - {x: 24.73523, y: -26.26477}
+        - {x: 24.73523, y: 24.73523}
+        - {x: 12.7352295, y: 34.73523}
+    - name: spritesheet_balancoire_129
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.29419, y: 34.73523}
+        - {x: -43.29419, y: 3.7352295}
+        - {x: -43.29419, y: -39.26477}
+        - {x: -36.29419, y: -48.26477}
+        - {x: -8.294189, y: -48.26477}
+        - {x: 24.70581, y: -7.2647705}
+        - {x: 24.70581, y: 22.73523}
+        - {x: 11.705811, y: 34.73523}
+    - name: spritesheet_balancoire_130
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.323608, y: 34.73523}
+        - {x: -27.323608, y: 34.73523}
+        - {x: -44.32361, y: 1.7352295}
+        - {x: -44.32361, y: -36.26477}
+        - {x: -36.32361, y: -48.26477}
+        - {x: -5.3236084, y: -48.26477}
+        - {x: 24.676392, y: -14.2647705}
+        - {x: 24.676392, y: 19.73523}
+        - {x: 2.6763916, y: 32.73523}
+    - name: spritesheet_balancoire_131
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.353027, y: 34.73523}
+        - {x: -43.353027, y: 7.7352295}
+        - {x: -43.353027, y: -23.26477}
+        - {x: -41.353027, y: -40.26477}
+        - {x: -36.353027, y: -48.26477}
+        - {x: -1.3530273, y: -48.26477}
+        - {x: 24.646973, y: -20.26477}
+        - {x: 24.646973, y: 25.73523}
+        - {x: 8.646973, y: 34.73523}
+    - name: spritesheet_balancoire_132
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.617554, y: 34.73523}
+        - {x: -29.382446, y: 34.73523}
+        - {x: -44.382446, y: 2.7352295}
+        - {x: -44.382446, y: -34.26477}
+        - {x: -39.382446, y: -48.26477}
+        - {x: -10.382446, y: -48.26477}
+        - {x: -8.382446, y: -41.26477}
+        - {x: 24.617554, y: -5.2647705}
+        - {x: 24.617554, y: 19.73523}
+    - name: spritesheet_balancoire_133
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.411865, y: 34.73523}
+        - {x: -36.411865, y: 31.73523}
+        - {x: -43.411865, y: 4.7352295}
+        - {x: -43.411865, y: -37.26477}
+        - {x: -36.411865, y: -48.26477}
+        - {x: 2.5881348, y: -48.26477}
+        - {x: 24.588135, y: -25.26477}
+        - {x: 24.588135, y: 28.73523}
+        - {x: 9.588135, y: 34.73523}
+    - name: spritesheet_balancoire_134
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.441284, y: -41.26477}
+        - {x: -42.441284, y: -48.26477}
+        - {x: 1.5587158, y: -48.26477}
+        - {x: 24.558716, y: -27.26477}
+        - {x: 24.558716, y: 27.73523}
+        - {x: 15.558716, y: 34.73523}
+        - {x: -30.441284, y: 34.73523}
+        - {x: -44.441284, y: 17.73523}
+    - name: spritesheet_balancoire_135
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.970703, y: 34.73523}
+        - {x: -32.970703, y: 30.73523}
+        - {x: -42.970703, y: -2.2647705}
+        - {x: -42.970703, y: -41.26477}
+        - {x: -38.970703, y: -48.26477}
+        - {x: -3.9707031, y: -48.26477}
+        - {x: 25.029297, y: -15.2647705}
+        - {x: 25.029297, y: 24.73523}
+        - {x: 8.029297, y: 34.73523}
+    - name: spritesheet_balancoire_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.5, y: 35.76465}
+        - {x: -24.5, y: 35.76465}
+        - {x: -32.5, y: 29.764648}
+        - {x: -44.5, y: 7.7646484}
+        - {x: -44.5, y: -32.23535}
+        - {x: -43.5, y: -44.23535}
+        - {x: -33.5, y: -48.23535}
+        - {x: -19.5, y: -48.23535}
+        - {x: -6.5, y: -43.23535}
+        - {x: 24.5, y: -7.2353516}
+        - {x: 24.5, y: 15.764648}
+        - {x: 0.5, y: 33.76465}
+    - name: spritesheet_balancoire_137
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.029419, y: 35.76465}
+        - {x: -43.02942, y: 7.7646484}
+        - {x: -43.02942, y: -43.23535}
+        - {x: -33.02942, y: -48.23535}
+        - {x: -18.029419, y: -48.23535}
+        - {x: -5.029419, y: -42.23535}
+        - {x: 24.970581, y: -4.2353516}
+        - {x: 24.970581, y: 19.764648}
+        - {x: 8.970581, y: 35.76465}
+    - name: spritesheet_balancoire_138
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.058838, y: 35.76465}
+        - {x: -43.058838, y: 15.764648}
+        - {x: -43.058838, y: -33.23535}
+        - {x: -40.058838, y: -48.23535}
+        - {x: -6.058838, y: -48.23535}
+        - {x: 1.9411621, y: -47.23535}
+        - {x: 25.941162, y: -0.23535156}
+        - {x: 25.941162, y: 27.764648}
+        - {x: 4.941162, y: 35.76465}
+    - name: spritesheet_balancoire_139
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.91174316, y: 30.764648}
+        - {x: -17.088257, y: 35.76465}
+        - {x: -27.088257, y: 35.76465}
+        - {x: -29.088257, y: 29.764648}
+        - {x: -43.088257, y: 2.7646484}
+        - {x: -43.088257, y: -31.235352}
+        - {x: -42.088257, y: -42.23535}
+        - {x: -39.088257, y: -48.23535}
+        - {x: -5.088257, y: -48.23535}
+        - {x: 24.911743, y: -19.235352}
+        - {x: 24.911743, y: 13.764648}
+        - {x: 23.911743, y: 13.764648}
+        - {x: 17.911743, y: 14.764648}
+        - {x: 3.9117432, y: 29.764648}
+    - name: spritesheet_balancoire_140
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.117676, y: -44.23535}
+        - {x: -42.117676, y: -48.23535}
+        - {x: 0.8823242, y: -48.23535}
+        - {x: 25.882324, y: -21.235352}
+        - {x: 25.882324, y: 24.764648}
+        - {x: 4.882324, y: 35.76465}
+        - {x: -28.117676, y: 35.76465}
+        - {x: -43.117676, y: 17.764648}
+    - name: spritesheet_balancoire_141
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.147095, y: 35.76465}
+        - {x: -27.147095, y: 35.76465}
+        - {x: -30.147095, y: 30.764648}
+        - {x: -43.147095, y: 2.7646484}
+        - {x: -43.147095, y: -48.23535}
+        - {x: -1.1470947, y: -48.23535}
+        - {x: 24.852905, y: -23.235352}
+        - {x: 24.852905, y: 13.764648}
+        - {x: 23.852905, y: 13.764648}
+        - {x: 17.852905, y: 14.764648}
+        - {x: 1.8529053, y: 31.764648}
+    - name: spritesheet_balancoire_142
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.176514, y: 35.76465}
+        - {x: -43.176514, y: 17.764648}
+        - {x: -43.176514, y: -48.23535}
+        - {x: -1.1765137, y: -48.23535}
+        - {x: 24.823486, y: -24.235352}
+        - {x: 24.823486, y: 20.764648}
+        - {x: -6.1765137, y: 35.76465}
+    - name: spritesheet_balancoire_143
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.205933, y: -42.23535}
+        - {x: -39.205933, y: -48.23535}
+        - {x: -4.2059326, y: -48.23535}
+        - {x: 24.794067, y: -17.235352}
+        - {x: 24.794067, y: 20.764648}
+        - {x: 0.7940674, y: 35.76465}
+        - {x: -30.205933, y: 35.76465}
+        - {x: -43.205933, y: 11.764648}
+        - {x: -43.205933, y: -38.23535}
+    - name: spritesheet_balancoire_144
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.23535, y: -48.23535}
+        - {x: 0.76464844, y: -48.23535}
+        - {x: 24.764648, y: -26.235352}
+        - {x: 24.764648, y: 20.764648}
+        - {x: 9.764648, y: 35.76465}
+        - {x: -36.23535, y: 35.76465}
+        - {x: -43.23535, y: 11.764648}
+    - name: spritesheet_balancoire_145
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.73523, y: 14.764648}
+        - {x: 1.7352295, y: 31.764648}
+        - {x: -8.2647705, y: 35.76465}
+        - {x: -31.26477, y: 35.76465}
+        - {x: -44.26477, y: -1.2353516}
+        - {x: -44.26477, y: -36.23535}
+        - {x: -38.26477, y: -47.23535}
+        - {x: -7.2647705, y: -47.23535}
+        - {x: 24.73523, y: 4.7646484}
+        - {x: 24.73523, y: 9.764648}
+        - {x: 22.73523, y: 12.764648}
+    - name: spritesheet_balancoire_146
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.29419, y: 35.76465}
+        - {x: -43.29419, y: 16.764648}
+        - {x: -43.29419, y: -41.23535}
+        - {x: -40.29419, y: -48.23535}
+        - {x: -0.29418945, y: -48.23535}
+        - {x: 24.70581, y: -22.235352}
+        - {x: 24.70581, y: 23.764648}
+        - {x: -5.2941895, y: 35.76465}
+    - name: spritesheet_balancoire_147
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.676392, y: 14.764648}
+        - {x: 1.6763916, y: 31.764648}
+        - {x: -10.323608, y: 35.76465}
+        - {x: -42.32361, y: 35.76465}
+        - {x: -44.32361, y: 25.764648}
+        - {x: -44.32361, y: -47.23535}
+        - {x: 6.6763916, y: -47.23535}
+        - {x: 24.676392, y: -30.235352}
+        - {x: 24.676392, y: 9.764648}
+        - {x: 22.676392, y: 12.764648}
+    - name: spritesheet_balancoire_148
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.353027, y: 35.76465}
+        - {x: -25.353027, y: 35.76465}
+        - {x: -30.353027, y: 28.764648}
+        - {x: -43.353027, y: 5.7646484}
+        - {x: -43.353027, y: -42.23535}
+        - {x: -32.353027, y: -48.23535}
+        - {x: -18.353027, y: -48.23535}
+        - {x: -6.3530273, y: -42.23535}
+        - {x: 24.646973, y: -0.23535156}
+        - {x: 24.646973, y: 15.764648}
+        - {x: 2.6469727, y: 33.76465}
+    - name: spritesheet_balancoire_149
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.382446, y: 35.76465}
+        - {x: -44.382446, y: 15.764648}
+        - {x: -44.382446, y: -39.23535}
+        - {x: -40.382446, y: -47.23535}
+        - {x: -6.3824463, y: -47.23535}
+        - {x: 24.617554, y: -0.23535156}
+        - {x: 24.617554, y: 13.764648}
+        - {x: 2.6175537, y: 35.76465}
+    - name: spritesheet_balancoire_150
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.411865, y: 35.76465}
+        - {x: -43.411865, y: 13.764648}
+        - {x: -43.411865, y: -47.23535}
+        - {x: -34.411865, y: -48.23535}
+        - {x: -7.411865, y: -48.23535}
+        - {x: 24.588135, y: -0.23535156}
+        - {x: 24.588135, y: 14.764648}
+        - {x: 3.5881348, y: 35.76465}
+    - name: spritesheet_balancoire_151
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.441284, y: 35.76465}
+        - {x: -29.441284, y: 35.76465}
+        - {x: -34.441284, y: 30.764648}
+        - {x: -44.441284, y: 13.764648}
+        - {x: -44.441284, y: -38.23535}
+        - {x: -37.441284, y: -48.23535}
+        - {x: -11.441284, y: -48.23535}
+        - {x: -5.441284, y: -43.23535}
+        - {x: 24.558716, y: 1.7646484}
+        - {x: 24.558716, y: 12.764648}
+        - {x: 18.558716, y: 20.764648}
+    - name: spritesheet_balancoire_152
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 3200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.029297, y: 35.76465}
+        - {x: -38.970703, y: 35.76465}
+        - {x: -42.970703, y: 12.764648}
+        - {x: -42.970703, y: -48.23535}
+        - {x: -6.970703, y: -48.23535}
+        - {x: 14.029297, y: -21.235352}
+        - {x: 25.029297, y: 5.7646484}
+        - {x: 25.029297, y: 9.764648}
+    - name: spritesheet_balancoire_153
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.5, y: 13.794067}
+        - {x: 1.5, y: 30.794067}
+        - {x: -16.5, y: 34.794067}
+        - {x: -28.5, y: 34.794067}
+        - {x: -42.5, y: 6.7940674}
+        - {x: -44.5, y: 1.7940674}
+        - {x: -44.5, y: -37.205933}
+        - {x: -36.5, y: -48.205933}
+        - {x: -14.5, y: -48.205933}
+        - {x: -4.5, y: -43.205933}
+        - {x: 24.5, y: -1.2059326}
+        - {x: 24.5, y: 10.794067}
+        - {x: 22.5, y: 13.794067}
+    - name: spritesheet_balancoire_154
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.970581, y: 34.794067}
+        - {x: -37.02942, y: 34.794067}
+        - {x: -43.02942, y: 0.7940674}
+        - {x: -43.02942, y: -30.205933}
+        - {x: -42.02942, y: -44.205933}
+        - {x: -34.02942, y: -48.205933}
+        - {x: -11.029419, y: -48.205933}
+        - {x: -1.029419, y: -43.205933}
+        - {x: 24.970581, y: -20.205933}
+        - {x: 24.970581, y: 20.794067}
+    - name: spritesheet_balancoire_155
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.941162, y: 34.794067}
+        - {x: -31.058838, y: 34.794067}
+        - {x: -43.058838, y: 4.7940674}
+        - {x: -43.058838, y: -41.205933}
+        - {x: -42.058838, y: -44.205933}
+        - {x: -33.058838, y: -48.205933}
+        - {x: -11.058838, y: -48.205933}
+        - {x: 11.941162, y: -32.205933}
+        - {x: 25.941162, y: -19.205933}
+        - {x: 25.941162, y: 16.794067}
+    - name: spritesheet_balancoire_156
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.911743, y: 34.794067}
+        - {x: -43.088257, y: 34.794067}
+        - {x: -43.088257, y: -48.205933}
+        - {x: -7.088257, y: -48.205933}
+        - {x: 21.911743, y: -29.205933}
+        - {x: 24.911743, y: -17.205933}
+        - {x: 24.911743, y: 16.794067}
+    - name: spritesheet_balancoire_157
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.8823242, y: 33.794067}
+        - {x: -5.117676, y: 34.794067}
+        - {x: -27.117676, y: 34.794067}
+        - {x: -43.117676, y: 3.7940674}
+        - {x: -43.117676, y: -40.205933}
+        - {x: -37.117676, y: -48.205933}
+        - {x: -6.117676, y: -48.205933}
+        - {x: 17.882324, y: -26.205933}
+        - {x: 24.882324, y: -4.2059326}
+        - {x: 24.882324, y: 19.794067}
+    - name: spritesheet_balancoire_158
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.852905, y: -27.205933}
+        - {x: 19.852905, y: -26.205933}
+        - {x: 24.852905, y: -10.205933}
+        - {x: 24.852905, y: 11.794067}
+        - {x: 20.852905, y: 14.794067}
+        - {x: 1.8529053, y: 30.794067}
+        - {x: -20.147095, y: 34.794067}
+        - {x: -27.147095, y: 34.794067}
+        - {x: -43.147095, y: 24.794067}
+        - {x: -43.147095, y: -48.205933}
+        - {x: -16.147095, y: -48.205933}
+        - {x: -12.147095, y: -46.205933}
+        - {x: -7.1470947, y: -42.205933}
+        - {x: -6.1470947, y: -18.205933}
+        - {x: -0.14709473, y: -28.205933}
+    - name: spritesheet_balancoire_159
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.176514, y: 34.794067}
+        - {x: -43.176514, y: 12.794067}
+        - {x: -43.176514, y: -48.205933}
+        - {x: 7.8234863, y: -48.205933}
+        - {x: 24.823486, y: -16.205933}
+        - {x: 24.823486, y: 28.794067}
+        - {x: 13.823486, y: 34.794067}
+    - name: spritesheet_balancoire_160
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.205933, y: 34.794067}
+        - {x: -35.205933, y: 33.794067}
+        - {x: -43.205933, y: 13.794067}
+        - {x: -43.205933, y: -48.205933}
+        - {x: 12.794067, y: -48.205933}
+        - {x: 24.794067, y: -31.205933}
+        - {x: 24.794067, y: 28.794067}
+        - {x: 16.794067, y: 34.794067}
+    - name: spritesheet_balancoire_161
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.2353516, y: 35.794067}
+        - {x: -36.23535, y: 35.794067}
+        - {x: -43.23535, y: 10.794067}
+        - {x: -43.23535, y: -48.205933}
+        - {x: 17.764648, y: -48.205933}
+        - {x: 24.764648, y: -25.205933}
+        - {x: 24.764648, y: 23.794067}
+        - {x: 9.764648, y: 30.794067}
+    - name: spritesheet_balancoire_162
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.73523, y: 17.794067}
+        - {x: 5.7352295, y: 34.794067}
+        - {x: -33.26477, y: 34.794067}
+        - {x: -44.26477, y: 0.7940674}
+        - {x: -44.26477, y: -37.205933}
+        - {x: -37.26477, y: -48.205933}
+        - {x: -10.2647705, y: -48.205933}
+        - {x: -7.2647705, y: -42.205933}
+        - {x: 16.73523, y: -31.205933}
+        - {x: 24.73523, y: -23.205933}
+    - name: spritesheet_balancoire_163
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.29419, y: 35.794067}
+        - {x: -43.29419, y: 16.794067}
+        - {x: -43.29419, y: -48.205933}
+        - {x: 6.7058105, y: -48.205933}
+        - {x: 26.70581, y: -34.205933}
+        - {x: 26.70581, y: 16.794067}
+        - {x: 17.70581, y: 35.794067}
+    - name: spritesheet_balancoire_164
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.323608, y: 34.794067}
+        - {x: -44.32361, y: 7.7940674}
+        - {x: -44.32361, y: -47.205933}
+        - {x: -43.32361, y: -48.205933}
+        - {x: 10.676392, y: -48.205933}
+        - {x: 27.676392, y: -39.205933}
+        - {x: 27.676392, y: 16.794067}
+        - {x: 7.6763916, y: 34.794067}
+    - name: spritesheet_balancoire_165
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.646973, y: -3.2059326}
+        - {x: 22.646973, y: -3.2059326}
+        - {x: 25.646973, y: 0.7940674}
+        - {x: 23.646973, y: 13.794067}
+        - {x: 1.6469727, y: 30.794067}
+        - {x: -14.353027, y: 35.794067}
+        - {x: -24.353027, y: 35.794067}
+        - {x: -30.353027, y: 32.794067}
+        - {x: -43.353027, y: 14.794067}
+        - {x: -43.353027, y: -45.205933}
+        - {x: -42.353027, y: -48.205933}
+        - {x: -2.3530273, y: -48.205933}
+        - {x: 25.646973, y: -27.205933}
+        - {x: 29.646973, y: -17.205933}
+        - {x: 29.646973, y: -6.2059326}
+    - name: spritesheet_balancoire_166
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.3824463, y: 34.794067}
+        - {x: -44.382446, y: 34.794067}
+        - {x: -44.382446, y: -48.205933}
+        - {x: 23.617554, y: -48.205933}
+        - {x: 29.617554, y: -44.205933}
+        - {x: 29.617554, y: 11.794067}
+        - {x: 23.617554, y: 23.794067}
+    - name: spritesheet_balancoire_167
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.588135, y: 18.794067}
+        - {x: -7.411865, y: 34.794067}
+        - {x: -33.411865, y: 34.794067}
+        - {x: -43.411865, y: 13.794067}
+        - {x: -43.411865, y: -41.205933}
+        - {x: -34.411865, y: -48.205933}
+        - {x: -9.411865, y: -48.205933}
+        - {x: -2.4118652, y: -44.205933}
+        - {x: 28.588135, y: -17.205933}
+        - {x: 28.588135, y: 12.794067}
+    - name: spritesheet_balancoire_168
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5587158, y: 30.794067}
+        - {x: -20.441284, y: 34.794067}
+        - {x: -26.441284, y: 34.794067}
+        - {x: -44.441284, y: 4.7940674}
+        - {x: -44.441284, y: -45.205933}
+        - {x: -38.441284, y: -48.205933}
+        - {x: -6.441284, y: -48.205933}
+        - {x: 0.5587158, y: -47.205933}
+        - {x: 26.558716, y: -21.205933}
+        - {x: 26.558716, y: 8.794067}
+        - {x: 23.558716, y: 13.794067}
+    - name: spritesheet_balancoire_169
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.029297, y: 34.794067}
+        - {x: -42.970703, y: 34.794067}
+        - {x: -42.970703, y: -48.205933}
+        - {x: -21.970703, y: -48.205933}
+        - {x: -11.970703, y: -46.205933}
+        - {x: 26.029297, y: -24.205933}
+        - {x: 26.029297, y: 12.794067}
+        - {x: 25.029297, y: 14.794067}
+    - name: spritesheet_balancoire_170
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.5, y: 35.823486}
+        - {x: -44.5, y: 6.8234863}
+        - {x: -44.5, y: -42.176514}
+        - {x: -40.5, y: -47.176514}
+        - {x: -13.5, y: -47.176514}
+        - {x: 24.5, y: -23.176514}
+        - {x: 24.5, y: 22.823486}
+        - {x: -5.5, y: 35.823486}
+    - name: spritesheet_balancoire_171
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.029419, y: 35.823486}
+        - {x: -43.02942, y: 7.8234863}
+        - {x: -43.02942, y: -43.176514}
+        - {x: -33.02942, y: -47.176514}
+        - {x: -7.029419, y: -47.176514}
+        - {x: 24.970581, y: -41.176514}
+        - {x: 24.970581, y: 26.823486}
+        - {x: 1.970581, y: 35.823486}
+    - name: spritesheet_balancoire_172
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.058838, y: 35.823486}
+        - {x: -23.058838, y: 35.823486}
+        - {x: -31.058838, y: 29.823486}
+        - {x: -43.058838, y: -2.1765137}
+        - {x: -43.058838, y: -47.176514}
+        - {x: 3.941162, y: -47.176514}
+        - {x: 25.941162, y: -18.176514}
+        - {x: 25.941162, y: 15.823486}
+        - {x: 2.941162, y: 33.823486}
+    - name: spritesheet_balancoire_173
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.911743, y: 12.823486}
+        - {x: 17.911743, y: 14.823486}
+        - {x: 5.911743, y: 30.823486}
+        - {x: -11.088257, y: 35.823486}
+        - {x: -28.088257, y: 35.823486}
+        - {x: -43.088257, y: 6.8234863}
+        - {x: -43.088257, y: -42.176514}
+        - {x: -38.088257, y: -47.176514}
+        - {x: 0.91174316, y: -47.176514}
+        - {x: 23.911743, y: -28.176514}
+        - {x: 24.911743, y: -25.176514}
+        - {x: 24.911743, y: 8.823486}
+    - name: spritesheet_balancoire_174
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.117676, y: 35.823486}
+        - {x: -43.117676, y: -47.176514}
+        - {x: 0.8823242, y: -47.176514}
+        - {x: 24.882324, y: -32.176514}
+        - {x: 24.882324, y: 18.823486}
+        - {x: 8.882324, y: 35.823486}
+    - name: spritesheet_balancoire_175
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.1470947, y: -16.176514}
+        - {x: -7.1470947, y: -21.176514}
+        - {x: -7.1470947, y: -22.176514}
+        - {x: -3.1470947, y: -26.176514}
+        - {x: 6.8529053, y: -28.176514}
+        - {x: 15.852905, y: -27.176514}
+        - {x: 24.852905, y: -4.1765137}
+        - {x: 24.852905, y: 26.823486}
+        - {x: 5.8529053, y: 35.823486}
+        - {x: -38.147095, y: 35.823486}
+        - {x: -43.147095, y: 18.823486}
+        - {x: -43.147095, y: -43.176514}
+        - {x: -38.147095, y: -47.176514}
+        - {x: -13.147095, y: -47.176514}
+        - {x: -8.147095, y: -41.176514}
+        - {x: -8.147095, y: -26.176514}
+    - name: spritesheet_balancoire_176
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.176514, y: 35.823486}
+        - {x: -43.176514, y: 12.823486}
+        - {x: -43.176514, y: -35.176514}
+        - {x: -42.176514, y: -44.176514}
+        - {x: -40.176514, y: -47.176514}
+        - {x: -8.176514, y: -47.176514}
+        - {x: 22.823486, y: -31.176514}
+        - {x: 24.823486, y: -23.176514}
+        - {x: 24.823486, y: 19.823486}
+        - {x: -7.1765137, y: 35.823486}
+    - name: spritesheet_balancoire_177
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.205933, y: 35.823486}
+        - {x: -43.205933, y: 13.823486}
+        - {x: -43.205933, y: -47.176514}
+        - {x: -7.2059326, y: -47.176514}
+        - {x: 24.794067, y: -14.176514}
+        - {x: 24.794067, y: 25.823486}
+        - {x: 10.794067, y: 35.823486}
+    - name: spritesheet_balancoire_178
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.23535, y: 35.823486}
+        - {x: -43.23535, y: 9.823486}
+        - {x: -43.23535, y: -45.176514}
+        - {x: -35.23535, y: -47.176514}
+        - {x: -19.235352, y: -47.176514}
+        - {x: 24.764648, y: -41.176514}
+        - {x: 24.764648, y: 35.823486}
+    - name: spritesheet_balancoire_179
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.73523, y: 14.823486}
+        - {x: 1.7352295, y: 31.823486}
+        - {x: -4.2647705, y: 35.823486}
+        - {x: -29.26477, y: 35.823486}
+        - {x: -44.26477, y: 14.823486}
+        - {x: -44.26477, y: -27.176514}
+        - {x: -41.26477, y: -47.176514}
+        - {x: -9.2647705, y: -47.176514}
+        - {x: -2.2647705, y: -45.176514}
+        - {x: 24.73523, y: -1.1765137}
+        - {x: 24.73523, y: 10.823486}
+        - {x: 22.73523, y: 12.823486}
+    - name: spritesheet_balancoire_180
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.2941895, y: 35.823486}
+        - {x: -29.29419, y: 35.823486}
+        - {x: -43.29419, y: 9.823486}
+        - {x: -43.29419, y: -37.176514}
+        - {x: -42.29419, y: -45.176514}
+        - {x: -35.29419, y: -47.176514}
+        - {x: -21.29419, y: -47.176514}
+        - {x: -5.2941895, y: -42.176514}
+        - {x: 24.70581, y: -2.1765137}
+        - {x: 24.70581, y: 15.823486}
+        - {x: -0.29418945, y: 34.823486}
+    - name: spritesheet_balancoire_181
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.32361, y: -47.176514}
+        - {x: 24.676392, y: -47.176514}
+        - {x: 24.676392, y: 35.823486}
+        - {x: -36.32361, y: 35.823486}
+        - {x: -44.32361, y: 26.823486}
+    - name: spritesheet_balancoire_182
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.353027, y: 35.823486}
+        - {x: -43.353027, y: 17.823486}
+        - {x: -43.353027, y: -42.176514}
+        - {x: -42.353027, y: -47.176514}
+        - {x: -7.3530273, y: -47.176514}
+        - {x: 24.646973, y: -2.1765137}
+        - {x: 24.646973, y: 19.823486}
+        - {x: 11.646973, y: 35.823486}
+    - name: spritesheet_balancoire_183
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.382446, y: 21.823486}
+        - {x: -44.382446, y: -47.176514}
+        - {x: -7.3824463, y: -47.176514}
+        - {x: 24.617554, y: -14.176514}
+        - {x: 24.617554, y: 20.823486}
+        - {x: 0.6175537, y: 31.823486}
+        - {x: -14.382446, y: 35.823486}
+        - {x: -26.382446, y: 35.823486}
+        - {x: -43.382446, y: 30.823486}
+    - name: spritesheet_balancoire_184
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.588135, y: 35.823486}
+        - {x: -30.411865, y: 35.823486}
+        - {x: -43.411865, y: 7.8234863}
+        - {x: -43.411865, y: -43.176514}
+        - {x: -35.411865, y: -47.176514}
+        - {x: -14.411865, y: -47.176514}
+        - {x: -5.411865, y: -42.176514}
+        - {x: 24.588135, y: -8.176514}
+        - {x: 24.588135, y: 27.823486}
+    - name: spritesheet_balancoire_185
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.441284, y: -34.176514}
+        - {x: -42.441284, y: -44.176514}
+        - {x: -41.441284, y: -47.176514}
+        - {x: -8.441284, y: -47.176514}
+        - {x: 24.558716, y: -14.176514}
+        - {x: 24.558716, y: 21.823486}
+        - {x: -3.4412842, y: 35.823486}
+        - {x: -35.441284, y: 35.823486}
+        - {x: -44.441284, y: 10.823486}
+    - name: spritesheet_balancoire_186
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.970703, y: 35.823486}
+        - {x: -42.970703, y: 13.823486}
+        - {x: -42.970703, y: -47.176514}
+        - {x: -5.970703, y: -47.176514}
+        - {x: 25.029297, y: -6.1765137}
+        - {x: 25.029297, y: 18.823486}
+        - {x: 4.029297, y: 35.823486}
+    - name: spritesheet_balancoire_187
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 17.852905}
+        - {x: -1.5, y: 34.852905}
+        - {x: -41.5, y: 34.852905}
+        - {x: -44.5, y: 19.852905}
+        - {x: -44.5, y: -45.147095}
+        - {x: -35.5, y: -48.147095}
+        - {x: -14.5, y: -48.147095}
+        - {x: -7.5, y: -42.147095}
+        - {x: 23.5, y: 1.8529053}
+        - {x: 24.5, y: 4.8529053}
+    - name: spritesheet_balancoire_188
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.029418945, y: 35.852905}
+        - {x: -27.029419, y: 35.852905}
+        - {x: -43.02942, y: 3.8529053}
+        - {x: -43.02942, y: -32.147095}
+        - {x: -40.02942, y: -48.147095}
+        - {x: -6.029419, y: -48.147095}
+        - {x: 24.970581, y: -1.1470947}
+        - {x: 24.970581, y: 14.852905}
+        - {x: 3.970581, y: 34.852905}
+    - name: spritesheet_balancoire_189
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.058838, y: 35.852905}
+        - {x: -43.058838, y: 6.8529053}
+        - {x: -43.058838, y: -31.147095}
+        - {x: -37.058838, y: -48.147095}
+        - {x: -5.058838, y: -48.147095}
+        - {x: 25.941162, y: -1.1470947}
+        - {x: 25.941162, y: 17.852905}
+        - {x: 4.941162, y: 35.852905}
+    - name: spritesheet_balancoire_190
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.9117432, y: 34.852905}
+        - {x: -2.0882568, y: 35.852905}
+        - {x: -27.088257, y: 35.852905}
+        - {x: -43.088257, y: 8.852905}
+        - {x: -43.088257, y: -42.147095}
+        - {x: -35.088257, y: -47.147095}
+        - {x: -32.088257, y: -48.147095}
+        - {x: -16.088257, y: -48.147095}
+        - {x: -4.088257, y: -42.147095}
+        - {x: 24.911743, y: -9.147095}
+        - {x: 24.911743, y: 21.852905}
+    - name: spritesheet_balancoire_191
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.882324, y: 12.852905}
+        - {x: 20.882324, y: 19.852905}
+        - {x: -1.1176758, y: 35.852905}
+        - {x: -30.117676, y: 35.852905}
+        - {x: -43.117676, y: 12.852905}
+        - {x: -43.117676, y: -41.147095}
+        - {x: -36.117676, y: -48.147095}
+        - {x: -9.117676, y: -48.147095}
+        - {x: -4.117676, y: -42.147095}
+        - {x: 24.882324, y: 1.8529053}
+    - name: spritesheet_balancoire_192
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.1470947, y: 35.852905}
+        - {x: -43.147095, y: 35.852905}
+        - {x: -43.147095, y: -48.147095}
+        - {x: -10.147095, y: -48.147095}
+        - {x: -1.1470947, y: -46.147095}
+        - {x: 24.852905, y: -5.1470947}
+        - {x: 24.852905, y: 18.852905}
+        - {x: 3.8529053, y: 34.852905}
+    - name: spritesheet_balancoire_193
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.1765137, y: 35.852905}
+        - {x: -37.176514, y: 35.852905}
+        - {x: -43.176514, y: 14.852905}
+        - {x: -43.176514, y: -43.147095}
+        - {x: -38.176514, y: -48.147095}
+        - {x: -1.1765137, y: -48.147095}
+        - {x: 24.823486, y: -18.147095}
+        - {x: 24.823486, y: 16.852905}
+        - {x: 21.823486, y: 21.852905}
+    - name: spritesheet_balancoire_194
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.205933, y: 35.852905}
+        - {x: -43.205933, y: 8.852905}
+        - {x: -43.205933, y: -44.147095}
+        - {x: -39.205933, y: -48.147095}
+        - {x: 24.794067, y: -48.147095}
+        - {x: 24.794067, y: 35.852905}
+    - name: spritesheet_balancoire_195
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.23535, y: -48.147095}
+        - {x: 5.7646484, y: -48.147095}
+        - {x: 24.764648, y: -32.147095}
+        - {x: 24.764648, y: 15.852905}
+        - {x: 2.7646484, y: 33.852905}
+        - {x: -7.2353516, y: 35.852905}
+        - {x: -29.235352, y: 35.852905}
+        - {x: -43.23535, y: 14.852905}
+    - name: spritesheet_balancoire_196
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.7352295, y: 35.852905}
+        - {x: -32.26477, y: 35.852905}
+        - {x: -44.26477, y: 8.852905}
+        - {x: -44.26477, y: -41.147095}
+        - {x: -38.26477, y: -48.147095}
+        - {x: -10.2647705, y: -48.147095}
+        - {x: -7.2647705, y: -42.147095}
+        - {x: 24.73523, y: -10.147095}
+        - {x: 24.73523, y: 17.852905}
+    - name: spritesheet_balancoire_197
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.29419, y: 35.852905}
+        - {x: -43.29419, y: 9.852905}
+        - {x: -43.29419, y: -35.147095}
+        - {x: -38.29419, y: -48.147095}
+        - {x: -5.2941895, y: -48.147095}
+        - {x: 24.70581, y: -9.147095}
+        - {x: 24.70581, y: 23.852905}
+        - {x: 14.705811, y: 35.852905}
+    - name: spritesheet_balancoire_198
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.3236084, y: 35.852905}
+        - {x: -31.323608, y: 35.852905}
+        - {x: -44.32361, y: -0.14709473}
+        - {x: -44.32361, y: -37.147095}
+        - {x: -37.32361, y: -48.147095}
+        - {x: -8.323608, y: -48.147095}
+        - {x: 24.676392, y: -5.1470947}
+        - {x: 24.676392, y: 12.852905}
+        - {x: 2.6763916, y: 32.852905}
+    - name: spritesheet_balancoire_199
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.353027, y: 35.852905}
+        - {x: -43.353027, y: 0.8529053}
+        - {x: -43.353027, y: -38.147095}
+        - {x: -36.353027, y: -48.147095}
+        - {x: -0.35302734, y: -48.147095}
+        - {x: 24.646973, y: -23.147095}
+        - {x: 24.646973, y: 28.852905}
+        - {x: 14.646973, y: 35.852905}
+    - name: spritesheet_balancoire_200
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.3824463, y: 35.852905}
+        - {x: -37.382446, y: 35.852905}
+        - {x: -44.382446, y: 25.852905}
+        - {x: -44.382446, y: -42.147095}
+        - {x: -42.382446, y: -48.147095}
+        - {x: -15.382446, y: -48.147095}
+        - {x: -4.3824463, y: -43.147095}
+        - {x: 24.617554, y: -1.1470947}
+        - {x: 24.617554, y: 14.852905}
+        - {x: 19.617554, y: 22.852905}
+    - name: spritesheet_balancoire_201
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.588135, y: 35.852905}
+        - {x: -35.411865, y: 35.852905}
+        - {x: -43.411865, y: 5.8529053}
+        - {x: -43.411865, y: -39.147095}
+        - {x: -38.411865, y: -48.147095}
+        - {x: -9.411865, y: -48.147095}
+        - {x: 24.588135, y: -8.147095}
+        - {x: 24.588135, y: 20.852905}
+        - {x: 10.588135, y: 33.852905}
+    - name: spritesheet_balancoire_202
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35.441284, y: 34.852905}
+        - {x: -44.441284, y: 17.852905}
+        - {x: -44.441284, y: -45.147095}
+        - {x: -41.441284, y: -48.147095}
+        - {x: 24.558716, y: -48.147095}
+        - {x: 24.558716, y: 34.852905}
+    - name: spritesheet_balancoire_203
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 2000
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.970703, y: 35.852905}
+        - {x: -42.970703, y: 17.852905}
+        - {x: -42.970703, y: -34.147095}
+        - {x: -39.970703, y: -48.147095}
+        - {x: -2.9707031, y: -48.147095}
+        - {x: 25.029297, y: -19.147095}
+        - {x: 25.029297, y: 27.852905}
+        - {x: 16.029297, y: 35.852905}
+    - name: spritesheet_balancoire_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 35.882324}
+        - {x: -37.5, y: 33.882324}
+        - {x: -44.5, y: 13.882324}
+        - {x: -44.5, y: -37.117676}
+        - {x: -38.5, y: -47.117676}
+        - {x: -12.5, y: -47.117676}
+        - {x: -5.5, y: -43.117676}
+        - {x: 24.5, y: 0.8823242}
+        - {x: 24.5, y: 14.882324}
+        - {x: 7.5, y: 35.882324}
+    - name: spritesheet_balancoire_205
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.029419, y: 35.882324}
+        - {x: -27.029419, y: 35.882324}
+        - {x: -43.02942, y: 18.882324}
+        - {x: -43.02942, y: -43.117676}
+        - {x: -42.02942, y: -47.117676}
+        - {x: 0.97058105, y: -47.117676}
+        - {x: 24.970581, y: 1.8823242}
+        - {x: 24.970581, y: 19.882324}
+        - {x: 1.970581, y: 31.882324}
+    - name: spritesheet_balancoire_206
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.941162, y: 34.882324}
+        - {x: -4.058838, y: 35.882324}
+        - {x: -27.058838, y: 35.882324}
+        - {x: -43.058838, y: 11.882324}
+        - {x: -43.058838, y: -45.117676}
+        - {x: -35.058838, y: -47.117676}
+        - {x: -7.058838, y: -47.117676}
+        - {x: 25.941162, y: 5.882324}
+        - {x: 25.941162, y: 10.882324}
+        - {x: 24.941162, y: 13.882324}
+    - name: spritesheet_balancoire_207
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.088257, y: 35.882324}
+        - {x: -43.088257, y: 19.882324}
+        - {x: -43.088257, y: -41.117676}
+        - {x: -42.088257, y: -47.117676}
+        - {x: 0.91174316, y: -47.117676}
+        - {x: 24.911743, y: -12.117676}
+        - {x: 24.911743, y: 21.882324}
+        - {x: 7.911743, y: 35.882324}
+    - name: spritesheet_balancoire_208
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.117676, y: 35.882324}
+        - {x: -43.117676, y: 11.882324}
+        - {x: -43.117676, y: -44.117676}
+        - {x: -37.117676, y: -47.117676}
+        - {x: -17.117676, y: -47.117676}
+        - {x: -5.117676, y: -43.117676}
+        - {x: 24.882324, y: -14.117676}
+        - {x: 24.882324, y: 27.882324}
+        - {x: 17.882324, y: 35.882324}
+    - name: spritesheet_balancoire_209
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.147095, y: 35.882324}
+        - {x: -43.147095, y: 16.882324}
+        - {x: -43.147095, y: -47.117676}
+        - {x: -12.147095, y: -47.117676}
+        - {x: 17.852905, y: -24.117676}
+        - {x: 24.852905, y: -16.117676}
+        - {x: 24.852905, y: 21.882324}
+        - {x: 14.852905, y: 35.882324}
+    - name: spritesheet_balancoire_210
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.1765137, y: 35.882324}
+        - {x: -29.176514, y: 35.882324}
+        - {x: -43.176514, y: 20.882324}
+        - {x: -43.176514, y: -40.117676}
+        - {x: -41.176514, y: -47.117676}
+        - {x: 3.8234863, y: -47.117676}
+        - {x: 19.823486, y: -37.117676}
+        - {x: 24.823486, y: -12.117676}
+        - {x: 24.823486, y: 17.882324}
+        - {x: 2.8234863, y: 33.882324}
+    - name: spritesheet_balancoire_211
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.2059326, y: -15.117676}
+        - {x: -7.2059326, y: -12.117676}
+        - {x: -7.2059326, y: -15.117676}
+        - {x: -8.205933, y: -20.117676}
+        - {x: -8.205933, y: -22.117676}
+        - {x: 4.7940674, y: -42.117676}
+        - {x: 24.794067, y: -12.117676}
+        - {x: 24.794067, y: 17.882324}
+        - {x: 1.7940674, y: 30.882324}
+        - {x: -13.205933, y: 35.882324}
+        - {x: -29.205933, y: 35.882324}
+        - {x: -43.205933, y: 17.882324}
+        - {x: -43.205933, y: -47.117676}
+        - {x: -10.205933, y: -47.117676}
+        - {x: -8.205933, y: -41.117676}
+        - {x: -8.205933, y: -16.117676}
+    - name: spritesheet_balancoire_212
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -13.235352, y: 35.882324}
+        - {x: -28.235352, y: 35.882324}
+        - {x: -43.23535, y: 9.882324}
+        - {x: -43.23535, y: -45.117676}
+        - {x: -36.23535, y: -47.117676}
+        - {x: 8.764648, y: -47.117676}
+        - {x: 24.764648, y: -14.117676}
+        - {x: 24.764648, y: 23.882324}
+        - {x: 1.7646484, y: 32.882324}
+    - name: spritesheet_balancoire_213
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.2647705, y: 35.882324}
+        - {x: -29.26477, y: 35.882324}
+        - {x: -44.26477, y: 17.882324}
+        - {x: -44.26477, y: -47.117676}
+        - {x: -1.2647705, y: -47.117676}
+        - {x: 15.7352295, y: -41.117676}
+        - {x: 24.73523, y: -21.117676}
+        - {x: 24.73523, y: 15.882324}
+        - {x: 1.7352295, y: 32.882324}
+    - name: spritesheet_balancoire_214
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.29419, y: -47.117676}
+        - {x: 24.70581, y: -47.117676}
+        - {x: 24.70581, y: 27.882324}
+        - {x: 21.70581, y: 35.882324}
+        - {x: -28.29419, y: 35.882324}
+        - {x: -43.29419, y: 16.882324}
+    - name: spritesheet_balancoire_215
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.676392, y: -4.117676}
+        - {x: 9.676392, y: -2.1176758}
+        - {x: 19.676392, y: -0.11767578}
+        - {x: 24.676392, y: 5.882324}
+        - {x: 24.676392, y: 10.882324}
+        - {x: 23.676392, y: 13.882324}
+        - {x: 6.6763916, y: 35.882324}
+        - {x: -36.32361, y: 35.882324}
+        - {x: -44.32361, y: -1.1176758}
+        - {x: -44.32361, y: -33.117676}
+        - {x: -38.32361, y: -47.117676}
+        - {x: -10.323608, y: -47.117676}
+        - {x: 14.676392, y: -26.117676}
+        - {x: 19.676392, y: -20.117676}
+        - {x: 19.676392, y: -14.117676}
+    - name: spritesheet_balancoire_216
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.353027, y: 35.882324}
+        - {x: -43.353027, y: 22.882324}
+        - {x: -43.353027, y: -47.117676}
+        - {x: -5.3530273, y: -47.117676}
+        - {x: 0.64697266, y: -46.117676}
+        - {x: 24.646973, y: -22.117676}
+        - {x: 24.646973, y: 23.882324}
+        - {x: -6.3530273, y: 35.882324}
+    - name: spritesheet_balancoire_217
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.382446, y: 35.882324}
+        - {x: -44.382446, y: -0.11767578}
+        - {x: -44.382446, y: -37.117676}
+        - {x: -39.382446, y: -47.117676}
+        - {x: -4.3824463, y: -47.117676}
+        - {x: 24.617554, y: -31.117676}
+        - {x: 24.617554, y: 29.882324}
+        - {x: 21.617554, y: 35.882324}
+    - name: spritesheet_balancoire_218
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.411865, y: 35.882324}
+        - {x: -43.411865, y: 22.882324}
+        - {x: -43.411865, y: -47.117676}
+        - {x: 7.588135, y: -47.117676}
+        - {x: 25.588135, y: -22.117676}
+        - {x: 25.588135, y: 28.882324}
+        - {x: 7.588135, y: 35.882324}
+    - name: spritesheet_balancoire_219
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.558716, y: -23.117676}
+        - {x: 26.558716, y: 19.882324}
+        - {x: 18.558716, y: 35.882324}
+        - {x: -33.441284, y: 35.882324}
+        - {x: -44.441284, y: 2.8823242}
+        - {x: -44.441284, y: -38.117676}
+        - {x: -38.441284, y: -47.117676}
+        - {x: -10.441284, y: -47.117676}
+        - {x: -7.441284, y: -42.117676}
+        - {x: -7.441284, y: -26.117676}
+        - {x: 11.558716, y: -26.117676}
+    - name: spritesheet_balancoire_220
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1600
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.970703, y: 35.882324}
+        - {x: -42.970703, y: 13.882324}
+        - {x: -42.970703, y: -47.117676}
+        - {x: -9.970703, y: -47.117676}
+        - {x: 26.029297, y: -26.117676}
+        - {x: 26.029297, y: 17.882324}
+        - {x: 4.029297, y: 35.882324}
+    - name: spritesheet_balancoire_221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 34.911743}
+        - {x: -44.5, y: 1.9117432}
+        - {x: -44.5, y: -35.088257}
+        - {x: -35.5, y: -48.088257}
+        - {x: -17.5, y: -48.088257}
+        - {x: -12.5, y: -45.088257}
+        - {x: 24.5, y: -26.088257}
+        - {x: 24.5, y: 23.911743}
+        - {x: -4.5, y: 34.911743}
+    - name: spritesheet_balancoire_222
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.970581, y: 31.911743}
+        - {x: -12.029419, y: 35.911743}
+        - {x: -28.029419, y: 35.911743}
+        - {x: -43.02942, y: 8.911743}
+        - {x: -43.02942, y: -43.088257}
+        - {x: -39.02942, y: -48.088257}
+        - {x: -9.029419, y: -48.088257}
+        - {x: -6.029419, y: -42.088257}
+        - {x: 24.970581, y: -27.088257}
+        - {x: 24.970581, y: 20.911743}
+    - name: spritesheet_balancoire_223
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.058838, y: 35.911743}
+        - {x: -43.058838, y: 12.911743}
+        - {x: -43.058838, y: -48.088257}
+        - {x: 0.9411621, y: -48.088257}
+        - {x: 25.941162, y: -29.088257}
+        - {x: 25.941162, y: 16.911743}
+        - {x: 16.941162, y: 35.911743}
+    - name: spritesheet_balancoire_224
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.088257, y: 35.911743}
+        - {x: -27.088257, y: 35.911743}
+        - {x: -43.088257, y: 7.911743}
+        - {x: -43.088257, y: -43.088257}
+        - {x: -31.088257, y: -48.088257}
+        - {x: -15.088257, y: -48.088257}
+        - {x: 14.911743, y: -45.088257}
+        - {x: 24.911743, y: -28.088257}
+        - {x: 24.911743, y: 24.911743}
+        - {x: 2.9117432, y: 31.911743}
+    - name: spritesheet_balancoire_225
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.882324, y: 35.911743}
+        - {x: -29.117676, y: 35.911743}
+        - {x: -43.117676, y: 15.911743}
+        - {x: -43.117676, y: -47.088257}
+        - {x: -39.117676, y: -48.088257}
+        - {x: -4.117676, y: -48.088257}
+        - {x: 22.882324, y: -21.088257}
+        - {x: 24.882324, y: -10.088257}
+        - {x: 24.882324, y: 16.911743}
+    - name: spritesheet_balancoire_226
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.147095, y: 35.911743}
+        - {x: -43.147095, y: -48.088257}
+        - {x: 24.852905, y: -48.088257}
+        - {x: 24.852905, y: 19.911743}
+        - {x: 12.852905, y: 35.911743}
+    - name: spritesheet_balancoire_227
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.8234863, y: 28.911743}
+        - {x: -13.176514, y: 35.911743}
+        - {x: -27.176514, y: 35.911743}
+        - {x: -43.176514, y: 8.911743}
+        - {x: -43.176514, y: -48.088257}
+        - {x: -3.1765137, y: -48.088257}
+        - {x: 23.823486, y: -24.088257}
+        - {x: 24.823486, y: -17.088257}
+        - {x: 24.823486, y: 15.911743}
+    - name: spritesheet_balancoire_228
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.205933, y: 35.911743}
+        - {x: -31.205933, y: 35.911743}
+        - {x: -43.205933, y: 6.911743}
+        - {x: -43.205933, y: -41.088257}
+        - {x: -42.205933, y: -48.088257}
+        - {x: -5.2059326, y: -48.088257}
+        - {x: 24.794067, y: -26.088257}
+        - {x: 24.794067, y: 22.911743}
+    - name: spritesheet_balancoire_229
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.7646484, y: 33.911743}
+        - {x: -4.2353516, y: 35.911743}
+        - {x: -30.235352, y: 35.911743}
+        - {x: -43.23535, y: 4.911743}
+        - {x: -43.23535, y: -33.088257}
+        - {x: -38.23535, y: -48.088257}
+        - {x: -5.2353516, y: -48.088257}
+        - {x: 24.764648, y: -26.088257}
+        - {x: 24.764648, y: 11.911743}
+        - {x: 19.764648, y: 13.911743}
+    - name: spritesheet_balancoire_230
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.73523, y: 18.911743}
+        - {x: 8.7352295, y: 35.911743}
+        - {x: -32.26477, y: 35.911743}
+        - {x: -44.26477, y: 0.91174316}
+        - {x: -44.26477, y: -36.088257}
+        - {x: -38.26477, y: -45.088257}
+        - {x: -31.26477, y: -48.088257}
+        - {x: -16.26477, y: -48.088257}
+        - {x: -5.2647705, y: -43.088257}
+        - {x: 18.73523, y: -24.088257}
+        - {x: 24.73523, y: -12.088257}
+    - name: spritesheet_balancoire_231
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.29419, y: 35.911743}
+        - {x: -43.29419, y: 14.911743}
+        - {x: -43.29419, y: -48.088257}
+        - {x: -0.29418945, y: -48.088257}
+        - {x: 24.70581, y: -34.088257}
+        - {x: 24.70581, y: 22.911743}
+        - {x: 2.7058105, y: 35.911743}
+    - name: spritesheet_balancoire_232
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.676392, y: 35.911743}
+        - {x: -32.32361, y: 35.911743}
+        - {x: -43.32361, y: 31.911743}
+        - {x: -44.32361, y: 14.911743}
+        - {x: -44.32361, y: -23.088257}
+        - {x: -39.32361, y: -40.088257}
+        - {x: -38.32361, y: -45.088257}
+        - {x: -31.323608, y: -48.088257}
+        - {x: -8.323608, y: -48.088257}
+        - {x: -0.3236084, y: -46.088257}
+        - {x: 24.676392, y: -16.088257}
+        - {x: 24.676392, y: 33.911743}
+    - name: spritesheet_balancoire_233
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.353027, y: 35.911743}
+        - {x: -26.353027, y: 35.911743}
+        - {x: -29.353027, y: 28.911743}
+        - {x: -43.353027, y: 3.9117432}
+        - {x: -43.353027, y: -48.088257}
+        - {x: 4.6469727, y: -48.088257}
+        - {x: 24.646973, y: -41.088257}
+        - {x: 24.646973, y: 17.911743}
+        - {x: 1.6469727, y: 30.911743}
+    - name: spritesheet_balancoire_234
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.3824463, y: -12.088257}
+        - {x: -7.3824463, y: -15.088257}
+        - {x: -8.382446, y: -21.088257}
+        - {x: -8.382446, y: -22.088257}
+        - {x: -6.3824463, y: -28.088257}
+        - {x: 9.617554, y: -34.088257}
+        - {x: 24.617554, y: -12.088257}
+        - {x: 24.617554, y: 20.911743}
+        - {x: 9.617554, y: 35.911743}
+        - {x: -26.382446, y: 35.911743}
+        - {x: -44.382446, y: 5.911743}
+        - {x: -44.382446, y: -48.088257}
+        - {x: -8.382446, y: -48.088257}
+        - {x: -8.382446, y: -16.088257}
+        - {x: -7.3824463, y: -15.088257}
+    - name: spritesheet_balancoire_235
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5881348, y: 34.911743}
+        - {x: -2.4118652, y: 35.911743}
+        - {x: -27.411865, y: 35.911743}
+        - {x: -43.411865, y: -0.088256836}
+        - {x: -43.411865, y: -42.088257}
+        - {x: -38.411865, y: -48.088257}
+        - {x: -0.41186523, y: -48.088257}
+        - {x: 17.588135, y: -36.088257}
+        - {x: 24.588135, y: -19.088257}
+        - {x: 24.588135, y: 17.911743}
+    - name: spritesheet_balancoire_236
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.441284, y: 35.911743}
+        - {x: -44.441284, y: 2.9117432}
+        - {x: -44.441284, y: -30.088257}
+        - {x: -43.441284, y: -44.088257}
+        - {x: -38.441284, y: -48.088257}
+        - {x: -14.441284, y: -48.088257}
+        - {x: 12.558716, y: -31.088257}
+        - {x: 24.558716, y: -5.088257}
+        - {x: 24.558716, y: 22.911743}
+        - {x: -5.441284, y: 35.911743}
+    - name: spritesheet_balancoire_237
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 1200
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.970703, y: 35.911743}
+        - {x: -28.970703, y: 35.911743}
+        - {x: -42.970703, y: 0.91174316}
+        - {x: -42.970703, y: -23.088257}
+        - {x: -37.970703, y: -48.088257}
+        - {x: -0.9707031, y: -48.088257}
+        - {x: 25.029297, y: -14.088257}
+        - {x: 25.029297, y: 18.911743}
+        - {x: 2.0292969, y: 30.911743}
+    - name: spritesheet_balancoire_238
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.5, y: 34.941162}
+        - {x: -11.5, y: 35.941162}
+        - {x: -27.5, y: 35.941162}
+        - {x: -44.5, y: 6.941162}
+        - {x: -44.5, y: -31.058838}
+        - {x: -43.5, y: -43.058838}
+        - {x: -33.5, y: -47.058838}
+        - {x: -4.5, y: -47.058838}
+        - {x: 21.5, y: -29.058838}
+        - {x: 24.5, y: -5.058838}
+        - {x: 24.5, y: 20.941162}
+    - name: spritesheet_balancoire_239
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.970581, y: 35.941162}
+        - {x: -26.029419, y: 35.941162}
+        - {x: -43.02942, y: 5.941162}
+        - {x: -43.02942, y: -44.058838}
+        - {x: -36.02942, y: -47.058838}
+        - {x: -14.029419, y: -47.058838}
+        - {x: -5.029419, y: -42.058838}
+        - {x: 24.970581, y: -2.058838}
+        - {x: 24.970581, y: 19.941162}
+    - name: spritesheet_balancoire_240
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.058838, y: 35.941162}
+        - {x: -43.058838, y: -3.058838}
+        - {x: -43.058838, y: -35.058838}
+        - {x: -36.058838, y: -47.058838}
+        - {x: -3.058838, y: -47.058838}
+        - {x: 25.941162, y: -7.058838}
+        - {x: 25.941162, y: 20.941162}
+        - {x: 11.941162, y: 35.941162}
+    - name: spritesheet_balancoire_241
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.911743, y: 35.941162}
+        - {x: -37.088257, y: 35.941162}
+        - {x: -43.088257, y: 2.941162}
+        - {x: -43.088257, y: -38.058838}
+        - {x: -36.088257, y: -47.058838}
+        - {x: -7.088257, y: -47.058838}
+        - {x: -4.088257, y: -46.058838}
+        - {x: 24.911743, y: -5.058838}
+        - {x: 24.911743, y: 8.941162}
+    - name: spritesheet_balancoire_242
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.117676, y: 35.941162}
+        - {x: -43.117676, y: 21.941162}
+        - {x: -43.117676, y: -47.058838}
+        - {x: -5.117676, y: -47.058838}
+        - {x: 15.882324, y: -38.058838}
+        - {x: 24.882324, y: -3.058838}
+        - {x: 24.882324, y: 16.941162}
+        - {x: 4.882324, y: 35.941162}
+    - name: spritesheet_balancoire_243
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.8529053, y: 35.941162}
+        - {x: -33.147095, y: 35.941162}
+        - {x: -34.147095, y: 34.941162}
+        - {x: -43.147095, y: 4.941162}
+        - {x: -43.147095, y: -42.058838}
+        - {x: -37.147095, y: -47.058838}
+        - {x: -5.1470947, y: -47.058838}
+        - {x: 24.852905, y: -9.058838}
+        - {x: 24.852905, y: 19.941162}
+        - {x: 21.852905, y: 26.941162}
+    - name: spritesheet_balancoire_244
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.176514, y: 35.941162}
+        - {x: -43.176514, y: 4.941162}
+        - {x: -43.176514, y: -46.058838}
+        - {x: -39.176514, y: -47.058838}
+        - {x: -4.1765137, y: -47.058838}
+        - {x: 24.823486, y: -8.058838}
+        - {x: 24.823486, y: 19.941162}
+        - {x: 12.823486, y: 35.941162}
+    - name: spritesheet_balancoire_245
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.7940674, y: 32.941162}
+        - {x: -10.205933, y: 35.941162}
+        - {x: -42.205933, y: 35.941162}
+        - {x: -43.205933, y: 32.941162}
+        - {x: -43.205933, y: -47.058838}
+        - {x: -7.2059326, y: -47.058838}
+        - {x: 14.794067, y: -34.058838}
+        - {x: 24.794067, y: -2.058838}
+        - {x: 24.794067, y: 19.941162}
+    - name: spritesheet_balancoire_246
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.235352, y: 35.941162}
+        - {x: -43.23535, y: 16.941162}
+        - {x: -43.23535, y: -41.058838}
+        - {x: -42.23535, y: -44.058838}
+        - {x: -40.23535, y: -47.058838}
+        - {x: -9.235352, y: -47.058838}
+        - {x: 19.764648, y: -28.058838}
+        - {x: 24.764648, y: -20.058838}
+        - {x: 24.764648, y: 21.941162}
+        - {x: 12.764648, y: 35.941162}
+    - name: spritesheet_balancoire_247
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.7352295, y: 32.941162}
+        - {x: -21.26477, y: 35.941162}
+        - {x: -25.26477, y: 35.941162}
+        - {x: -29.26477, y: 30.941162}
+        - {x: -42.26477, y: 4.941162}
+        - {x: -44.26477, y: -5.058838}
+        - {x: -44.26477, y: -29.058838}
+        - {x: -37.26477, y: -47.058838}
+        - {x: -10.2647705, y: -47.058838}
+        - {x: 13.7352295, y: -31.058838}
+        - {x: 24.73523, y: -6.058838}
+        - {x: 24.73523, y: 13.941162}
+    - name: spritesheet_balancoire_248
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.70581, y: 21.941162}
+        - {x: -8.294189, y: 35.941162}
+        - {x: -34.29419, y: 35.941162}
+        - {x: -43.29419, y: 21.941162}
+        - {x: -43.29419, y: -47.058838}
+        - {x: -8.294189, y: -47.058838}
+        - {x: -2.2941895, y: -45.058838}
+        - {x: 14.705811, y: -26.058838}
+        - {x: 24.70581, y: 1.9411621}
+        - {x: 24.70581, y: 12.941162}
+    - name: spritesheet_balancoire_249
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.3236084, y: -12.058838}
+        - {x: -7.3236084, y: -4.058838}
+        - {x: -7.3236084, y: -15.058838}
+        - {x: -8.323608, y: -21.058838}
+        - {x: -8.323608, y: -22.058838}
+        - {x: -5.3236084, y: -29.058838}
+        - {x: 14.676392, y: -27.058838}
+        - {x: 24.676392, y: -4.058838}
+        - {x: 24.676392, y: 12.941162}
+        - {x: 23.676392, y: 13.941162}
+        - {x: 1.6763916, y: 32.941162}
+        - {x: -8.323608, y: 35.941162}
+        - {x: -25.323608, y: 35.941162}
+        - {x: -32.32361, y: 32.941162}
+        - {x: -44.32361, y: 12.941162}
+        - {x: -44.32361, y: -44.058838}
+        - {x: -39.32361, y: -47.058838}
+        - {x: -10.323608, y: -47.058838}
+        - {x: -8.323608, y: -41.058838}
+        - {x: -8.323608, y: -14.058838}
+    - name: spritesheet_balancoire_250
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.353027, y: 35.941162}
+        - {x: -43.353027, y: 11.941162}
+        - {x: -43.353027, y: -38.058838}
+        - {x: -42.353027, y: -41.058838}
+        - {x: -36.353027, y: -47.058838}
+        - {x: -7.3530273, y: -47.058838}
+        - {x: 22.646973, y: -38.058838}
+        - {x: 24.646973, y: -9.058838}
+        - {x: 24.646973, y: 26.941162}
+        - {x: 6.6469727, y: 35.941162}
+    - name: spritesheet_balancoire_251
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.617554, y: -28.058838}
+        - {x: 24.617554, y: -1.0588379}
+        - {x: 24.617554, y: 13.941162}
+        - {x: 15.617554, y: 25.941162}
+        - {x: 2.6175537, y: 35.941162}
+        - {x: -32.382446, y: 35.941162}
+        - {x: -44.382446, y: 10.941162}
+        - {x: -44.382446, y: -42.058838}
+        - {x: -40.382446, y: -47.058838}
+        - {x: -11.382446, y: -47.058838}
+        - {x: -7.3824463, y: -42.058838}
+        - {x: -7.3824463, y: -26.058838}
+        - {x: 0.6175537, y: -28.058838}
+    - name: spritesheet_balancoire_252
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8.411865, y: 35.941162}
+        - {x: -33.411865, y: 35.941162}
+        - {x: -43.411865, y: 22.941162}
+        - {x: -43.411865, y: -47.058838}
+        - {x: 10.588135, y: -47.058838}
+        - {x: 24.588135, y: -22.058838}
+        - {x: 24.588135, y: 24.941162}
+        - {x: 2.5881348, y: 34.941162}
+    - name: spritesheet_balancoire_253
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.558716, y: -25.058838}
+        - {x: 24.558716, y: -11.058838}
+        - {x: 24.558716, y: 15.941162}
+        - {x: 7.558716, y: 30.941162}
+        - {x: -7.441284, y: 35.941162}
+        - {x: -33.441284, y: 35.941162}
+        - {x: -44.441284, y: 13.941162}
+        - {x: -44.441284, y: -40.058838}
+        - {x: -36.441284, y: -47.058838}
+        - {x: -12.441284, y: -47.058838}
+        - {x: -7.441284, y: -42.058838}
+        - {x: -7.441284, y: -26.058838}
+        - {x: 8.558716, y: -28.058838}
+    - name: spritesheet_balancoire_254
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 800
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38.970703, y: 35.941162}
+        - {x: -42.970703, y: 27.941162}
+        - {x: -42.970703, y: -47.058838}
+        - {x: 0.029296875, y: -47.058838}
+        - {x: 7.029297, y: -44.058838}
+        - {x: 25.029297, y: -23.058838}
+        - {x: 25.029297, y: 27.941162}
+        - {x: 0.029296875, y: 35.941162}
+    - name: spritesheet_balancoire_255
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.5, y: -26.029419}
+        - {x: 24.5, y: -10.029419}
+        - {x: 24.5, y: 16.970581}
+        - {x: 6.5, y: 30.970581}
+        - {x: -6.5, y: 35.97058}
+        - {x: -30.5, y: 35.97058}
+        - {x: -44.5, y: 9.970581}
+        - {x: -44.5, y: -47.02942}
+        - {x: -41.5, y: -48.02942}
+        - {x: -7.5, y: -48.02942}
+        - {x: -7.5, y: -26.029419}
+        - {x: 9.5, y: -29.029419}
+    - name: spritesheet_balancoire_256
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.02942, y: 35.97058}
+        - {x: -43.02942, y: 11.970581}
+        - {x: -43.02942, y: -47.02942}
+        - {x: -41.02942, y: -48.02942}
+        - {x: 10.970581, y: -48.02942}
+        - {x: 24.970581, y: -27.029419}
+        - {x: 24.970581, y: 26.970581}
+        - {x: 8.970581, y: 35.97058}
+    - name: spritesheet_balancoire_257
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.941162, y: 30.970581}
+        - {x: -1.0588379, y: 35.97058}
+        - {x: -27.058838, y: 35.97058}
+        - {x: -43.058838, y: 6.970581}
+        - {x: -43.058838, y: -37.02942}
+        - {x: -38.058838, y: -48.02942}
+        - {x: -7.058838, y: -48.02942}
+        - {x: -0.05883789, y: -44.02942}
+        - {x: 20.941162, y: -24.029419}
+        - {x: 25.941162, y: -14.029419}
+        - {x: 25.941162, y: 17.970581}
+    - name: spritesheet_balancoire_258
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.088257, y: 35.97058}
+        - {x: -43.088257, y: 3.970581}
+        - {x: -43.088257, y: -48.02942}
+        - {x: 3.9117432, y: -48.02942}
+        - {x: 24.911743, y: -31.029419}
+        - {x: 24.911743, y: 19.970581}
+        - {x: -7.088257, y: 35.97058}
+    - name: spritesheet_balancoire_259
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.882324, y: 15.970581}
+        - {x: 1.8823242, y: 31.970581}
+        - {x: -9.117676, y: 35.97058}
+        - {x: -27.117676, y: 35.97058}
+        - {x: -43.117676, y: 7.970581}
+        - {x: -43.117676, y: -37.02942}
+        - {x: -38.117676, y: -48.02942}
+        - {x: -9.117676, y: -48.02942}
+        - {x: -2.1176758, y: -43.02942}
+        - {x: 14.882324, y: -28.029419}
+        - {x: 21.882324, y: -18.029419}
+        - {x: 24.882324, y: -5.029419}
+    - name: spritesheet_balancoire_260
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.147095, y: 35.97058}
+        - {x: -28.147095, y: 35.97058}
+        - {x: -43.147095, y: 3.970581}
+        - {x: -43.147095, y: -32.02942}
+        - {x: -41.147095, y: -42.02942}
+        - {x: -36.147095, y: -48.02942}
+        - {x: -1.1470947, y: -48.02942}
+        - {x: 24.852905, y: -30.029419}
+        - {x: 24.852905, y: 17.970581}
+        - {x: 1.8529053, y: 33.97058}
+    - name: spritesheet_balancoire_261
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7.1765137, y: 35.97058}
+        - {x: -30.176514, y: 35.97058}
+        - {x: -43.176514, y: 10.970581}
+        - {x: -43.176514, y: -29.029419}
+        - {x: -41.176514, y: -43.02942}
+        - {x: -31.176514, y: -48.02942}
+        - {x: -22.176514, y: -48.02942}
+        - {x: -10.176514, y: -45.02942}
+        - {x: 22.823486, y: -36.02942}
+        - {x: 24.823486, y: -30.029419}
+        - {x: 24.823486, y: 23.970581}
+    - name: spritesheet_balancoire_262
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.794067, y: 15.970581}
+        - {x: 1.7940674, y: 31.970581}
+        - {x: -6.2059326, y: 35.97058}
+        - {x: -34.205933, y: 35.97058}
+        - {x: -43.205933, y: 8.970581}
+        - {x: -43.205933, y: -46.02942}
+        - {x: -41.205933, y: -48.02942}
+        - {x: -7.2059326, y: -48.02942}
+        - {x: -6.2059326, y: -37.02942}
+        - {x: 21.794067, y: -24.029419}
+        - {x: 24.794067, y: -17.029419}
+    - name: spritesheet_balancoire_263
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.7646484, y: 33.97058}
+        - {x: -8.235352, y: 35.97058}
+        - {x: -26.235352, y: 35.97058}
+        - {x: -41.23535, y: 10.970581}
+        - {x: -43.23535, y: 4.970581}
+        - {x: -43.23535, y: -31.029419}
+        - {x: -39.23535, y: -48.02942}
+        - {x: -6.2353516, y: -48.02942}
+        - {x: 23.764648, y: -29.029419}
+        - {x: 24.764648, y: -18.029419}
+        - {x: 24.764648, y: 16.970581}
+    - name: spritesheet_balancoire_264
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4.7352295, y: 33.97058}
+        - {x: -8.2647705, y: 35.97058}
+        - {x: -27.26477, y: 35.97058}
+        - {x: -44.26477, y: 10.970581}
+        - {x: -44.26477, y: -48.02942}
+        - {x: -6.2647705, y: -48.02942}
+        - {x: 20.73523, y: -22.029419}
+        - {x: 24.73523, y: -13.029419}
+        - {x: 24.73523, y: 17.970581}
+    - name: spritesheet_balancoire_265
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.2941895, y: 35.97058}
+        - {x: -28.29419, y: 35.97058}
+        - {x: -43.29419, y: 1.970581}
+        - {x: -43.29419, y: -33.02942}
+        - {x: -39.29419, y: -48.02942}
+        - {x: -2.2941895, y: -48.02942}
+        - {x: 24.70581, y: -27.029419}
+        - {x: 24.70581, y: 17.970581}
+        - {x: 2.7058105, y: 33.97058}
+    - name: spritesheet_balancoire_266
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.676392, y: 18.970581}
+        - {x: -3.3236084, y: 35.97058}
+        - {x: -29.323608, y: 35.97058}
+        - {x: -44.32361, y: 17.970581}
+        - {x: -44.32361, y: -38.02942}
+        - {x: -42.32361, y: -48.02942}
+        - {x: -6.3236084, y: -48.02942}
+        - {x: 24.676392, y: -17.029419}
+    - name: spritesheet_balancoire_267
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.353027, y: 35.97058}
+        - {x: -27.353027, y: 35.97058}
+        - {x: -43.353027, y: 7.970581}
+        - {x: -43.353027, y: -46.02942}
+        - {x: -42.353027, y: -48.02942}
+        - {x: 24.646973, y: -48.02942}
+        - {x: 24.646973, y: 21.970581}
+        - {x: 1.6469727, y: 31.970581}
+    - name: spritesheet_balancoire_268
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.382446, y: 35.97058}
+        - {x: -39.382446, y: 33.97058}
+        - {x: -44.382446, y: 9.970581}
+        - {x: -44.382446, y: -37.02942}
+        - {x: -39.382446, y: -47.02942}
+        - {x: -37.382446, y: -48.02942}
+        - {x: 5.6175537, y: -48.02942}
+        - {x: 24.617554, y: -21.029419}
+        - {x: 24.617554, y: 29.970581}
+        - {x: 17.617554, y: 35.97058}
+    - name: spritesheet_balancoire_269
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5881348, y: 35.97058}
+        - {x: -28.411865, y: 35.97058}
+        - {x: -43.411865, y: 5.970581}
+        - {x: -43.411865, y: -32.02942}
+        - {x: -40.411865, y: -48.02942}
+        - {x: -1.4118652, y: -48.02942}
+        - {x: 21.588135, y: -27.029419}
+        - {x: 24.588135, y: -21.029419}
+        - {x: 24.588135, y: 17.970581}
+    - name: spritesheet_balancoire_270
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.441284, y: 35.97058}
+        - {x: -42.441284, y: 4.970581}
+        - {x: -44.441284, y: -1.029419}
+        - {x: -44.441284, y: -39.02942}
+        - {x: -40.441284, y: -48.02942}
+        - {x: -1.4412842, y: -48.02942}
+        - {x: 24.558716, y: -33.02942}
+        - {x: 24.558716, y: 23.970581}
+        - {x: 12.558716, y: 35.97058}
+    - name: spritesheet_balancoire_271
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 400
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.029297, y: 35.97058}
+        - {x: -28.970703, y: 35.97058}
+        - {x: -42.970703, y: 18.970581}
+        - {x: -42.970703, y: -48.02942}
+        - {x: 6.029297, y: -48.02942}
+        - {x: 21.029297, y: -26.029419}
+        - {x: 25.029297, y: -15.029419}
+        - {x: 25.029297, y: 19.970581}
+    - name: spritesheet_balancoire_272
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 32.5}
+        - {x: -11.5, y: 34.5}
+        - {x: -28.5, y: 34.5}
+        - {x: -44.5, y: 5.5}
+        - {x: -44.5, y: -44.5}
+        - {x: -37.5, y: -48.5}
+        - {x: -20.5, y: -48.5}
+        - {x: -5.5, y: -43.5}
+        - {x: 20.5, y: -30.5}
+        - {x: 24.5, y: -19.5}
+        - {x: 24.5, y: 13.5}
+    - name: spritesheet_balancoire_273
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.02942, y: 34.5}
+        - {x: -43.02942, y: 4.5}
+        - {x: -43.02942, y: -45.5}
+        - {x: -34.02942, y: -48.5}
+        - {x: 3.970581, y: -48.5}
+        - {x: 24.970581, y: -16.5}
+        - {x: 24.970581, y: 25.5}
+        - {x: 13.970581, y: 34.5}
+    - name: spritesheet_balancoire_274
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.058838, y: 34.5}
+        - {x: -42.058838, y: 3.5}
+        - {x: -43.058838, y: -0.5}
+        - {x: -43.058838, y: -46.5}
+        - {x: -42.058838, y: -48.5}
+        - {x: 0.9411621, y: -48.5}
+        - {x: 24.941162, y: -36.5}
+        - {x: 24.941162, y: 22.5}
+        - {x: 14.941162, y: 34.5}
+    - name: spritesheet_balancoire_275
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.088257, y: 34.5}
+        - {x: -35.088257, y: 33.5}
+        - {x: -43.088257, y: 3.5}
+        - {x: -43.088257, y: -47.5}
+        - {x: -42.088257, y: -48.5}
+        - {x: -2.0882568, y: -48.5}
+        - {x: 24.911743, y: -36.5}
+        - {x: 24.911743, y: 25.5}
+        - {x: 8.911743, y: 34.5}
+    - name: spritesheet_balancoire_276
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.117676, y: 34.5}
+        - {x: -43.117676, y: 7.5}
+        - {x: -43.117676, y: -47.5}
+        - {x: -42.117676, y: -48.5}
+        - {x: 8.882324, y: -48.5}
+        - {x: 24.882324, y: -23.5}
+        - {x: 24.882324, y: 22.5}
+        - {x: -9.117676, y: 34.5}
+    - name: spritesheet_balancoire_277
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.147095, y: 34.5}
+        - {x: -43.147095, y: 4.5}
+        - {x: -43.147095, y: -43.5}
+        - {x: -38.147095, y: -48.5}
+        - {x: -16.147095, y: -48.5}
+        - {x: 14.852905, y: -28.5}
+        - {x: 24.852905, y: -6.5}
+        - {x: 24.852905, y: 16.5}
+        - {x: 8.852905, y: 34.5}
+    - name: spritesheet_balancoire_278
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.176514, y: 34.5}
+        - {x: -43.176514, y: 2.5}
+        - {x: -43.176514, y: -48.5}
+        - {x: 8.823486, y: -48.5}
+        - {x: 24.823486, y: -42.5}
+        - {x: 24.823486, y: 23.5}
+        - {x: 16.823486, y: 34.5}
+    - name: spritesheet_balancoire_279
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.205933, y: 34.5}
+        - {x: -42.205933, y: 34.5}
+        - {x: -43.205933, y: 27.5}
+        - {x: -43.205933, y: -48.5}
+        - {x: 19.794067, y: -48.5}
+        - {x: 24.794067, y: -46.5}
+        - {x: 24.794067, y: 18.5}
+        - {x: 1.7940674, y: 31.5}
+    - name: spritesheet_balancoire_280
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.23535, y: 34.5}
+        - {x: -43.23535, y: 20.5}
+        - {x: -43.23535, y: -40.5}
+        - {x: -41.23535, y: -48.5}
+        - {x: 9.764648, y: -48.5}
+        - {x: 24.764648, y: -40.5}
+        - {x: 24.764648, y: 20.5}
+        - {x: -8.235352, y: 34.5}
+    - name: spritesheet_balancoire_281
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.26477, y: 34.5}
+        - {x: -44.26477, y: 12.5}
+        - {x: -44.26477, y: -48.5}
+        - {x: 7.7352295, y: -48.5}
+        - {x: 24.73523, y: -25.5}
+        - {x: 24.73523, y: 27.5}
+        - {x: 15.7352295, y: 34.5}
+    - name: spritesheet_balancoire_282
+      rect:
+        serializedVersion: 2
+        x: 4000
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.2941895, y: 34.5}
+        - {x: -31.29419, y: 34.5}
+        - {x: -43.29419, y: 3.5}
+        - {x: -43.29419, y: -48.5}
+        - {x: -4.2941895, y: -48.5}
+        - {x: 24.70581, y: -37.5}
+        - {x: 24.70581, y: 14.5}
+        - {x: 2.7058105, y: 32.5}
+    - name: spritesheet_balancoire_283
+      rect:
+        serializedVersion: 2
+        x: 4400
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.676392, y: 34.5}
+        - {x: -34.32361, y: 34.5}
+        - {x: -38.32361, y: 33.5}
+        - {x: -44.32361, y: 7.5}
+        - {x: -44.32361, y: -48.5}
+        - {x: 0.6763916, y: -48.5}
+        - {x: 14.676392, y: -31.5}
+        - {x: 24.676392, y: -15.5}
+        - {x: 24.676392, y: 19.5}
+    - name: spritesheet_balancoire_284
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.3530273, y: 34.5}
+        - {x: -31.353027, y: 34.5}
+        - {x: -43.353027, y: 2.5}
+        - {x: -43.353027, y: -48.5}
+        - {x: 9.646973, y: -48.5}
+        - {x: 24.646973, y: -43.5}
+        - {x: 24.646973, y: 16.5}
+        - {x: 7.6469727, y: 29.5}
+    - name: spritesheet_balancoire_285
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.382446, y: 34.5}
+        - {x: -44.382446, y: 9.5}
+        - {x: -44.382446, y: -44.5}
+        - {x: -42.382446, y: -48.5}
+        - {x: 17.617554, y: -48.5}
+        - {x: 24.617554, y: -45.5}
+        - {x: 24.617554, y: 18.5}
+        - {x: 6.6175537, y: 34.5}
+    - name: spritesheet_balancoire_286
+      rect:
+        serializedVersion: 2
+        x: 5600
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.411865, y: 34.5}
+        - {x: -43.411865, y: -0.5}
+        - {x: -43.411865, y: -42.5}
+        - {x: -41.411865, y: -48.5}
+        - {x: 10.588135, y: -48.5}
+        - {x: 24.588135, y: -22.5}
+        - {x: 24.588135, y: 23.5}
+        - {x: 4.588135, y: 34.5}
+    - name: spritesheet_balancoire_287
+      rect:
+        serializedVersion: 2
+        x: 6000
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -3.4412842, y: 34.5}
+        - {x: -32.441284, y: 34.5}
+        - {x: -44.441284, y: 9.5}
+        - {x: -44.441284, y: -43.5}
+        - {x: -40.441284, y: -48.5}
+        - {x: -3.4412842, y: -48.5}
+        - {x: 24.558716, y: -11.5}
+        - {x: 24.558716, y: 19.5}
+        - {x: 8.558716, y: 30.5}
+    - name: spritesheet_balancoire_288
+      rect:
+        serializedVersion: 2
+        x: 6400
+        y: 0
+        width: 400
+        height: 400
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.970703, y: 34.5}
+        - {x: -42.970703, y: -0.5}
+        - {x: -42.970703, y: -48.5}
+        - {x: 5.029297, y: -48.5}
+        - {x: 25.029297, y: -41.5}
+        - {x: 25.029297, y: 16.5}
+        - {x: 8.029297, y: 34.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
