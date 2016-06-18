@@ -1,0 +1,5161 @@
+fileFormatVersion: 2
+guid: f55479d0ad93ca249a37865ad5bad284
+timeCreated: 1466262662
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheet_fille_0
+    21300002: spritesheet_fille_1
+    21300004: spritesheet_fille_2
+    21300006: spritesheet_fille_3
+    21300008: spritesheet_fille_4
+    21300010: spritesheet_fille_5
+    21300012: spritesheet_fille_6
+    21300014: spritesheet_fille_7
+    21300016: spritesheet_fille_8
+    21300018: spritesheet_fille_9
+    21300020: spritesheet_fille_10
+    21300022: spritesheet_fille_11
+    21300024: spritesheet_fille_12
+    21300026: spritesheet_fille_13
+    21300028: spritesheet_fille_14
+    21300030: spritesheet_fille_15
+    21300032: spritesheet_fille_16
+    21300034: spritesheet_fille_17
+    21300036: spritesheet_fille_18
+    21300038: spritesheet_fille_19
+    21300040: spritesheet_fille_20
+    21300042: spritesheet_fille_21
+    21300044: spritesheet_fille_22
+    21300046: spritesheet_fille_23
+    21300048: spritesheet_fille_24
+    21300050: spritesheet_fille_25
+    21300052: spritesheet_fille_26
+    21300054: spritesheet_fille_27
+    21300056: spritesheet_fille_28
+    21300058: spritesheet_fille_29
+    21300060: spritesheet_fille_30
+    21300062: spritesheet_fille_31
+    21300064: spritesheet_fille_32
+    21300066: spritesheet_fille_33
+    21300068: spritesheet_fille_34
+    21300070: spritesheet_fille_35
+    21300072: spritesheet_fille_36
+    21300074: spritesheet_fille_37
+    21300076: spritesheet_fille_38
+    21300078: spritesheet_fille_39
+    21300080: spritesheet_fille_40
+    21300082: spritesheet_fille_41
+    21300084: spritesheet_fille_42
+    21300086: spritesheet_fille_43
+    21300088: spritesheet_fille_44
+    21300090: spritesheet_fille_45
+    21300092: spritesheet_fille_46
+    21300094: spritesheet_fille_47
+    21300096: spritesheet_fille_48
+    21300098: spritesheet_fille_49
+    21300100: spritesheet_fille_50
+    21300102: spritesheet_fille_51
+    21300104: spritesheet_fille_52
+    21300106: spritesheet_fille_53
+    21300108: spritesheet_fille_54
+    21300110: spritesheet_fille_55
+    21300112: spritesheet_fille_56
+    21300114: spritesheet_fille_57
+    21300116: spritesheet_fille_58
+    21300118: spritesheet_fille_59
+    21300120: spritesheet_fille_60
+    21300122: spritesheet_fille_61
+    21300124: spritesheet_fille_62
+    21300126: spritesheet_fille_63
+    21300128: spritesheet_fille_64
+    21300130: spritesheet_fille_65
+    21300132: spritesheet_fille_66
+    21300134: spritesheet_fille_67
+    21300136: spritesheet_fille_68
+    21300138: spritesheet_fille_69
+    21300140: spritesheet_fille_70
+    21300142: spritesheet_fille_71
+    21300144: spritesheet_fille_72
+    21300146: spritesheet_fille_73
+    21300148: spritesheet_fille_74
+    21300150: spritesheet_fille_75
+    21300152: spritesheet_fille_76
+    21300154: spritesheet_fille_77
+    21300156: spritesheet_fille_78
+    21300158: spritesheet_fille_79
+    21300160: spritesheet_fille_80
+    21300162: spritesheet_fille_81
+    21300164: spritesheet_fille_82
+    21300166: spritesheet_fille_83
+    21300168: spritesheet_fille_84
+    21300170: spritesheet_fille_85
+    21300172: spritesheet_fille_86
+    21300174: spritesheet_fille_87
+    21300176: spritesheet_fille_88
+    21300178: spritesheet_fille_89
+    21300180: spritesheet_fille_90
+    21300182: spritesheet_fille_91
+    21300184: spritesheet_fille_92
+    21300186: spritesheet_fille_93
+    21300188: spritesheet_fille_94
+    21300190: spritesheet_fille_95
+    21300192: spritesheet_fille_96
+    21300194: spritesheet_fille_97
+    21300196: spritesheet_fille_98
+    21300198: spritesheet_fille_99
+    21300200: spritesheet_fille_100
+    21300202: spritesheet_fille_101
+    21300204: spritesheet_fille_102
+    21300206: spritesheet_fille_103
+    21300208: spritesheet_fille_104
+    21300210: spritesheet_fille_105
+    21300212: spritesheet_fille_106
+    21300214: spritesheet_fille_107
+    21300216: spritesheet_fille_108
+    21300218: spritesheet_fille_109
+    21300220: spritesheet_fille_110
+    21300222: spritesheet_fille_111
+    21300224: spritesheet_fille_112
+    21300226: spritesheet_fille_113
+    21300228: spritesheet_fille_114
+    21300230: spritesheet_fille_115
+    21300232: spritesheet_fille_116
+    21300234: spritesheet_fille_117
+    21300236: spritesheet_fille_118
+    21300238: spritesheet_fille_119
+    21300240: spritesheet_fille_120
+    21300242: spritesheet_fille_121
+    21300244: spritesheet_fille_122
+    21300246: spritesheet_fille_123
+    21300248: spritesheet_fille_124
+    21300250: spritesheet_fille_125
+    21300252: spritesheet_fille_126
+    21300254: spritesheet_fille_127
+    21300256: spritesheet_fille_128
+    21300258: spritesheet_fille_129
+    21300260: spritesheet_fille_130
+    21300262: spritesheet_fille_131
+    21300264: spritesheet_fille_132
+    21300266: spritesheet_fille_133
+    21300268: spritesheet_fille_134
+    21300270: spritesheet_fille_135
+    21300272: spritesheet_fille_136
+    21300274: spritesheet_fille_137
+    21300276: spritesheet_fille_138
+    21300278: spritesheet_fille_139
+    21300280: spritesheet_fille_140
+    21300282: spritesheet_fille_141
+    21300284: spritesheet_fille_142
+    21300286: spritesheet_fille_143
+    21300288: spritesheet_fille_144
+    21300290: spritesheet_fille_145
+    21300292: spritesheet_fille_146
+    21300294: spritesheet_fille_147
+    21300296: spritesheet_fille_148
+    21300298: spritesheet_fille_149
+    21300300: spritesheet_fille_150
+    21300302: spritesheet_fille_151
+    21300304: spritesheet_fille_152
+    21300306: spritesheet_fille_153
+    21300308: spritesheet_fille_154
+    21300310: spritesheet_fille_155
+    21300312: spritesheet_fille_156
+    21300314: spritesheet_fille_157
+    21300316: spritesheet_fille_158
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritesheet_fille_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: -33.25}
+        - {x: 8.5, y: -35.25}
+        - {x: 8.5, y: -40.25}
+        - {x: 10.5, y: -42.25}
+        - {x: 13.5, y: -42.25}
+        - {x: 15.5, y: -40.25}
+        - {x: 15.5, y: -35.25}
+        - {x: 13.5, y: -33.25}
+      - - {x: -33.5, y: -31.25}
+        - {x: 16.5, y: -31.25}
+        - {x: 16.5, y: 4.75}
+        - {x: 11.5, y: 27.75}
+        - {x: 4.5, y: 38.75}
+        - {x: -17.5, y: 38.75}
+        - {x: -33.5, y: 30.75}
+    - name: spritesheet_fille_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.75, y: -35.25}
+        - {x: 9.75, y: -40.25}
+        - {x: 10.75, y: -42.25}
+        - {x: 13.75, y: -42.25}
+        - {x: 15.75, y: -41.25}
+        - {x: 15.75, y: -35.25}
+        - {x: 13.75, y: -33.25}
+        - {x: 11.75, y: -33.25}
+      - - {x: -31.25, y: -31.25}
+        - {x: 8.75, y: -31.25}
+        - {x: 16.75, y: -29.25}
+        - {x: 16.75, y: -2.25}
+        - {x: 2.75, y: 38.75}
+        - {x: -18.25, y: 38.75}
+        - {x: -33.25, y: 34.75}
+        - {x: -33.25, y: -28.25}
+      - - {x: -18.25, y: 59.75}
+        - {x: -20.25, y: 57.75}
+        - {x: -20.25, y: 55.75}
+        - {x: -17.25, y: 52.75}
+        - {x: -15.25, y: 52.75}
+        - {x: -13.25, y: 54.75}
+        - {x: -13.25, y: 57.75}
+        - {x: -15.25, y: 59.75}
+    - name: spritesheet_fille_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -35.25}
+        - {x: 10, y: -40.25}
+        - {x: 11, y: -42.25}
+        - {x: 14, y: -42.25}
+        - {x: 16, y: -41.25}
+        - {x: 16, y: -35.25}
+        - {x: 14, y: -33.25}
+        - {x: 12, y: -33.25}
+      - - {x: -32, y: -31.25}
+        - {x: 12, y: -31.25}
+        - {x: 18, y: -29.25}
+        - {x: 18, y: 16.75}
+        - {x: 10, y: 38.75}
+        - {x: -19, y: 38.75}
+        - {x: -32, y: 16.75}
+      - - {x: -20, y: 60.75}
+        - {x: -21, y: 59.75}
+        - {x: -21, y: 55.75}
+        - {x: -20, y: 52.75}
+        - {x: -12, y: 52.75}
+        - {x: -11, y: 53.75}
+        - {x: -11, y: 58.75}
+        - {x: -15, y: 60.75}
+    - name: spritesheet_fille_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.25, y: -35.25}
+        - {x: 10.25, y: -40.25}
+        - {x: 11.25, y: -42.25}
+        - {x: 14.25, y: -42.25}
+        - {x: 16.25, y: -41.25}
+        - {x: 16.25, y: -35.25}
+        - {x: 14.25, y: -33.25}
+        - {x: 12.25, y: -33.25}
+      - - {x: 3.25, y: 38.75}
+        - {x: -16.75, y: 38.75}
+        - {x: -26.75, y: 22.75}
+        - {x: -31.75, y: 13.75}
+        - {x: -31.75, y: -30.25}
+        - {x: -27.75, y: -31.25}
+        - {x: 14.25, y: -31.25}
+        - {x: 18.25, y: -28.25}
+        - {x: 18.25, y: -4.25}
+        - {x: 6.25, y: 37.75}
+      - - {x: -19.75, y: 61.75}
+        - {x: -20.75, y: 59.75}
+        - {x: -20.75, y: 54.75}
+        - {x: -19.75, y: 52.75}
+        - {x: -9.75, y: 52.75}
+        - {x: -9.75, y: 59.75}
+        - {x: -15.75, y: 61.75}
+    - name: spritesheet_fille_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: -33.25}
+        - {x: 8.5, y: -35.25}
+        - {x: 8.5, y: -40.25}
+        - {x: 10.5, y: -42.25}
+        - {x: 13.5, y: -42.25}
+        - {x: 15.5, y: -40.25}
+        - {x: 15.5, y: -35.25}
+        - {x: 13.5, y: -33.25}
+      - - {x: -16.5, y: 38.75}
+        - {x: -31.5, y: 23.75}
+        - {x: -33.5, y: 9.75}
+        - {x: -33.5, y: -31.25}
+        - {x: 8.5, y: -31.25}
+        - {x: 16.5, y: -29.25}
+        - {x: 16.5, y: 2.75}
+        - {x: 6.5, y: 25.75}
+        - {x: -1.5, y: 38.75}
+      - - {x: -20.5, y: 61.75}
+        - {x: -23.5, y: 58.75}
+        - {x: -23.5, y: 53.75}
+        - {x: -18.5, y: 51.75}
+        - {x: -12.5, y: 51.75}
+        - {x: -10.5, y: 54.75}
+        - {x: -10.5, y: 57.75}
+        - {x: -13.5, y: 60.75}
+    - name: spritesheet_fille_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.75, y: -35.25}
+        - {x: 9.75, y: -40.25}
+        - {x: 10.75, y: -42.25}
+        - {x: 13.75, y: -42.25}
+        - {x: 15.75, y: -41.25}
+        - {x: 15.75, y: -35.25}
+        - {x: 13.75, y: -33.25}
+        - {x: 11.75, y: -33.25}
+      - - {x: -33.25, y: -31.25}
+        - {x: 11.75, y: -31.25}
+        - {x: 16.75, y: -30.25}
+        - {x: 16.75, y: 5.75}
+        - {x: 5.75, y: 38.75}
+        - {x: -18.25, y: 38.75}
+        - {x: -31.25, y: 32.75}
+        - {x: -33.25, y: 5.75}
+      - - {x: -21.25, y: 61.75}
+        - {x: -24.25, y: 58.75}
+        - {x: -24.25, y: 52.75}
+        - {x: -20.25, y: 50.75}
+        - {x: -11.25, y: 50.75}
+        - {x: -8.25, y: 54.75}
+        - {x: -8.25, y: 57.75}
+        - {x: -11.25, y: 60.75}
+    - name: spritesheet_fille_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -35.25}
+        - {x: 10, y: -40.25}
+        - {x: 11, y: -42.25}
+        - {x: 14, y: -42.25}
+        - {x: 16, y: -41.25}
+        - {x: 16, y: -35.25}
+        - {x: 14, y: -33.25}
+        - {x: 12, y: -33.25}
+      - - {x: -20, y: 38.75}
+        - {x: -32, y: 15.75}
+        - {x: -32, y: -29.25}
+        - {x: -30, y: -31.25}
+        - {x: 9, y: -31.25}
+        - {x: 17, y: -30.25}
+        - {x: 18, y: -29.25}
+        - {x: 18, y: 17.75}
+        - {x: 10, y: 38.75}
+      - - {x: -22, y: 62.75}
+        - {x: -24, y: 61.75}
+        - {x: -24, y: 55.75}
+        - {x: -20, y: 50.75}
+        - {x: -19, y: 49.75}
+        - {x: -13, y: 49.75}
+        - {x: -7, y: 52.75}
+        - {x: -7, y: 59.75}
+        - {x: -12, y: 62.75}
+    - name: spritesheet_fille_7
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.25, y: -35.25}
+        - {x: 10.25, y: -40.25}
+        - {x: 11.25, y: -42.25}
+        - {x: 14.25, y: -42.25}
+        - {x: 16.25, y: -41.25}
+        - {x: 16.25, y: -35.25}
+        - {x: 14.25, y: -33.25}
+        - {x: 12.25, y: -33.25}
+      - - {x: -20.75, y: 38.75}
+        - {x: -31.75, y: 21.75}
+        - {x: -31.75, y: -31.25}
+        - {x: 9.25, y: -31.25}
+        - {x: 18.25, y: -27.25}
+        - {x: 18.25, y: -0.25}
+        - {x: 7.25, y: 38.75}
+      - - {x: -22.75, y: 63.75}
+        - {x: -25.75, y: 58.75}
+        - {x: -25.75, y: 54.75}
+        - {x: -21.75, y: 49.75}
+        - {x: -9.75, y: 49.75}
+        - {x: -5.75, y: 51.75}
+        - {x: -5.75, y: 57.75}
+        - {x: -8.75, y: 63.75}
+    - name: spritesheet_fille_8
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: -42.25}
+        - {x: 15.5, y: -42.25}
+        - {x: 15.5, y: -33.25}
+        - {x: 10.5, y: -33.25}
+        - {x: 8.5, y: -34.25}
+        - {x: 8.5, y: -39.25}
+      - - {x: -17.5, y: 38.75}
+        - {x: -31.5, y: 32.75}
+        - {x: -33.5, y: 10.75}
+        - {x: -33.5, y: -28.25}
+        - {x: -32.5, y: -31.25}
+        - {x: 8.5, y: -31.25}
+        - {x: 16.5, y: -26.25}
+        - {x: 16.5, y: -8.25}
+        - {x: 1.5, y: 38.75}
+      - - {x: -11.5, y: 64.75}
+        - {x: -24.5, y: 64.75}
+        - {x: -27.5, y: 58.75}
+        - {x: -27.5, y: 54.75}
+        - {x: -21.5, y: 49.75}
+        - {x: -11.5, y: 49.75}
+        - {x: -6.5, y: 51.75}
+        - {x: -6.5, y: 58.75}
+        - {x: -7.5, y: 63.75}
+    - name: spritesheet_fille_9
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.75, y: -35.25}
+        - {x: 9.75, y: -40.25}
+        - {x: 10.75, y: -42.25}
+        - {x: 13.75, y: -42.25}
+        - {x: 15.75, y: -41.25}
+        - {x: 15.75, y: -35.25}
+        - {x: 13.75, y: -33.25}
+        - {x: 11.75, y: -33.25}
+      - - {x: 6.75, y: 38.75}
+        - {x: -15.25, y: 38.75}
+        - {x: -31.25, y: 32.75}
+        - {x: -33.25, y: 18.75}
+        - {x: -33.25, y: -30.25}
+        - {x: -30.25, y: -31.25}
+        - {x: 16.75, y: -31.25}
+        - {x: 16.75, y: 21.75}
+        - {x: 14.75, y: 27.75}
+      - - {x: -25.25, y: 64.75}
+        - {x: -28.25, y: 60.75}
+        - {x: -28.25, y: 56.75}
+        - {x: -26.25, y: 50.75}
+        - {x: -24.25, y: 48.75}
+        - {x: -12.25, y: 48.75}
+        - {x: -5.25, y: 50.75}
+        - {x: -5.25, y: 58.75}
+        - {x: -7.25, y: 62.75}
+        - {x: -18.25, y: 64.75}
+    - name: spritesheet_fille_10
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -35.25}
+        - {x: 10, y: -40.25}
+        - {x: 11, y: -42.25}
+        - {x: 14, y: -42.25}
+        - {x: 16, y: -41.25}
+        - {x: 16, y: -35.25}
+        - {x: 14, y: -33.25}
+        - {x: 12, y: -33.25}
+      - - {x: 2, y: 38.75}
+        - {x: -18, y: 38.75}
+        - {x: -32, y: 24.75}
+        - {x: -32, y: -31.25}
+        - {x: 13, y: -31.25}
+        - {x: 18, y: -23.25}
+        - {x: 18, y: 4.75}
+        - {x: 6, y: 37.75}
+      - - {x: -6, y: 61.75}
+        - {x: -18, y: 64.75}
+        - {x: -26, y: 64.75}
+        - {x: -29, y: 58.75}
+        - {x: -29, y: 53.75}
+        - {x: -23, y: 47.75}
+        - {x: -10, y: 47.75}
+        - {x: -4, y: 51.75}
+        - {x: -4, y: 59.75}
+    - name: spritesheet_fille_11
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.25, y: -35.25}
+        - {x: 10.25, y: -40.25}
+        - {x: 11.25, y: -42.25}
+        - {x: 14.25, y: -42.25}
+        - {x: 16.25, y: -41.25}
+        - {x: 16.25, y: -35.25}
+        - {x: 14.25, y: -33.25}
+        - {x: 12.25, y: -33.25}
+      - - {x: -15.75, y: 38.75}
+        - {x: -28.75, y: 32.75}
+        - {x: -31.75, y: 21.75}
+        - {x: -31.75, y: -31.25}
+        - {x: 17.25, y: -31.25}
+        - {x: 18.25, y: -29.25}
+        - {x: 18.25, y: 17.75}
+        - {x: 7.25, y: 38.75}
+      - - {x: -24.75, y: 65.75}
+        - {x: -28.75, y: 62.75}
+        - {x: -28.75, y: 53.75}
+        - {x: -22.75, y: 47.75}
+        - {x: -4.75, y: 47.75}
+        - {x: -1.75, y: 51.75}
+        - {x: -1.75, y: 60.75}
+        - {x: -10.75, y: 65.75}
+    - name: spritesheet_fille_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -33.5}
+        - {x: 8.5, y: -34.5}
+        - {x: 8.5, y: -42.5}
+        - {x: 10.5, y: -43.5}
+        - {x: 14.5, y: -43.5}
+        - {x: 15.5, y: -41.5}
+        - {x: 15.5, y: -35.5}
+        - {x: 14.5, y: -33.5}
+      - - {x: -33.5, y: -32.5}
+        - {x: 16.5, y: -32.5}
+        - {x: 16.5, y: 10.5}
+        - {x: 5.5, y: 38.5}
+        - {x: -15.5, y: 38.5}
+        - {x: -33.5, y: 30.5}
+      - - {x: -13.5, y: 66.5}
+        - {x: -24.5, y: 66.5}
+        - {x: -30.5, y: 63.5}
+        - {x: -31.5, y: 62.5}
+        - {x: -31.5, y: 52.5}
+        - {x: -25.5, y: 46.5}
+        - {x: -9.5, y: 46.5}
+        - {x: -5.5, y: 47.5}
+        - {x: -2.5, y: 50.5}
+        - {x: -2.5, y: 57.5}
+        - {x: -5.5, y: 64.5}
+    - name: spritesheet_fille_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.75, y: -35.5}
+        - {x: 9.75, y: -41.5}
+        - {x: 10.75, y: -43.5}
+        - {x: 13.75, y: -43.5}
+        - {x: 15.75, y: -42.5}
+        - {x: 15.75, y: -35.5}
+        - {x: 13.75, y: -33.5}
+        - {x: 11.75, y: -33.5}
+      - - {x: -0.25, y: 38.5}
+        - {x: -16.25, y: 38.5}
+        - {x: -32.25, y: 29.5}
+        - {x: -33.25, y: 18.5}
+        - {x: -33.25, y: -30.5}
+        - {x: -28.25, y: -32.5}
+        - {x: 6.75, y: -32.5}
+        - {x: 16.75, y: -28.5}
+        - {x: 16.75, y: -5.5}
+        - {x: 1.75, y: 36.5}
+      - - {x: -31.25, y: 66.5}
+        - {x: -32.25, y: 63.5}
+        - {x: -32.25, y: 51.5}
+        - {x: -26.25, y: 45.5}
+        - {x: -8.25, y: 45.5}
+        - {x: -1.25, y: 47.5}
+        - {x: -1.25, y: 62.5}
+        - {x: -11.25, y: 66.5}
+    - name: spritesheet_fille_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -35.5}
+        - {x: 10, y: -41.5}
+        - {x: 11, y: -43.5}
+        - {x: 14, y: -43.5}
+        - {x: 16, y: -42.5}
+        - {x: 16, y: -35.5}
+        - {x: 14, y: -33.5}
+        - {x: 12, y: -33.5}
+      - - {x: 4, y: 38.5}
+        - {x: -20, y: 38.5}
+        - {x: -32, y: 17.5}
+        - {x: -32, y: -31.5}
+        - {x: -30, y: -32.5}
+        - {x: 13, y: -32.5}
+        - {x: 18, y: -29.5}
+        - {x: 18, y: -5.5}
+        - {x: 7, y: 37.5}
+      - - {x: -11, y: 66.5}
+        - {x: -31, y: 66.5}
+        - {x: -32, y: 62.5}
+        - {x: -32, y: 50.5}
+        - {x: -25, y: 45.5}
+        - {x: -5, y: 45.5}
+        - {x: 1, y: 50.5}
+        - {x: 1, y: 58.5}
+        - {x: -5, y: 65.5}
+    - name: spritesheet_fille_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.25, y: -35.5}
+        - {x: 10.25, y: -41.5}
+        - {x: 11.25, y: -43.5}
+        - {x: 14.25, y: -43.5}
+        - {x: 16.25, y: -42.5}
+        - {x: 16.25, y: -35.5}
+        - {x: 14.25, y: -33.5}
+        - {x: 12.25, y: -33.5}
+      - - {x: -20.75, y: 38.5}
+        - {x: -31.75, y: 16.5}
+        - {x: -31.75, y: -32.5}
+        - {x: 18.25, y: -32.5}
+        - {x: 18.25, y: 17.5}
+        - {x: 13.25, y: 38.5}
+      - - {x: -18.75, y: 67.5}
+        - {x: -27.75, y: 67.5}
+        - {x: -33.75, y: 61.5}
+        - {x: -33.75, y: 55.5}
+        - {x: -27.75, y: 45.5}
+        - {x: -25.75, y: 44.5}
+        - {x: 0.25, y: 44.5}
+        - {x: 2.25, y: 51.5}
+        - {x: 2.25, y: 60.5}
+        - {x: -3.75, y: 64.5}
+    - name: spritesheet_fille_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -33.5}
+        - {x: 8.5, y: -34.5}
+        - {x: 8.5, y: -42.5}
+        - {x: 10.5, y: -43.5}
+        - {x: 14.5, y: -43.5}
+        - {x: 15.5, y: -41.5}
+        - {x: 15.5, y: -35.5}
+        - {x: 14.5, y: -33.5}
+      - - {x: -16.5, y: 38.5}
+        - {x: -29.5, y: 27.5}
+        - {x: -33.5, y: 10.5}
+        - {x: -33.5, y: -32.5}
+        - {x: 16.5, y: -32.5}
+        - {x: 16.5, y: 31.5}
+        - {x: 3.5, y: 38.5}
+      - - {x: -35.5, y: 49.5}
+        - {x: -28.5, y: 43.5}
+        - {x: -7.5, y: 43.5}
+        - {x: 1.5, y: 47.5}
+        - {x: 1.5, y: 57.5}
+        - {x: -0.5, y: 63.5}
+        - {x: -17.5, y: 68.5}
+        - {x: -31.5, y: 68.5}
+        - {x: -35.5, y: 62.5}
+    - name: spritesheet_fille_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.75, y: -35.5}
+        - {x: 9.75, y: -41.5}
+        - {x: 10.75, y: -43.5}
+        - {x: 13.75, y: -43.5}
+        - {x: 15.75, y: -42.5}
+        - {x: 15.75, y: -35.5}
+        - {x: 13.75, y: -33.5}
+        - {x: 11.75, y: -33.5}
+      - - {x: -15.25, y: 38.5}
+        - {x: -28.25, y: 27.5}
+        - {x: -33.25, y: 11.5}
+        - {x: -33.25, y: -32.5}
+        - {x: 16.75, y: -32.5}
+        - {x: 16.75, y: 9.5}
+        - {x: 5.75, y: 38.5}
+      - - {x: -13.25, y: 68.5}
+        - {x: -33.25, y: 68.5}
+        - {x: -36.25, y: 62.5}
+        - {x: -36.25, y: 50.5}
+        - {x: -28.25, y: 43.5}
+        - {x: 0.75, y: 43.5}
+        - {x: 2.75, y: 51.5}
+        - {x: 2.75, y: 61.5}
+        - {x: -1.25, y: 65.5}
+    - name: spritesheet_fille_18
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -35.5}
+        - {x: 10, y: -41.5}
+        - {x: 11, y: -43.5}
+        - {x: 14, y: -43.5}
+        - {x: 16, y: -42.5}
+        - {x: 16, y: -35.5}
+        - {x: 14, y: -33.5}
+        - {x: 12, y: -33.5}
+      - - {x: -2, y: 38.5}
+        - {x: -19, y: 38.5}
+        - {x: -32, y: 19.5}
+        - {x: -32, y: -29.5}
+        - {x: -31, y: -32.5}
+        - {x: 11, y: -32.5}
+        - {x: 18, y: -23.5}
+        - {x: 18, y: 0.5}
+        - {x: 5, y: 36.5}
+      - - {x: -32, y: 69.5}
+        - {x: -34, y: 68.5}
+        - {x: -37, y: 59.5}
+        - {x: -37, y: 53.5}
+        - {x: -28, y: 43.5}
+        - {x: -4, y: 43.5}
+        - {x: 4, y: 48.5}
+        - {x: 4, y: 62.5}
+        - {x: -16, y: 69.5}
+    - name: spritesheet_fille_19
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.25, y: -35.5}
+        - {x: 10.25, y: -41.5}
+        - {x: 11.25, y: -43.5}
+        - {x: 14.25, y: -43.5}
+        - {x: 16.25, y: -42.5}
+        - {x: 16.25, y: -35.5}
+        - {x: 14.25, y: -33.5}
+        - {x: 12.25, y: -33.5}
+      - - {x: 4.25, y: 38.5}
+        - {x: -21.75, y: 38.5}
+        - {x: -28.75, y: 36.5}
+        - {x: -31.75, y: 15.5}
+        - {x: -31.75, y: -31.5}
+        - {x: -27.75, y: -32.5}
+        - {x: 12.25, y: -32.5}
+        - {x: 18.25, y: -24.5}
+        - {x: 18.25, y: 3.5}
+        - {x: 5.25, y: 36.5}
+      - - {x: -29.75, y: 69.5}
+        - {x: -34.75, y: 66.5}
+        - {x: -36.75, y: 58.5}
+        - {x: -36.75, y: 55.5}
+        - {x: -26.75, y: 43.5}
+        - {x: -5.75, y: 43.5}
+        - {x: 2.25, y: 44.5}
+        - {x: 5.25, y: 50.5}
+        - {x: 5.25, y: 62.5}
+        - {x: -9.75, y: 69.5}
+    - name: spritesheet_fille_20
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -33.5}
+        - {x: 8.5, y: -34.5}
+        - {x: 8.5, y: -42.5}
+        - {x: 10.5, y: -43.5}
+        - {x: 14.5, y: -43.5}
+        - {x: 15.5, y: -41.5}
+        - {x: 15.5, y: -35.5}
+        - {x: 14.5, y: -33.5}
+      - - {x: 4.5, y: 38.5}
+        - {x: -16.5, y: 38.5}
+        - {x: -29.5, y: 33.5}
+        - {x: -33.5, y: 16.5}
+        - {x: -33.5, y: -29.5}
+        - {x: -25.5, y: -32.5}
+        - {x: 5.5, y: -32.5}
+        - {x: 16.5, y: -28.5}
+        - {x: 16.5, y: 12.5}
+        - {x: 13.5, y: 26.5}
+      - - {x: -16.5, y: 69.5}
+        - {x: -32.5, y: 69.5}
+        - {x: -37.5, y: 62.5}
+        - {x: -37.5, y: 50.5}
+        - {x: -29.5, y: 43.5}
+        - {x: -3.5, y: 43.5}
+        - {x: 3.5, y: 48.5}
+        - {x: 3.5, y: 57.5}
+        - {x: -0.5, y: 64.5}
+    - name: spritesheet_fille_21
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.75, y: -35.5}
+        - {x: 9.75, y: -41.5}
+        - {x: 10.75, y: -43.5}
+        - {x: 13.75, y: -43.5}
+        - {x: 15.75, y: -42.5}
+        - {x: 15.75, y: -35.5}
+        - {x: 13.75, y: -33.5}
+        - {x: 11.75, y: -33.5}
+      - - {x: 2.75, y: 38.5}
+        - {x: -23.25, y: 38.5}
+        - {x: -33.25, y: 25.5}
+        - {x: -33.25, y: -30.5}
+        - {x: -32.25, y: -32.5}
+        - {x: 3.75, y: -32.5}
+        - {x: 16.75, y: -28.5}
+        - {x: 16.75, y: -4.5}
+        - {x: 6.75, y: 37.5}
+      - - {x: -14.25, y: 69.5}
+        - {x: -31.25, y: 69.5}
+        - {x: -37.25, y: 60.5}
+        - {x: -37.25, y: 50.5}
+        - {x: -30.25, y: 43.5}
+        - {x: -0.25, y: 43.5}
+        - {x: 3.75, y: 47.5}
+        - {x: 3.75, y: 59.5}
+        - {x: 0.75, y: 66.5}
+    - name: spritesheet_fille_22
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -35.5}
+        - {x: 10, y: -41.5}
+        - {x: 11, y: -43.5}
+        - {x: 14, y: -43.5}
+        - {x: 16, y: -42.5}
+        - {x: 16, y: -35.5}
+        - {x: 14, y: -33.5}
+        - {x: 12, y: -33.5}
+      - - {x: -2, y: 38.5}
+        - {x: -20, y: 38.5}
+        - {x: -32, y: 20.5}
+        - {x: -32, y: -29.5}
+        - {x: -31, y: -32.5}
+        - {x: 12, y: -32.5}
+        - {x: 18, y: -24.5}
+        - {x: 18, y: 1.5}
+        - {x: 4, y: 36.5}
+      - - {x: -32, y: 69.5}
+        - {x: -34, y: 68.5}
+        - {x: -37, y: 59.5}
+        - {x: -37, y: 53.5}
+        - {x: -28, y: 43.5}
+        - {x: -4, y: 43.5}
+        - {x: 4, y: 48.5}
+        - {x: 4, y: 62.5}
+        - {x: -16, y: 69.5}
+    - name: spritesheet_fille_23
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.25, y: -35.5}
+        - {x: 10.25, y: -41.5}
+        - {x: 11.25, y: -43.5}
+        - {x: 14.25, y: -43.5}
+        - {x: 16.25, y: -42.5}
+        - {x: 16.25, y: -35.5}
+        - {x: 14.25, y: -33.5}
+        - {x: 12.25, y: -33.5}
+      - - {x: 4.25, y: 38.5}
+        - {x: -21.75, y: 38.5}
+        - {x: -28.75, y: 36.5}
+        - {x: -31.75, y: 15.5}
+        - {x: -31.75, y: -31.5}
+        - {x: -27.75, y: -32.5}
+        - {x: 12.25, y: -32.5}
+        - {x: 18.25, y: -24.5}
+        - {x: 18.25, y: 3.5}
+        - {x: 5.25, y: 36.5}
+      - - {x: -28.75, y: 69.5}
+        - {x: -36.75, y: 63.5}
+        - {x: -36.75, y: 52.5}
+        - {x: -29.75, y: 43.5}
+        - {x: -1.75, y: 43.5}
+        - {x: 5.25, y: 49.5}
+        - {x: 5.25, y: 63.5}
+        - {x: -7.75, y: 69.5}
+    - name: spritesheet_fille_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: -33.75}
+        - {x: 1.5, y: -35.75}
+        - {x: 1.5, y: -40.75}
+        - {x: 2.5, y: -42.75}
+        - {x: 6.5, y: -42.75}
+        - {x: 8.5, y: -40.75}
+        - {x: 8.5, y: -35.75}
+        - {x: 7.5, y: -33.75}
+      - - {x: 3.5, y: 39.25}
+        - {x: -20.5, y: 39.25}
+        - {x: -32.5, y: 34.25}
+        - {x: -33.5, y: 26.25}
+        - {x: -33.5, y: -29.75}
+        - {x: -31.5, y: -30.75}
+        - {x: 10.5, y: -30.75}
+        - {x: 16.5, y: -25.75}
+        - {x: 16.5, y: -9.75}
+        - {x: 4.5, y: 37.25}
+      - - {x: -34.5, y: 71.25}
+        - {x: -37.5, y: 68.25}
+        - {x: -37.5, y: 47.25}
+        - {x: -36.5, y: 44.25}
+        - {x: 2.5, y: 44.25}
+        - {x: 3.5, y: 47.25}
+        - {x: 3.5, y: 63.25}
+        - {x: -19.5, y: 71.25}
+    - name: spritesheet_fille_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.25, y: -42.75}
+        - {x: -4.25, y: -44.75}
+        - {x: -1.25, y: -44.75}
+        - {x: 1.75, y: -43.75}
+        - {x: 1.75, y: -36.75}
+        - {x: -1.25, y: -34.75}
+        - {x: -5.25, y: -38.75}
+      - - {x: -19.25, y: 39.25}
+        - {x: -33.25, y: 18.25}
+        - {x: -33.25, y: -29.75}
+        - {x: -30.25, y: -30.75}
+        - {x: 12.75, y: -30.75}
+        - {x: 16.75, y: -26.75}
+        - {x: 16.75, y: -9.75}
+        - {x: 4.75, y: 39.25}
+      - - {x: -32.25, y: 71.25}
+        - {x: -35.25, y: 69.25}
+        - {x: -37.25, y: 62.25}
+        - {x: -37.25, y: 55.25}
+        - {x: -29.25, y: 46.25}
+        - {x: -23.25, y: 44.25}
+        - {x: -8.25, y: 44.25}
+        - {x: 3.75, y: 49.25}
+        - {x: 3.75, y: 65.25}
+        - {x: -7.25, y: 71.25}
+    - name: spritesheet_fille_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: -34.75}
+        - {x: -12, y: -38.75}
+        - {x: -12, y: -43.75}
+        - {x: -6, y: -43.75}
+        - {x: -4, y: -41.75}
+        - {x: -4, y: -36.75}
+        - {x: -5, y: -34.75}
+      - - {x: -23, y: 39.25}
+        - {x: -35, y: 13.25}
+        - {x: -35, y: -7.75}
+        - {x: -32, y: -9.75}
+        - {x: -28, y: -8.75}
+        - {x: -24, y: -5.75}
+        - {x: -30, y: -11.75}
+        - {x: -35, y: -12.75}
+        - {x: -35, y: -14.75}
+        - {x: -31, y: -30.75}
+        - {x: 18, y: -30.75}
+        - {x: 18, y: 32.25}
+        - {x: 2, y: 39.25}
+      - - {x: -32, y: 71.25}
+        - {x: -35, y: 68.25}
+        - {x: -37, y: 64.25}
+        - {x: -37, y: 52.25}
+        - {x: -30, y: 44.25}
+        - {x: -1, y: 44.25}
+        - {x: 4, y: 45.25}
+        - {x: 4, y: 67.25}
+        - {x: -4, y: 71.25}
+    - name: spritesheet_fille_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.75, y: -33.75}
+        - {x: -16.75, y: -33.75}
+        - {x: -17.75, y: -35.75}
+        - {x: -18.75, y: -40.75}
+        - {x: -16.75, y: -42.75}
+        - {x: -14.75, y: -42.75}
+        - {x: -10.75, y: -38.75}
+        - {x: -10.75, y: -34.75}
+      - - {x: -27.75, y: 39.25}
+        - {x: -35.75, y: 26.25}
+        - {x: -35.75, y: -30.75}
+        - {x: 18.25, y: -30.75}
+        - {x: 18.25, y: -2.75}
+        - {x: 4.25, y: 39.25}
+      - - {x: -17.75, y: 71.25}
+        - {x: -29.75, y: 71.25}
+        - {x: -32.75, y: 67.25}
+        - {x: -36.75, y: 60.25}
+        - {x: -36.75, y: 54.25}
+        - {x: -30.75, y: 44.25}
+        - {x: 0.25, y: 44.25}
+        - {x: 5.25, y: 49.25}
+        - {x: 5.25, y: 60.25}
+        - {x: 2.25, y: 66.25}
+    - name: spritesheet_fille_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -33.75}
+        - {x: -27.5, y: -38.75}
+        - {x: -25.5, y: -40.75}
+        - {x: -23.5, y: -40.75}
+        - {x: -19.5, y: -36.75}
+        - {x: -19.5, y: -33.75}
+        - {x: -21.5, y: -31.75}
+      - - {x: -19.5, y: 39.25}
+        - {x: -25.5, y: 29.25}
+        - {x: -39.5, y: 5.25}
+        - {x: -39.5, y: -1.75}
+        - {x: -37.5, y: -6.75}
+        - {x: -31.5, y: -5.75}
+        - {x: -29.5, y: -3.75}
+        - {x: -39.5, y: -25.75}
+        - {x: -39.5, y: -26.75}
+        - {x: -26.5, y: -30.75}
+        - {x: 9.5, y: -30.75}
+        - {x: 16.5, y: -28.75}
+        - {x: 16.5, y: 15.25}
+        - {x: 10.5, y: 39.25}
+      - - {x: -18.5, y: 71.25}
+        - {x: -32.5, y: 71.25}
+        - {x: -37.5, y: 64.25}
+        - {x: -37.5, y: 53.25}
+        - {x: -28.5, y: 44.25}
+        - {x: -8.5, y: 44.25}
+        - {x: -1.5, y: 46.25}
+        - {x: 3.5, y: 51.25}
+        - {x: 3.5, y: 58.25}
+        - {x: 1.5, y: 66.25}
+    - name: spritesheet_fille_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.25, y: -29.75}
+        - {x: -33.25, y: -31.75}
+        - {x: -34.25, y: -35.75}
+        - {x: -32.25, y: -37.75}
+        - {x: -29.25, y: -37.75}
+        - {x: -25.25, y: -33.75}
+        - {x: -25.25, y: -31.75}
+        - {x: -27.25, y: -29.75}
+      - - {x: 5.75, y: 39.25}
+        - {x: -27.25, y: 39.25}
+        - {x: -37.25, y: 36.25}
+        - {x: -40.25, y: 19.25}
+        - {x: -40.25, y: -20.75}
+        - {x: -37.25, y: -29.75}
+        - {x: -32.25, y: -30.75}
+        - {x: 9.75, y: -30.75}
+        - {x: 16.75, y: -24.75}
+        - {x: 16.75, y: -7.75}
+      - - {x: 3.75, y: 66.25}
+        - {x: -9.25, y: 71.25}
+        - {x: -31.25, y: 71.25}
+        - {x: -35.25, y: 69.25}
+        - {x: -37.25, y: 62.25}
+        - {x: -37.25, y: 55.25}
+        - {x: -29.25, y: 46.25}
+        - {x: -23.25, y: 44.25}
+        - {x: -11.25, y: 44.25}
+        - {x: -4.25, y: 46.25}
+        - {x: 3.75, y: 50.25}
+    - name: spritesheet_fille_30
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33, y: -25.75}
+        - {x: -38, y: -25.75}
+        - {x: -39, y: -28.75}
+        - {x: -40, y: -32.75}
+        - {x: -38, y: -34.75}
+        - {x: -36, y: -34.75}
+        - {x: -31, y: -29.75}
+        - {x: -31, y: -26.75}
+      - - {x: -41, y: -30.75}
+        - {x: 9, y: -30.75}
+        - {x: 18, y: -28.75}
+        - {x: 18, y: 6.25}
+        - {x: 5, y: 39.25}
+        - {x: -17, y: 39.25}
+        - {x: -41, y: 19.25}
+      - - {x: -29, y: 71.25}
+        - {x: -33, y: 67.25}
+        - {x: -37, y: 61.25}
+        - {x: -37, y: 55.25}
+        - {x: -25, y: 44.25}
+        - {x: 2, y: 44.25}
+        - {x: 4, y: 49.25}
+        - {x: 4, y: 63.25}
+        - {x: -9, y: 71.25}
+    - name: spritesheet_fille_31
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.75, y: -21.75}
+        - {x: -44.75, y: -22.75}
+        - {x: -44.75, y: -28.75}
+        - {x: -42.75, y: -29.75}
+        - {x: -38.75, y: -29.75}
+        - {x: -35.75, y: -25.75}
+        - {x: -35.75, y: -23.75}
+        - {x: -36.75, y: -21.75}
+      - - {x: -30.75, y: 39.25}
+        - {x: -41.75, y: 30.25}
+        - {x: -41.75, y: -29.75}
+        - {x: 16.25, y: -29.75}
+        - {x: 18.25, y: -28.75}
+        - {x: 18.25, y: 31.25}
+        - {x: 5.25, y: 39.25}
+      - - {x: -30.75, y: 71.25}
+        - {x: -34.75, y: 68.25}
+        - {x: -36.75, y: 64.25}
+        - {x: -36.75, y: 54.25}
+        - {x: -24.75, y: 44.25}
+        - {x: -6.75, y: 44.25}
+        - {x: 5.25, y: 50.25}
+        - {x: 5.25, y: 66.25}
+        - {x: -4.75, y: 71.25}
+    - name: spritesheet_fille_32
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 39.25}
+        - {x: -44.5, y: 37.25}
+        - {x: -44.5, y: -29.75}
+        - {x: 10.5, y: -29.75}
+        - {x: 16.5, y: -27.75}
+        - {x: 16.5, y: 24.25}
+        - {x: 10.5, y: 39.25}
+      - - {x: -49.5, y: -16.75}
+        - {x: -52.5, y: -18.75}
+        - {x: -52.5, y: -23.75}
+        - {x: -45.5, y: -23.75}
+        - {x: -42.5, y: -22.75}
+        - {x: -42.5, y: -17.75}
+        - {x: -44.5, y: -16.75}
+      - - {x: -17.5, y: 71.25}
+        - {x: -32.5, y: 71.25}
+        - {x: -37.5, y: 64.25}
+        - {x: -37.5, y: 53.25}
+        - {x: -28.5, y: 44.25}
+        - {x: -8.5, y: 44.25}
+        - {x: -1.5, y: 46.25}
+        - {x: 3.5, y: 52.25}
+        - {x: 3.5, y: 58.25}
+        - {x: 1.5, y: 66.25}
+    - name: spritesheet_fille_33
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.25, y: 39.25}
+        - {x: -44.25, y: 26.25}
+        - {x: -44.25, y: 7.25}
+        - {x: -41.25, y: 2.25}
+        - {x: -33.25, y: -29.75}
+        - {x: 11.75, y: -29.75}
+        - {x: 16.75, y: -24.75}
+        - {x: 16.75, y: 29.25}
+        - {x: 12.75, y: 39.25}
+      - - {x: -56.25, y: -11.75}
+        - {x: -56.25, y: -17.75}
+        - {x: -54.25, y: -18.75}
+        - {x: -47.25, y: -18.75}
+        - {x: -46.25, y: -16.75}
+        - {x: -46.25, y: -11.75}
+      - - {x: -15.25, y: 71.25}
+        - {x: -28.25, y: 71.25}
+        - {x: -34.25, y: 68.25}
+        - {x: -37.25, y: 61.25}
+        - {x: -37.25, y: 55.25}
+        - {x: -29.25, y: 46.25}
+        - {x: -23.25, y: 44.25}
+        - {x: -4.25, y: 44.25}
+        - {x: 3.75, y: 50.25}
+        - {x: 3.75, y: 62.25}
+        - {x: 1.75, y: 66.25}
+    - name: spritesheet_fille_34
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 39.25}
+        - {x: -44, y: 31.25}
+        - {x: -44, y: -29.75}
+        - {x: 12, y: -29.75}
+        - {x: 18, y: -27.75}
+        - {x: 18, y: 30.25}
+        - {x: 11, y: 39.25}
+      - - {x: -59, y: -6.75}
+        - {x: -59, y: -11.75}
+        - {x: -54, y: -11.75}
+        - {x: -50, y: -9.75}
+        - {x: -50, y: -6.75}
+        - {x: -52, y: -4.75}
+        - {x: -56, y: -4.75}
+      - - {x: -15, y: 71.25}
+        - {x: -27, y: 71.25}
+        - {x: -35, y: 68.25}
+        - {x: -37, y: 62.25}
+        - {x: -37, y: 54.25}
+        - {x: -30, y: 44.25}
+        - {x: 2, y: 44.25}
+        - {x: 4, y: 49.25}
+        - {x: 4, y: 64.25}
+        - {x: -4, y: 68.25}
+    - name: spritesheet_fille_35
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.75, y: 39.25}
+        - {x: -43.75, y: 29.25}
+        - {x: -43.75, y: -18.75}
+        - {x: -39.75, y: -29.75}
+        - {x: 18.25, y: -29.75}
+        - {x: 18.25, y: 33.25}
+        - {x: 3.25, y: 39.25}
+      - - {x: -58.75, y: 1.25}
+        - {x: -60.75, y: 0.25}
+        - {x: -60.75, y: -2.75}
+        - {x: -59.75, y: -4.75}
+        - {x: -52.75, y: -4.75}
+        - {x: -51.75, y: -3.75}
+        - {x: -51.75, y: 0.25}
+        - {x: -53.75, y: 1.25}
+      - - {x: -4.75, y: 66.25}
+        - {x: -14.75, y: 71.25}
+        - {x: -26.75, y: 71.25}
+        - {x: -34.75, y: 68.25}
+        - {x: -36.75, y: 62.25}
+        - {x: -36.75, y: 54.25}
+        - {x: -28.75, y: 44.25}
+        - {x: 1.25, y: 44.25}
+        - {x: 5.25, y: 50.25}
+        - {x: 5.25, y: 58.25}
+        - {x: 2.25, y: 65.25}
+    - name: spritesheet_fille_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 39}
+        - {x: -45.5, y: 22}
+        - {x: -45.5, y: 14}
+        - {x: -42.5, y: 10}
+        - {x: -38.5, y: -31}
+        - {x: 16.5, y: -31}
+        - {x: 16.5, y: 1}
+        - {x: 0.5, y: 39}
+      - - {x: -62.5, y: 8}
+        - {x: -64.5, y: 7}
+        - {x: -64.5, y: 4}
+        - {x: -63.5, y: 2}
+        - {x: -56.5, y: 2}
+        - {x: -55.5, y: 3}
+        - {x: -55.5, y: 7}
+        - {x: -57.5, y: 8}
+      - - {x: -17.5, y: 71}
+        - {x: -31.5, y: 71}
+        - {x: -34.5, y: 67}
+        - {x: -37.5, y: 60}
+        - {x: -37.5, y: 54}
+        - {x: -28.5, y: 44}
+        - {x: -5.5, y: 44}
+        - {x: 3.5, y: 47}
+        - {x: 3.5, y: 61}
+        - {x: -5.5, y: 69}
+    - name: spritesheet_fille_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.25, y: 39}
+        - {x: -44.25, y: 23}
+        - {x: -44.25, y: 16}
+        - {x: -42.25, y: 12}
+        - {x: -35.25, y: -26}
+        - {x: -31.25, y: -31}
+        - {x: 6.75, y: -31}
+        - {x: 16.75, y: -28}
+        - {x: 16.75, y: -2}
+        - {x: 6.75, y: 26}
+        - {x: -0.25, y: 39}
+      - - {x: -64.25, y: 16}
+        - {x: -65.25, y: 15}
+        - {x: -65.25, y: 10}
+        - {x: -64.25, y: 10}
+        - {x: -60.25, y: 9}
+        - {x: -55.25, y: 9}
+        - {x: -55.25, y: 13}
+        - {x: -57.25, y: 16}
+      - - {x: -18.25, y: 71}
+        - {x: -30.25, y: 71}
+        - {x: -37.25, y: 65}
+        - {x: -37.25, y: 52}
+        - {x: -34.25, y: 44}
+        - {x: 3.75, y: 44}
+        - {x: 3.75, y: 61}
+        - {x: -0.25, y: 69}
+    - name: spritesheet_fille_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 39}
+        - {x: -43, y: 31}
+        - {x: -43, y: -19}
+        - {x: -41, y: -31}
+        - {x: 8, y: -31}
+        - {x: 18, y: -28}
+        - {x: 18, y: 3}
+        - {x: 10, y: 27}
+        - {x: 5, y: 38}
+        - {x: 0, y: 39}
+      - - {x: -64, y: 23}
+        - {x: -65, y: 21}
+        - {x: -65, y: 19}
+        - {x: -60, y: 15}
+        - {x: -57, y: 15}
+        - {x: -55, y: 16}
+        - {x: -55, y: 21}
+        - {x: -58, y: 23}
+      - - {x: -21, y: 71}
+        - {x: -30, y: 71}
+        - {x: -37, y: 63}
+        - {x: -37, y: 58}
+        - {x: -28, y: 44}
+        - {x: -5, y: 44}
+        - {x: 4, y: 49}
+        - {x: 4, y: 61}
+        - {x: -2, y: 66}
+    - name: spritesheet_fille_39
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.75, y: 39}
+        - {x: -41.75, y: 25}
+        - {x: -41.75, y: -4}
+        - {x: -35.75, y: -27}
+        - {x: -28.75, y: -31}
+        - {x: 11.25, y: -31}
+        - {x: 18.25, y: -22}
+        - {x: 18.25, y: 6}
+        - {x: 7.25, y: 39}
+      - - {x: -62.75, y: 27}
+        - {x: -59.75, y: 23}
+        - {x: -53.75, y: 23}
+        - {x: -53.75, y: 27}
+        - {x: -55.75, y: 31}
+        - {x: -60.75, y: 31}
+        - {x: -62.75, y: 29}
+      - - {x: -19.75, y: 71}
+        - {x: -29.75, y: 71}
+        - {x: -36.75, y: 62}
+        - {x: -36.75, y: 54}
+        - {x: -28.75, y: 44}
+        - {x: 1.25, y: 44}
+        - {x: 5.25, y: 51}
+        - {x: 5.25, y: 63}
+        - {x: 1.25, y: 65}
+    - name: spritesheet_fille_40
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.5, y: 39}
+        - {x: -41.5, y: 32}
+        - {x: -41.5, y: -29}
+        - {x: -39.5, y: -31}
+        - {x: 16.5, y: -31}
+        - {x: 16.5, y: 31}
+        - {x: 7.5, y: 39}
+      - - {x: -59.5, y: 38}
+        - {x: -61.5, y: 37}
+        - {x: -61.5, y: 32}
+        - {x: -56.5, y: 29}
+        - {x: -52.5, y: 29}
+        - {x: -52.5, y: 36}
+        - {x: -54.5, y: 38}
+      - - {x: -17.5, y: 71}
+        - {x: -31.5, y: 71}
+        - {x: -34.5, y: 67}
+        - {x: -37.5, y: 60}
+        - {x: -37.5, y: 54}
+        - {x: -28.5, y: 44}
+        - {x: -5.5, y: 44}
+        - {x: 3.5, y: 47}
+        - {x: 3.5, y: 61}
+        - {x: -5.5, y: 69}
+    - name: spritesheet_fille_41
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.25, y: 39}
+        - {x: -39.25, y: 31}
+        - {x: -39.25, y: -31}
+        - {x: 16.75, y: -31}
+        - {x: 16.75, y: 14}
+        - {x: 5.75, y: 39}
+      - - {x: -56.25, y: 45}
+        - {x: -58.25, y: 43}
+        - {x: -58.25, y: 41}
+        - {x: -53.25, y: 36}
+        - {x: -51.25, y: 36}
+        - {x: -49.25, y: 38}
+        - {x: -49.25, y: 40}
+        - {x: -54.25, y: 45}
+      - - {x: -18.25, y: 71}
+        - {x: -30.25, y: 71}
+        - {x: -37.25, y: 65}
+        - {x: -37.25, y: 52}
+        - {x: -34.25, y: 44}
+        - {x: 3.75, y: 44}
+        - {x: 3.75, y: 61}
+        - {x: -0.25, y: 69}
+    - name: spritesheet_fille_42
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 39}
+        - {x: -4, y: 39}
+        - {x: -14, y: 38}
+        - {x: -23, y: 39}
+        - {x: -38, y: 39}
+        - {x: -38, y: -31}
+        - {x: 7, y: -31}
+        - {x: 18, y: -28}
+        - {x: 18, y: 30}
+      - - {x: -54, y: 47}
+        - {x: -51, y: 42}
+        - {x: -45, y: 42}
+        - {x: -45, y: 46}
+        - {x: -48, y: 51}
+        - {x: -52, y: 51}
+        - {x: -54, y: 49}
+      - - {x: -5, y: 71}
+        - {x: -30, y: 71}
+        - {x: -37, y: 63}
+        - {x: -37, y: 58}
+        - {x: -29, y: 44}
+        - {x: -3, y: 44}
+        - {x: 4, y: 48}
+        - {x: 4, y: 61}
+        - {x: 1, y: 70}
+    - name: spritesheet_fille_43
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.25, y: 39}
+        - {x: -34.75, y: 39}
+        - {x: -34.75, y: -31}
+        - {x: 16.25, y: -31}
+        - {x: 18.25, y: -30}
+        - {x: 18.25, y: 4}
+        - {x: 12.25, y: 27}
+      - - {x: -14.75, y: 71}
+        - {x: -30.75, y: 71}
+        - {x: -36.75, y: 62}
+        - {x: -36.75, y: 55}
+        - {x: -27.75, y: 44}
+        - {x: -4.75, y: 44}
+        - {x: 5.25, y: 49}
+        - {x: 5.25, y: 62}
+        - {x: 3.25, y: 67}
+      - - {x: -48.75, y: 52}
+        - {x: -46.75, y: 48}
+        - {x: -40.75, y: 48}
+        - {x: -40.75, y: 53}
+        - {x: -41.75, y: 57}
+        - {x: -46.75, y: 57}
+        - {x: -48.75, y: 56}
+    - name: spritesheet_fille_44
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 39}
+        - {x: -34.5, y: -31}
+        - {x: 16.5, y: -31}
+        - {x: 16.5, y: -3}
+        - {x: 5.5, y: 39}
+      - - {x: -44.5, y: 71}
+        - {x: -44.5, y: 51}
+        - {x: -34.5, y: 44}
+        - {x: -0.5, y: 44}
+        - {x: 3.5, y: 51}
+        - {x: 3.5, y: 70}
+        - {x: 2.5, y: 71}
+    - name: spritesheet_fille_45
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.25, y: 40}
+        - {x: -33.25, y: -29}
+        - {x: -23.25, y: -31}
+        - {x: 13.75, y: -31}
+        - {x: 16.75, y: -30}
+        - {x: 16.75, y: 33}
+        - {x: 15.75, y: 40}
+      - - {x: -38.25, y: 71}
+        - {x: -38.25, y: 55}
+        - {x: -29.25, y: 44}
+        - {x: -1.25, y: 44}
+        - {x: 3.75, y: 48}
+        - {x: 3.75, y: 68}
+        - {x: 2.75, y: 71}
+    - name: spritesheet_fille_46
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32, y: 41}
+        - {x: -32, y: -29}
+        - {x: -31, y: -30}
+        - {x: -27, y: -31}
+        - {x: 18, y: -31}
+        - {x: 18, y: 32}
+        - {x: 6, y: 41}
+      - - {x: -20, y: 71}
+        - {x: -29, y: 71}
+        - {x: -37, y: 62}
+        - {x: -37, y: 58}
+        - {x: -28, y: 45}
+        - {x: -24, y: 44}
+        - {x: -5, y: 44}
+        - {x: 4, y: 49}
+        - {x: 4, y: 61}
+        - {x: -2, y: 66}
+    - name: spritesheet_fille_47
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 2000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.75, y: 41}
+        - {x: -31.75, y: 36}
+        - {x: -31.75, y: -31}
+        - {x: 18.25, y: -31}
+        - {x: 18.25, y: 34}
+        - {x: 4.25, y: 41}
+      - - {x: -36.75, y: 73}
+        - {x: -36.75, y: 54}
+        - {x: -27.75, y: 44}
+        - {x: -1.75, y: 44}
+        - {x: 5.25, y: 49}
+        - {x: 5.25, y: 73}
+    - name: spritesheet_fille_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 72.75}
+        - {x: -24.5, y: 72.75}
+        - {x: -36.5, y: 61.75}
+        - {x: -37.5, y: 58.75}
+        - {x: -37.5, y: 48.75}
+        - {x: -27.5, y: 38.75}
+        - {x: -23.5, y: 37.75}
+        - {x: -28.5, y: 33.75}
+        - {x: -37.5, y: -13.25}
+        - {x: -37.5, y: -30.25}
+        - {x: -32.5, y: -31.25}
+        - {x: 16.5, y: -31.25}
+        - {x: 16.5, y: 8.75}
+        - {x: 2.5, y: 60.75}
+    - name: spritesheet_fille_49
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -32.25, y: 57.75}
+        - {x: -37.25, y: 52.75}
+        - {x: -37.25, y: -28.25}
+        - {x: -25.25, y: -31.25}
+        - {x: 16.75, y: -31.25}
+        - {x: 16.75, y: 34.75}
+        - {x: 2.75, y: 57.75}
+      - - {x: -24.25, y: 62.75}
+        - {x: -19.25, y: 62.75}
+        - {x: -17.25, y: 63.75}
+        - {x: -17.25, y: 67.75}
+        - {x: -19.25, y: 72.75}
+        - {x: -21.25, y: 72.75}
+        - {x: -24.25, y: 70.75}
+    - name: spritesheet_fille_50
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31, y: 51.75}
+        - {x: -37, y: 44.75}
+        - {x: -37, y: 37.75}
+        - {x: -34, y: -15.25}
+        - {x: -33, y: -30.25}
+        - {x: -24, y: -31.25}
+        - {x: 7, y: -31.25}
+        - {x: 18, y: -29.25}
+        - {x: 18, y: 38.75}
+        - {x: 1, y: 51.75}
+      - - {x: -21, y: 72.75}
+        - {x: -24, y: 69.75}
+        - {x: -24, y: 64.75}
+        - {x: -22, y: 62.75}
+        - {x: -19, y: 62.75}
+        - {x: -17, y: 64.75}
+        - {x: -17, y: 68.75}
+        - {x: -20, y: 72.75}
+    - name: spritesheet_fille_51
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.75, y: 45.75}
+        - {x: -36.75, y: -4.25}
+        - {x: -34.75, y: -27.25}
+        - {x: -30.75, y: -31.25}
+        - {x: 16.25, y: -31.25}
+        - {x: 18.25, y: -30.25}
+        - {x: 18.25, y: 5.75}
+        - {x: 3.25, y: 45.75}
+      - - {x: -22.75, y: 64.75}
+        - {x: -21.75, y: 62.75}
+        - {x: -18.75, y: 62.75}
+        - {x: -16.75, y: 63.75}
+        - {x: -16.75, y: 69.75}
+        - {x: -19.75, y: 72.75}
+        - {x: -22.75, y: 71.75}
+    - name: spritesheet_fille_52
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 39.75}
+        - {x: -37.5, y: -26.25}
+        - {x: -35.5, y: -31.25}
+        - {x: 16.5, y: -31.25}
+        - {x: 16.5, y: -4.25}
+        - {x: 3.5, y: 34.75}
+        - {x: -2.5, y: 39.75}
+      - - {x: -23.5, y: 72.75}
+        - {x: -24.5, y: 70.75}
+        - {x: -24.5, y: 62.75}
+        - {x: -18.5, y: 62.75}
+        - {x: -17.5, y: 63.75}
+        - {x: -17.5, y: 67.75}
+        - {x: -19.5, y: 72.75}
+    - name: spritesheet_fille_53
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.25, y: 39.75}
+        - {x: -37.25, y: -31.25}
+        - {x: 16.75, y: -31.25}
+        - {x: 16.75, y: 24.75}
+        - {x: 13.75, y: 39.75}
+      - - {x: -24.25, y: 62.75}
+        - {x: -19.25, y: 62.75}
+        - {x: -17.25, y: 63.75}
+        - {x: -17.25, y: 67.75}
+        - {x: -19.25, y: 72.75}
+        - {x: -21.25, y: 72.75}
+        - {x: -24.25, y: 70.75}
+    - name: spritesheet_fille_54
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 39.75}
+        - {x: -37, y: 18.75}
+        - {x: -37, y: 12.75}
+        - {x: -32, y: 6.75}
+        - {x: -34, y: -15.25}
+        - {x: -32, y: -29.25}
+        - {x: -30, y: -31.25}
+        - {x: 18, y: -31.25}
+        - {x: 18, y: 19.75}
+        - {x: 16, y: 27.75}
+        - {x: 2, y: 39.75}
+      - - {x: -21, y: 72.75}
+        - {x: -24, y: 69.75}
+        - {x: -24, y: 64.75}
+        - {x: -22, y: 62.75}
+        - {x: -19, y: 62.75}
+        - {x: -17, y: 64.75}
+        - {x: -17, y: 68.75}
+        - {x: -20, y: 72.75}
+    - name: spritesheet_fille_55
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.75, y: 39.75}
+        - {x: -36.75, y: 26.75}
+        - {x: -36.75, y: -24.25}
+        - {x: -33.75, y: -31.25}
+        - {x: 14.25, y: -31.25}
+        - {x: 18.25, y: -29.25}
+        - {x: 18.25, y: -3.25}
+        - {x: 9.25, y: 25.75}
+        - {x: 1.25, y: 39.75}
+      - - {x: -22.75, y: 64.75}
+        - {x: -21.75, y: 62.75}
+        - {x: -18.75, y: 62.75}
+        - {x: -16.75, y: 63.75}
+        - {x: -16.75, y: 69.75}
+        - {x: -19.75, y: 72.75}
+        - {x: -22.75, y: 71.75}
+    - name: spritesheet_fille_56
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 39.75}
+        - {x: -22.5, y: 39.75}
+        - {x: -30.5, y: 34.75}
+        - {x: -37.5, y: 14.75}
+        - {x: -37.5, y: -31.25}
+        - {x: 9.5, y: -31.25}
+        - {x: 16.5, y: -26.25}
+        - {x: 16.5, y: -3.25}
+        - {x: 11.5, y: 26.75}
+      - - {x: -23.5, y: 72.75}
+        - {x: -24.5, y: 70.75}
+        - {x: -24.5, y: 62.75}
+        - {x: -18.5, y: 62.75}
+        - {x: -17.5, y: 63.75}
+        - {x: -17.5, y: 67.75}
+        - {x: -19.5, y: 72.75}
+    - name: spritesheet_fille_57
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.75, y: 39.75}
+        - {x: -29.25, y: 39.75}
+        - {x: -35.25, y: 38.75}
+        - {x: -37.25, y: 18.75}
+        - {x: -37.25, y: -31.25}
+        - {x: 9.75, y: -31.25}
+        - {x: 16.75, y: -27.25}
+        - {x: 16.75, y: -2.25}
+        - {x: 8.75, y: 37.75}
+      - - {x: -24.25, y: 62.75}
+        - {x: -19.25, y: 62.75}
+        - {x: -17.25, y: 63.75}
+        - {x: -17.25, y: 67.75}
+        - {x: -19.25, y: 72.75}
+        - {x: -21.25, y: 72.75}
+        - {x: -24.25, y: 70.75}
+    - name: spritesheet_fille_58
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 24.75}
+        - {x: 7, y: 38.75}
+        - {x: 4, y: 39.75}
+        - {x: -28, y: 39.75}
+        - {x: -37, y: 24.75}
+        - {x: -37, y: -18.25}
+        - {x: -32, y: -30.25}
+        - {x: -31, y: -31.25}
+        - {x: 5, y: -31.25}
+        - {x: 18, y: -27.25}
+        - {x: 18, y: -11.25}
+        - {x: 17, y: -8.25}
+        - {x: 10, y: -5.25}
+        - {x: 5, y: 5.75}
+      - - {x: -21, y: 72.75}
+        - {x: -24, y: 69.75}
+        - {x: -24, y: 64.75}
+        - {x: -22, y: 62.75}
+        - {x: -19, y: 62.75}
+        - {x: -17, y: 64.75}
+        - {x: -17, y: 68.75}
+        - {x: -20, y: 72.75}
+    - name: spritesheet_fille_59
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.75, y: -24.25}
+        - {x: -32.75, y: -31.25}
+        - {x: 15.25, y: -31.25}
+        - {x: 18.25, y: -30.25}
+        - {x: 18.25, y: -2.25}
+        - {x: 3.25, y: 39.75}
+        - {x: -27.75, y: 39.75}
+        - {x: -36.75, y: 24.75}
+      - - {x: -22.75, y: 64.75}
+        - {x: -21.75, y: 62.75}
+        - {x: -18.75, y: 62.75}
+        - {x: -16.75, y: 63.75}
+        - {x: -16.75, y: 69.75}
+        - {x: -19.75, y: 72.75}
+        - {x: -22.75, y: 71.75}
+    - name: spritesheet_fille_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: 39.5}
+        - {x: -29.5, y: 32.5}
+        - {x: -37.5, y: 19.5}
+        - {x: -37.5, y: -22.5}
+        - {x: -33.5, y: -31.5}
+        - {x: 10.5, y: -31.5}
+        - {x: 16.5, y: -28.5}
+        - {x: 16.5, y: -11.5}
+        - {x: 15.5, y: -8.5}
+        - {x: 11.5, y: 24.5}
+        - {x: 0.5, y: 39.5}
+      - - {x: -22.5, y: 71.5}
+        - {x: -24.5, y: 69.5}
+        - {x: -24.5, y: 62.5}
+        - {x: -22.5, y: 61.5}
+        - {x: -19.5, y: 61.5}
+        - {x: -18.5, y: 63.5}
+        - {x: -17.5, y: 67.5}
+        - {x: -20.5, y: 71.5}
+    - name: spritesheet_fille_61
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.25, y: 39.5}
+        - {x: -37.25, y: -31.5}
+        - {x: 5.75, y: -31.5}
+        - {x: 16.75, y: -29.5}
+        - {x: 16.75, y: 8.5}
+        - {x: 12.75, y: 26.5}
+        - {x: 0.75, y: 39.5}
+      - - {x: -22.25, y: 71.5}
+        - {x: -24.25, y: 69.5}
+        - {x: -24.25, y: 62.5}
+        - {x: -22.25, y: 61.5}
+        - {x: -19.25, y: 61.5}
+        - {x: -18.25, y: 63.5}
+        - {x: -17.25, y: 67.5}
+        - {x: -20.25, y: 71.5}
+    - name: spritesheet_fille_62
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: 39.5}
+        - {x: -27, y: 39.5}
+        - {x: -37, y: 37.5}
+        - {x: -37, y: -31.5}
+        - {x: 12, y: -31.5}
+        - {x: 18, y: -29.5}
+        - {x: 18, y: 3.5}
+        - {x: 5, y: 36.5}
+      - - {x: -23, y: 71.5}
+        - {x: -24, y: 70.5}
+        - {x: -24, y: 62.5}
+        - {x: -22, y: 61.5}
+        - {x: -18, y: 61.5}
+        - {x: -17, y: 64.5}
+        - {x: -17, y: 68.5}
+        - {x: -18, y: 71.5}
+    - name: spritesheet_fille_63
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.75, y: 38.5}
+        - {x: -31.75, y: 35.5}
+        - {x: -36.75, y: 10.5}
+        - {x: -36.75, y: -28.5}
+        - {x: -26.75, y: -31.5}
+        - {x: 12.25, y: -31.5}
+        - {x: 18.25, y: -27.5}
+        - {x: 18.25, y: 26.5}
+        - {x: 8.25, y: 38.5}
+      - - {x: -30.75, y: 68.5}
+        - {x: -32.75, y: 67.5}
+        - {x: -32.75, y: 63.5}
+        - {x: -31.75, y: 58.5}
+        - {x: -25.75, y: 58.5}
+        - {x: -25.75, y: 66.5}
+        - {x: -28.75, y: 68.5}
+    - name: spritesheet_fille_64
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 38.5}
+        - {x: -37.5, y: -31.5}
+        - {x: 14.5, y: -31.5}
+        - {x: 16.5, y: -26.5}
+        - {x: 16.5, y: -1.5}
+        - {x: 4.5, y: 38.5}
+      - - {x: -40.5, y: 62.5}
+        - {x: -42.5, y: 60.5}
+        - {x: -42.5, y: 58.5}
+        - {x: -40.5, y: 53.5}
+        - {x: -37.5, y: 53.5}
+        - {x: -35.5, y: 55.5}
+        - {x: -35.5, y: 58.5}
+        - {x: -38.5, y: 62.5}
+    - name: spritesheet_fille_65
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.25, y: -31.5}
+        - {x: 6.75, y: -31.5}
+        - {x: 16.75, y: -29.5}
+        - {x: 16.75, y: -0.5}
+        - {x: 7.75, y: 38.5}
+        - {x: -37.25, y: 38.5}
+        - {x: -37.25, y: -22.5}
+      - - {x: -48.25, y: 55.5}
+        - {x: -49.25, y: 53.5}
+        - {x: -49.25, y: 49.5}
+        - {x: -45.25, y: 46.5}
+        - {x: -42.25, y: 46.5}
+        - {x: -41.25, y: 48.5}
+        - {x: -41.25, y: 52.5}
+        - {x: -45.25, y: 55.5}
+    - name: spritesheet_fille_66
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23, y: 38.5}
+        - {x: -26, y: 37.5}
+        - {x: -38, y: 32.5}
+        - {x: -38, y: -20.5}
+        - {x: -37, y: -29.5}
+        - {x: -33, y: -31.5}
+        - {x: 12, y: -31.5}
+        - {x: 18, y: -28.5}
+        - {x: 18, y: -1.5}
+        - {x: 5, y: 38.5}
+      - - {x: -55, y: 45.5}
+        - {x: -54, y: 41.5}
+        - {x: -53, y: 39.5}
+        - {x: -49, y: 39.5}
+        - {x: -47, y: 40.5}
+        - {x: -47, y: 44.5}
+        - {x: -50, y: 47.5}
+        - {x: -53, y: 47.5}
+    - name: spritesheet_fille_67
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.75, y: 28.5}
+        - {x: -35.75, y: 29.5}
+        - {x: -38.75, y: 29.5}
+        - {x: -38.75, y: -29.5}
+        - {x: -34.75, y: -31.5}
+        - {x: 18.25, y: -31.5}
+        - {x: 18.25, y: 3.5}
+        - {x: 3.25, y: 38.5}
+        - {x: -13.75, y: 38.5}
+        - {x: -23.75, y: 30.5}
+      - - {x: -57.75, y: 38.5}
+        - {x: -59.75, y: 37.5}
+        - {x: -59.75, y: 35.5}
+        - {x: -56.75, y: 30.5}
+        - {x: -51.75, y: 30.5}
+        - {x: -50.75, y: 32.5}
+        - {x: -50.75, y: 36.5}
+        - {x: -53.75, y: 38.5}
+    - name: spritesheet_fille_68
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.5, y: 38.5}
+        - {x: -25.5, y: 38.5}
+        - {x: -42.5, y: 29.5}
+        - {x: -42.5, y: -26.5}
+        - {x: -41.5, y: -31.5}
+        - {x: 11.5, y: -31.5}
+        - {x: 12.5, y: -30.5}
+        - {x: 16.5, y: -22.5}
+        - {x: 16.5, y: 0.5}
+      - - {x: -62.5, y: 29.5}
+        - {x: -63.5, y: 27.5}
+        - {x: -63.5, y: 23.5}
+        - {x: -59.5, y: 21.5}
+        - {x: -55.5, y: 21.5}
+        - {x: -55.5, y: 27.5}
+        - {x: -56.5, y: 29.5}
+    - name: spritesheet_fille_69
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.25, y: 5.5}
+        - {x: -33.25, y: -31.5}
+        - {x: 4.75, y: -31.5}
+        - {x: 16.75, y: -28.5}
+        - {x: 16.75, y: -6.5}
+        - {x: 3.75, y: 38.5}
+        - {x: -18.25, y: 38.5}
+        - {x: -44.25, y: 24.5}
+      - - {x: -63.25, y: 19.5}
+        - {x: -65.25, y: 17.5}
+        - {x: -65.25, y: 14.5}
+        - {x: -62.25, y: 12.5}
+        - {x: -56.25, y: 12.5}
+        - {x: -55.25, y: 14.5}
+        - {x: -55.25, y: 18.5}
+        - {x: -58.25, y: 19.5}
+    - name: spritesheet_fille_70
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 38.5}
+        - {x: -44, y: 19.5}
+        - {x: -44, y: 14.5}
+        - {x: -32, y: -27.5}
+        - {x: -30, y: -31.5}
+        - {x: 12, y: -31.5}
+        - {x: 18, y: -29.5}
+        - {x: 18, y: 22.5}
+        - {x: 15, y: 38.5}
+      - - {x: -64, y: 8.5}
+        - {x: -64, y: 5.5}
+        - {x: -63, y: 2.5}
+        - {x: -58, y: 2.5}
+        - {x: -55, y: 3.5}
+        - {x: -55, y: 6.5}
+        - {x: -58, y: 9.5}
+        - {x: -62, y: 9.5}
+    - name: spritesheet_fille_71
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.25, y: 38.5}
+        - {x: -21.75, y: 38.5}
+        - {x: -43.75, y: 16.5}
+        - {x: -43.75, y: -12.5}
+        - {x: -37.75, y: -30.5}
+        - {x: -32.75, y: -31.5}
+        - {x: 17.25, y: -31.5}
+        - {x: 18.25, y: -30.5}
+        - {x: 18.25, y: -1.5}
+        - {x: 17.25, y: 1.5}
+      - - {x: -58.75, y: 0.5}
+        - {x: -60.75, y: -1.5}
+        - {x: -60.75, y: -4.5}
+        - {x: -58.75, y: -6.5}
+        - {x: -53.75, y: -6.5}
+        - {x: -51.75, y: -4.5}
+        - {x: -51.75, y: -1.5}
+        - {x: -53.75, y: 0.5}
+    - name: spritesheet_fille_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45.5, y: 12.25}
+        - {x: -45.5, y: 3.25}
+        - {x: -33.5, y: -28.75}
+        - {x: -32.5, y: -29.75}
+        - {x: 16.5, y: -29.75}
+        - {x: 16.5, y: 4.25}
+        - {x: 1.5, y: 39.25}
+        - {x: -18.5, y: 39.25}
+        - {x: -42.5, y: 17.25}
+      - - {x: -55.5, y: -6.75}
+        - {x: -59.5, y: -10.75}
+        - {x: -58.5, y: -13.75}
+        - {x: -51.5, y: -13.75}
+        - {x: -49.5, y: -11.75}
+        - {x: -49.5, y: -8.75}
+        - {x: -51.5, y: -6.75}
+    - name: spritesheet_fille_73
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.25, y: 39.25}
+        - {x: -44.25, y: 19.25}
+        - {x: -44.25, y: -14.75}
+        - {x: -39.25, y: -29.75}
+        - {x: 16.75, y: -29.75}
+        - {x: 16.75, y: 31.25}
+        - {x: 0.75, y: 39.25}
+      - - {x: -53.25, y: -17.75}
+        - {x: -53.25, y: -22.75}
+        - {x: -48.25, y: -22.75}
+        - {x: -44.25, y: -20.75}
+        - {x: -44.25, y: -17.75}
+        - {x: -46.25, y: -15.75}
+        - {x: -50.25, y: -15.75}
+    - name: spritesheet_fille_74
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: -21.75}
+        - {x: -46, y: -25.75}
+        - {x: -46, y: -27.75}
+        - {x: -44, y: -29.75}
+        - {x: -41, y: -29.75}
+        - {x: -37, y: -27.75}
+        - {x: -37, y: -23.75}
+        - {x: -38, y: -21.75}
+      - - {x: 1, y: 39.25}
+        - {x: -17, y: 39.25}
+        - {x: -43, y: 23.25}
+        - {x: -43, y: -29.75}
+        - {x: 14, y: -29.75}
+        - {x: 18, y: -27.75}
+        - {x: 18, y: -3.75}
+        - {x: 8, y: 26.25}
+    - name: spritesheet_fille_75
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.75, y: -27.75}
+        - {x: -37.75, y: -31.75}
+        - {x: -37.75, y: -33.75}
+        - {x: -35.75, y: -35.75}
+        - {x: -32.75, y: -35.75}
+        - {x: -28.75, y: -31.75}
+        - {x: -28.75, y: -29.75}
+        - {x: -30.75, y: -27.75}
+      - - {x: -20.75, y: 39.25}
+        - {x: -39.75, y: 11.25}
+        - {x: -39.75, y: -28.75}
+        - {x: -34.75, y: -30.75}
+        - {x: 9.25, y: -30.75}
+        - {x: 18.25, y: -26.75}
+        - {x: 18.25, y: -1.75}
+        - {x: 10.25, y: 39.25}
+    - name: spritesheet_fille_76
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: -31.75}
+        - {x: -29.5, y: -34.75}
+        - {x: -29.5, y: -39.75}
+        - {x: -27.5, y: -40.75}
+        - {x: -23.5, y: -40.75}
+        - {x: -21.5, y: -38.75}
+        - {x: -21.5, y: -33.75}
+        - {x: -22.5, y: -31.75}
+      - - {x: -19.5, y: 39.25}
+        - {x: -40.5, y: 7.25}
+        - {x: -40.5, y: -7.75}
+        - {x: -33.5, y: -28.75}
+        - {x: -29.5, y: -30.75}
+        - {x: 7.5, y: -30.75}
+        - {x: 16.5, y: -27.75}
+        - {x: 16.5, y: -0.75}
+        - {x: 7.5, y: 27.25}
+        - {x: -1.5, y: 39.25}
+    - name: spritesheet_fille_77
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.25, y: -34.75}
+        - {x: -19.25, y: -36.75}
+        - {x: -20.25, y: -40.75}
+        - {x: -17.25, y: -43.75}
+        - {x: -14.25, y: -43.75}
+        - {x: -12.25, y: -38.75}
+        - {x: -12.25, y: -35.75}
+        - {x: -14.25, y: -34.75}
+      - - {x: -0.25, y: 39.25}
+        - {x: -18.25, y: 39.25}
+        - {x: -37.25, y: 11.25}
+        - {x: -37.25, y: -6.75}
+        - {x: -34.25, y: -7.75}
+        - {x: -29.25, y: -7.75}
+        - {x: -34.25, y: -14.75}
+        - {x: -36.25, y: -29.75}
+        - {x: -32.25, y: -30.75}
+        - {x: 11.75, y: -30.75}
+        - {x: 16.75, y: -28.75}
+        - {x: 16.75, y: 9.25}
+        - {x: 12.75, y: 28.25}
+    - name: spritesheet_fille_78
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: -34.75}
+        - {x: -7, y: -34.75}
+        - {x: -10, y: -37.75}
+        - {x: -10, y: -42.75}
+        - {x: -9, y: -44.75}
+        - {x: -5, y: -44.75}
+        - {x: -2, y: -39.75}
+        - {x: -2, y: -35.75}
+      - - {x: -28, y: 39.25}
+        - {x: -34, y: 36.25}
+        - {x: -37, y: 17.25}
+        - {x: -37, y: -30.75}
+        - {x: 18, y: -30.75}
+        - {x: 18, y: 9.25}
+        - {x: 11, y: 39.25}
+    - name: spritesheet_fille_79
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.25, y: -35.75}
+        - {x: 1.25, y: -43.75}
+        - {x: 6.25, y: -43.75}
+        - {x: 8.25, y: -42.75}
+        - {x: 8.25, y: -36.75}
+        - {x: 6.25, y: -34.75}
+        - {x: 3.25, y: -34.75}
+      - - {x: -17.75, y: 39.25}
+        - {x: -36.75, y: 9.25}
+        - {x: -36.75, y: -28.75}
+        - {x: -27.75, y: -30.75}
+        - {x: 17.25, y: -30.75}
+        - {x: 18.25, y: -29.75}
+        - {x: 18.25, y: 16.25}
+        - {x: 12.25, y: 39.25}
+    - name: spritesheet_fille_80
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -31.75}
+        - {x: 8.5, y: -32.75}
+        - {x: 8.5, y: -40.75}
+        - {x: 10.5, y: -41.75}
+        - {x: 14.5, y: -41.75}
+        - {x: 15.5, y: -39.75}
+        - {x: 15.5, y: -33.75}
+        - {x: 14.5, y: -31.75}
+      - - {x: -37.5, y: 39.25}
+        - {x: -37.5, y: -30.75}
+        - {x: 13.5, y: -30.75}
+        - {x: 16.5, y: -28.75}
+        - {x: 16.5, y: 0.25}
+        - {x: 6.5, y: 39.25}
+    - name: spritesheet_fille_81
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.75, y: -33.75}
+        - {x: 9.75, y: -39.75}
+        - {x: 10.75, y: -41.75}
+        - {x: 13.75, y: -41.75}
+        - {x: 15.75, y: -40.75}
+        - {x: 15.75, y: -33.75}
+        - {x: 13.75, y: -31.75}
+        - {x: 11.75, y: -31.75}
+      - - {x: -17.25, y: 39.25}
+        - {x: -37.25, y: 14.25}
+        - {x: -37.25, y: -28.75}
+        - {x: -24.25, y: -30.75}
+        - {x: 1.75, y: -30.75}
+        - {x: 16.75, y: -27.75}
+        - {x: 16.75, y: 10.25}
+        - {x: 3.75, y: 39.25}
+    - name: spritesheet_fille_82
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -33.75}
+        - {x: 10, y: -39.75}
+        - {x: 11, y: -41.75}
+        - {x: 14, y: -41.75}
+        - {x: 16, y: -40.75}
+        - {x: 16, y: -33.75}
+        - {x: 14, y: -31.75}
+        - {x: 12, y: -31.75}
+      - - {x: -21, y: 39.25}
+        - {x: -37, y: 12.25}
+        - {x: -37, y: -15.75}
+        - {x: -31, y: -29.75}
+        - {x: -28, y: -30.75}
+        - {x: 4, y: -30.75}
+        - {x: 17, y: -27.75}
+        - {x: 18, y: -24.75}
+        - {x: 18, y: -3.75}
+        - {x: 5, y: 39.25}
+    - name: spritesheet_fille_83
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.25, y: -33.75}
+        - {x: 10.25, y: -39.75}
+        - {x: 11.25, y: -41.75}
+        - {x: 14.25, y: -41.75}
+        - {x: 16.25, y: -40.75}
+        - {x: 16.25, y: -33.75}
+        - {x: 14.25, y: -31.75}
+        - {x: 12.25, y: -31.75}
+      - - {x: 1.25, y: 39.25}
+        - {x: -13.75, y: 39.25}
+        - {x: -22.75, y: 30.25}
+        - {x: -36.75, y: 10.25}
+        - {x: -36.75, y: -3.75}
+        - {x: -32.75, y: -25.75}
+        - {x: -27.75, y: -30.75}
+        - {x: 18.25, y: -30.75}
+        - {x: 18.25, y: 3.25}
+        - {x: 3.25, y: 37.25}
+    - name: spritesheet_fille_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: -33}
+        - {x: 8.5, y: -35}
+        - {x: 8.5, y: -40}
+        - {x: 10.5, y: -42}
+        - {x: 13.5, y: -42}
+        - {x: 15.5, y: -40}
+        - {x: 15.5, y: -35}
+        - {x: 13.5, y: -33}
+      - - {x: -15.5, y: 39}
+        - {x: -37.5, y: 15}
+        - {x: -37.5, y: -29}
+        - {x: -31.5, y: -31}
+        - {x: 11.5, y: -31}
+        - {x: 16.5, y: -24}
+        - {x: 16.5, y: 5}
+        - {x: 3.5, y: 39}
+    - name: spritesheet_fille_85
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.75, y: -35}
+        - {x: 9.75, y: -40}
+        - {x: 10.75, y: -42}
+        - {x: 13.75, y: -42}
+        - {x: 15.75, y: -41}
+        - {x: 15.75, y: -35}
+        - {x: 13.75, y: -33}
+        - {x: 11.75, y: -33}
+      - - {x: -0.25, y: 39}
+        - {x: -16.25, y: 39}
+        - {x: -33.25, y: 18}
+        - {x: -37.25, y: 12}
+        - {x: -37.25, y: -18}
+        - {x: -32.25, y: -31}
+        - {x: 13.75, y: -31}
+        - {x: 16.75, y: -25}
+        - {x: 16.75, y: 6}
+        - {x: 4.75, y: 36}
+    - name: spritesheet_fille_86
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -35}
+        - {x: 10, y: -40}
+        - {x: 11, y: -42}
+        - {x: 14, y: -42}
+        - {x: 16, y: -41}
+        - {x: 16, y: -35}
+        - {x: 14, y: -33}
+        - {x: 12, y: -33}
+      - - {x: -17, y: 39}
+        - {x: -28, y: 23}
+        - {x: -37, y: 15}
+        - {x: -37, y: -27}
+        - {x: -31, y: -31}
+        - {x: 18, y: -31}
+        - {x: 18, y: -8}
+        - {x: 7, y: 39}
+    - name: spritesheet_fille_87
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.25, y: -35}
+        - {x: 10.25, y: -40}
+        - {x: 11.25, y: -42}
+        - {x: 14.25, y: -42}
+        - {x: 16.25, y: -41}
+        - {x: 16.25, y: -35}
+        - {x: 14.25, y: -33}
+        - {x: 12.25, y: -33}
+      - - {x: -23.75, y: 39}
+        - {x: -36.75, y: 34}
+        - {x: -36.75, y: -31}
+        - {x: 17.25, y: -31}
+        - {x: 18.25, y: -30}
+        - {x: 18.25, y: 21}
+        - {x: 8.25, y: 39}
+    - name: spritesheet_fille_88
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: -42}
+        - {x: 15.5, y: -42}
+        - {x: 15.5, y: -33}
+        - {x: 10.5, y: -33}
+        - {x: 8.5, y: -34}
+        - {x: 8.5, y: -40}
+      - - {x: -20.5, y: 39}
+        - {x: -37.5, y: 13}
+        - {x: -37.5, y: -30}
+        - {x: -33.5, y: -31}
+        - {x: 15.5, y: -31}
+        - {x: 16.5, y: -28}
+        - {x: 16.5, y: 5}
+        - {x: 3.5, y: 39}
+    - name: spritesheet_fille_89
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.75, y: -35}
+        - {x: 9.75, y: -40}
+        - {x: 10.75, y: -42}
+        - {x: 13.75, y: -42}
+        - {x: 15.75, y: -41}
+        - {x: 15.75, y: -35}
+        - {x: 13.75, y: -33}
+        - {x: 11.75, y: -33}
+      - - {x: -0.25, y: 39}
+        - {x: -16.25, y: 39}
+        - {x: -33.25, y: 18}
+        - {x: -37.25, y: 12}
+        - {x: -37.25, y: -18}
+        - {x: -32.25, y: -31}
+        - {x: 13.75, y: -31}
+        - {x: 16.75, y: -25}
+        - {x: 16.75, y: 6}
+        - {x: 4.75, y: 36}
+    - name: spritesheet_fille_90
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -35}
+        - {x: 10, y: -40}
+        - {x: 11, y: -42}
+        - {x: 14, y: -42}
+        - {x: 16, y: -41}
+        - {x: 16, y: -35}
+        - {x: 14, y: -33}
+        - {x: 12, y: -33}
+      - - {x: -17, y: 39}
+        - {x: -28, y: 23}
+        - {x: -37, y: 15}
+        - {x: -37, y: -27}
+        - {x: -31, y: -31}
+        - {x: 18, y: -31}
+        - {x: 18, y: -8}
+        - {x: 7, y: 39}
+    - name: spritesheet_fille_91
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.25, y: -35}
+        - {x: 10.25, y: -40}
+        - {x: 11.25, y: -42}
+        - {x: 14.25, y: -42}
+        - {x: 16.25, y: -41}
+        - {x: 16.25, y: -35}
+        - {x: 14.25, y: -33}
+        - {x: 12.25, y: -33}
+      - - {x: -23.75, y: 39}
+        - {x: -36.75, y: 34}
+        - {x: -36.75, y: -31}
+        - {x: 17.25, y: -31}
+        - {x: 18.25, y: -30}
+        - {x: 18.25, y: 21}
+        - {x: 8.25, y: 39}
+    - name: spritesheet_fille_92
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: -42}
+        - {x: 15.5, y: -42}
+        - {x: 15.5, y: -33}
+        - {x: 10.5, y: -33}
+        - {x: 8.5, y: -34}
+        - {x: 8.5, y: -39}
+      - - {x: -20.5, y: 39}
+        - {x: -37.5, y: 13}
+        - {x: -37.5, y: -30}
+        - {x: -33.5, y: -31}
+        - {x: 15.5, y: -31}
+        - {x: 16.5, y: -28}
+        - {x: 16.5, y: 5}
+        - {x: 3.5, y: 39}
+    - name: spritesheet_fille_93
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.75, y: -35}
+        - {x: 9.75, y: -40}
+        - {x: 10.75, y: -42}
+        - {x: 13.75, y: -42}
+        - {x: 15.75, y: -41}
+        - {x: 15.75, y: -35}
+        - {x: 13.75, y: -33}
+        - {x: 11.75, y: -33}
+      - - {x: -0.25, y: 39}
+        - {x: -16.25, y: 39}
+        - {x: -33.25, y: 18}
+        - {x: -37.25, y: 12}
+        - {x: -37.25, y: -18}
+        - {x: -32.25, y: -31}
+        - {x: 13.75, y: -31}
+        - {x: 16.75, y: -25}
+        - {x: 16.75, y: 6}
+        - {x: 4.75, y: 36}
+    - name: spritesheet_fille_94
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -35}
+        - {x: 10, y: -40}
+        - {x: 11, y: -42}
+        - {x: 14, y: -42}
+        - {x: 16, y: -41}
+        - {x: 16, y: -35}
+        - {x: 14, y: -33}
+        - {x: 12, y: -33}
+      - - {x: -17, y: 39}
+        - {x: -28, y: 23}
+        - {x: -37, y: 15}
+        - {x: -37, y: -27}
+        - {x: -31, y: -31}
+        - {x: 18, y: -31}
+        - {x: 18, y: -8}
+        - {x: 7, y: 39}
+    - name: spritesheet_fille_95
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.25, y: -35}
+        - {x: 10.25, y: -40}
+        - {x: 11.25, y: -42}
+        - {x: 14.25, y: -42}
+        - {x: 16.25, y: -41}
+        - {x: 16.25, y: -35}
+        - {x: 14.25, y: -33}
+        - {x: 12.25, y: -33}
+      - - {x: -23.75, y: 39}
+        - {x: -36.75, y: 34}
+        - {x: -36.75, y: -31}
+        - {x: 17.25, y: -31}
+        - {x: 18.25, y: -30}
+        - {x: 18.25, y: 21}
+        - {x: 8.25, y: 39}
+    - name: spritesheet_fille_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -33.25}
+        - {x: 8.5, y: -34.25}
+        - {x: 8.5, y: -42.25}
+        - {x: 10.5, y: -43.25}
+        - {x: 14.5, y: -43.25}
+        - {x: 15.5, y: -41.25}
+        - {x: 15.5, y: -35.25}
+        - {x: 14.5, y: -33.25}
+      - - {x: 2.5, y: 38.75}
+        - {x: -23.5, y: 38.75}
+        - {x: -37.5, y: 12.75}
+        - {x: -37.5, y: -31.25}
+        - {x: -32.5, y: -32.25}
+        - {x: 9.5, y: -32.25}
+        - {x: 16.5, y: -27.25}
+        - {x: 16.5, y: -9.25}
+        - {x: 5.5, y: 36.75}
+    - name: spritesheet_fille_97
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.75, y: -35.25}
+        - {x: 9.75, y: -41.25}
+        - {x: 10.75, y: -43.25}
+        - {x: 13.75, y: -43.25}
+        - {x: 15.75, y: -42.25}
+        - {x: 15.75, y: -35.25}
+        - {x: 13.75, y: -33.25}
+        - {x: 11.75, y: -33.25}
+      - - {x: -19.25, y: 38.75}
+        - {x: -37.25, y: 13.75}
+        - {x: -37.25, y: -30.25}
+        - {x: -29.25, y: -32.25}
+        - {x: 11.75, y: -32.25}
+        - {x: 16.75, y: -29.25}
+        - {x: 16.75, y: 0.75}
+        - {x: 7.75, y: 38.75}
+    - name: spritesheet_fille_98
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -35.25}
+        - {x: 10, y: -41.25}
+        - {x: 11, y: -43.25}
+        - {x: 14, y: -43.25}
+        - {x: 16, y: -42.25}
+        - {x: 16, y: -35.25}
+        - {x: 14, y: -33.25}
+        - {x: 12, y: -33.25}
+      - - {x: 5, y: 36.75}
+        - {x: -1, y: 38.75}
+        - {x: -20, y: 38.75}
+        - {x: -36, y: 13.75}
+        - {x: -37, y: 12.75}
+        - {x: -37, y: -14.25}
+        - {x: -31, y: -32.25}
+        - {x: -5, y: -32.25}
+        - {x: 8, y: -30.25}
+        - {x: 18, y: -28.25}
+        - {x: 18, y: -2.25}
+    - name: spritesheet_fille_99
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.25, y: -35.25}
+        - {x: 10.25, y: -41.25}
+        - {x: 11.25, y: -43.25}
+        - {x: 14.25, y: -43.25}
+        - {x: 16.25, y: -42.25}
+        - {x: 16.25, y: -35.25}
+        - {x: 14.25, y: -33.25}
+        - {x: 12.25, y: -33.25}
+      - - {x: 2.25, y: 38.75}
+        - {x: -18.75, y: 38.75}
+        - {x: -36.75, y: 9.75}
+        - {x: -36.75, y: -30.25}
+        - {x: -29.75, y: -32.25}
+        - {x: 15.25, y: -32.25}
+        - {x: 18.25, y: -30.25}
+        - {x: 18.25, y: 14.75}
+        - {x: 17.25, y: 22.75}
+    - name: spritesheet_fille_100
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -33.25}
+        - {x: 8.5, y: -34.25}
+        - {x: 8.5, y: -42.25}
+        - {x: 10.5, y: -43.25}
+        - {x: 14.5, y: -43.25}
+        - {x: 15.5, y: -41.25}
+        - {x: 15.5, y: -35.25}
+        - {x: 14.5, y: -33.25}
+      - - {x: 2.5, y: 38.75}
+        - {x: -23.5, y: 38.75}
+        - {x: -37.5, y: 12.75}
+        - {x: -37.5, y: -31.25}
+        - {x: -32.5, y: -32.25}
+        - {x: 9.5, y: -32.25}
+        - {x: 16.5, y: -27.25}
+        - {x: 16.5, y: -9.25}
+        - {x: 5.5, y: 36.75}
+    - name: spritesheet_fille_101
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.75, y: -35.25}
+        - {x: 9.75, y: -41.25}
+        - {x: 10.75, y: -43.25}
+        - {x: 13.75, y: -43.25}
+        - {x: 15.75, y: -42.25}
+        - {x: 15.75, y: -35.25}
+        - {x: 13.75, y: -33.25}
+        - {x: 11.75, y: -33.25}
+      - - {x: -19.25, y: 38.75}
+        - {x: -37.25, y: 13.75}
+        - {x: -37.25, y: -30.25}
+        - {x: -29.25, y: -32.25}
+        - {x: 11.75, y: -32.25}
+        - {x: 16.75, y: -29.25}
+        - {x: 16.75, y: 0.75}
+        - {x: 7.75, y: 38.75}
+    - name: spritesheet_fille_102
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -35.25}
+        - {x: 10, y: -41.25}
+        - {x: 11, y: -43.25}
+        - {x: 14, y: -43.25}
+        - {x: 16, y: -42.25}
+        - {x: 16, y: -35.25}
+        - {x: 14, y: -33.25}
+        - {x: 12, y: -33.25}
+      - - {x: 5, y: 36.75}
+        - {x: -1, y: 38.75}
+        - {x: -20, y: 38.75}
+        - {x: -36, y: 13.75}
+        - {x: -37, y: 12.75}
+        - {x: -37, y: -14.25}
+        - {x: -31, y: -32.25}
+        - {x: -5, y: -32.25}
+        - {x: 8, y: -30.25}
+        - {x: 18, y: -28.25}
+        - {x: 18, y: -2.25}
+    - name: spritesheet_fille_103
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.25, y: -35.25}
+        - {x: 10.25, y: -41.25}
+        - {x: 11.25, y: -43.25}
+        - {x: 14.25, y: -43.25}
+        - {x: 16.25, y: -42.25}
+        - {x: 16.25, y: -35.25}
+        - {x: 14.25, y: -33.25}
+        - {x: 12.25, y: -33.25}
+      - - {x: 2.25, y: 38.75}
+        - {x: -18.75, y: 38.75}
+        - {x: -36.75, y: 9.75}
+        - {x: -36.75, y: -30.25}
+        - {x: -29.75, y: -32.25}
+        - {x: 15.25, y: -32.25}
+        - {x: 18.25, y: -30.25}
+        - {x: 18.25, y: 14.75}
+        - {x: 17.25, y: 22.75}
+    - name: spritesheet_fille_104
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -33.25}
+        - {x: 8.5, y: -34.25}
+        - {x: 8.5, y: -42.25}
+        - {x: 10.5, y: -43.25}
+        - {x: 14.5, y: -43.25}
+        - {x: 15.5, y: -41.25}
+        - {x: 15.5, y: -35.25}
+        - {x: 14.5, y: -33.25}
+      - - {x: 2.5, y: 38.75}
+        - {x: -23.5, y: 38.75}
+        - {x: -37.5, y: 12.75}
+        - {x: -37.5, y: -31.25}
+        - {x: -32.5, y: -32.25}
+        - {x: 9.5, y: -32.25}
+        - {x: 16.5, y: -27.25}
+        - {x: 16.5, y: -9.25}
+        - {x: 5.5, y: 36.75}
+    - name: spritesheet_fille_105
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.75, y: -35.25}
+        - {x: 9.75, y: -41.25}
+        - {x: 10.75, y: -43.25}
+        - {x: 13.75, y: -43.25}
+        - {x: 15.75, y: -42.25}
+        - {x: 15.75, y: -35.25}
+        - {x: 13.75, y: -33.25}
+        - {x: 11.75, y: -33.25}
+      - - {x: -19.25, y: 38.75}
+        - {x: -37.25, y: 13.75}
+        - {x: -37.25, y: -30.25}
+        - {x: -29.25, y: -32.25}
+        - {x: 11.75, y: -32.25}
+        - {x: 16.75, y: -29.25}
+        - {x: 16.75, y: 0.75}
+        - {x: 7.75, y: 38.75}
+    - name: spritesheet_fille_106
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -35.25}
+        - {x: 10, y: -41.25}
+        - {x: 11, y: -43.25}
+        - {x: 14, y: -43.25}
+        - {x: 16, y: -42.25}
+        - {x: 16, y: -35.25}
+        - {x: 14, y: -33.25}
+        - {x: 12, y: -33.25}
+      - - {x: -33, y: 38.75}
+        - {x: -37, y: 24.75}
+        - {x: -37, y: -24.25}
+        - {x: -35, y: -32.25}
+        - {x: 2, y: -32.25}
+        - {x: 18, y: -28.25}
+        - {x: 18, y: 22.75}
+        - {x: 4, y: 38.75}
+    - name: spritesheet_fille_107
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.25, y: -35.25}
+        - {x: 10.25, y: -41.25}
+        - {x: 11.25, y: -43.25}
+        - {x: 14.25, y: -43.25}
+        - {x: 16.25, y: -42.25}
+        - {x: 16.25, y: -35.25}
+        - {x: 14.25, y: -33.25}
+        - {x: 12.25, y: -33.25}
+      - - {x: -17.75, y: 38.75}
+        - {x: -36.75, y: 16.75}
+        - {x: -36.75, y: -32.25}
+        - {x: 11.25, y: -32.25}
+        - {x: 18.25, y: -24.25}
+        - {x: 18.25, y: 5.75}
+        - {x: 8.25, y: 38.75}
+    - name: spritesheet_fille_108
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -33.5}
+        - {x: 8.5, y: -34.5}
+        - {x: 8.5, y: -42.5}
+        - {x: 10.5, y: -43.5}
+        - {x: 14.5, y: -43.5}
+        - {x: 15.5, y: -41.5}
+        - {x: 15.5, y: -35.5}
+        - {x: 14.5, y: -33.5}
+      - - {x: -37.5, y: -28.5}
+        - {x: -32.5, y: -32.5}
+        - {x: 6.5, y: -32.5}
+        - {x: 16.5, y: -27.5}
+        - {x: 16.5, y: -3.5}
+        - {x: 5.5, y: 35.5}
+        - {x: 0.5, y: 37.5}
+        - {x: -22.5, y: 37.5}
+        - {x: -37.5, y: 11.5}
+    - name: spritesheet_fille_109
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -2.25, y: -36.5}
+        - {x: -5.25, y: -38.5}
+        - {x: -5.25, y: -44.5}
+        - {x: -4.25, y: -46.5}
+        - {x: -0.25, y: -46.5}
+        - {x: 1.75, y: -45.5}
+        - {x: 2.75, y: -43.5}
+        - {x: 2.75, y: -39.5}
+        - {x: 1.75, y: -36.5}
+      - - {x: -17.25, y: 37.5}
+        - {x: -37.25, y: 15.5}
+        - {x: -37.25, y: -25.5}
+        - {x: -34.25, y: -32.5}
+        - {x: 16.75, y: -32.5}
+        - {x: 16.75, y: 23.5}
+        - {x: 15.75, y: 28.5}
+        - {x: 0.75, y: 37.5}
+    - name: spritesheet_fille_110
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: -35.5}
+        - {x: -16, y: -35.5}
+        - {x: -19, y: -38.5}
+        - {x: -19, y: -43.5}
+        - {x: -18, y: -44.5}
+        - {x: -13, y: -44.5}
+        - {x: -13, y: -43.5}
+        - {x: -12, y: -40.5}
+        - {x: -12, y: -36.5}
+      - - {x: -24, y: 37.5}
+        - {x: -37, y: 21.5}
+        - {x: -37, y: -19.5}
+        - {x: -32, y: -32.5}
+        - {x: 8, y: -32.5}
+        - {x: 12, y: -31.5}
+        - {x: 18, y: -28.5}
+        - {x: 18, y: 31.5}
+        - {x: 3, y: 37.5}
+    - name: spritesheet_fille_111
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30.75, y: -31.5}
+        - {x: -33.75, y: -35.5}
+        - {x: -33.75, y: -38.5}
+        - {x: -31.75, y: -39.5}
+        - {x: -28.75, y: -39.5}
+        - {x: -24.75, y: -35.5}
+        - {x: -24.75, y: -31.5}
+      - - {x: -38.75, y: -20.5}
+        - {x: -27.75, y: -32.5}
+        - {x: 18.25, y: -32.5}
+        - {x: 18.25, y: 21.5}
+        - {x: 17.25, y: 29.5}
+        - {x: 4.25, y: 37.5}
+        - {x: -27.75, y: 37.5}
+        - {x: -38.75, y: 17.5}
+    - name: spritesheet_fille_112
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46.5, y: -26.5}
+        - {x: -46.5, y: -29.5}
+        - {x: -44.5, y: -31.5}
+        - {x: -42.5, y: -31.5}
+        - {x: -37.5, y: -26.5}
+        - {x: -38.5, y: -23.5}
+        - {x: -42.5, y: -23.5}
+      - - {x: -1.5, y: 37.5}
+        - {x: -26.5, y: 37.5}
+        - {x: -42.5, y: 15.5}
+        - {x: -42.5, y: -9.5}
+        - {x: -37.5, y: -31.5}
+        - {x: 16.5, y: -31.5}
+        - {x: 16.5, y: 10.5}
+        - {x: 13.5, y: 28.5}
+    - name: spritesheet_fille_113
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -44.25, y: -11.5}
+        - {x: -38.25, y: -31.5}
+        - {x: 16.75, y: -31.5}
+        - {x: 16.75, y: 7.5}
+        - {x: 10.75, y: 37.5}
+        - {x: -16.25, y: 37.5}
+        - {x: -44.25, y: 17.5}
+      - - {x: -51.25, y: -12.5}
+        - {x: -56.25, y: -15.5}
+        - {x: -56.25, y: -18.5}
+        - {x: -54.25, y: -20.5}
+        - {x: -48.25, y: -19.5}
+        - {x: -46.25, y: -18.5}
+        - {x: -46.25, y: -14.5}
+        - {x: -47.25, y: -12.5}
+    - name: spritesheet_fille_114
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -5.5}
+        - {x: 5, y: 5.5}
+        - {x: 9, y: 19.5}
+        - {x: 7, y: 37.5}
+        - {x: -24, y: 37.5}
+        - {x: -44, y: 30.5}
+        - {x: -44, y: -13.5}
+        - {x: -38, y: -30.5}
+        - {x: -35, y: -31.5}
+        - {x: 3, y: -31.5}
+        - {x: 11, y: -30.5}
+        - {x: 18, y: -24.5}
+        - {x: 18, y: -17.5}
+        - {x: 16, y: -9.5}
+      - - {x: -60, y: -0.5}
+        - {x: -62, y: -1.5}
+        - {x: -62, y: -4.5}
+        - {x: -61, y: -6.5}
+        - {x: -54, y: -6.5}
+        - {x: -53, y: -5.5}
+        - {x: -53, y: -1.5}
+        - {x: -55, y: -0.5}
+    - name: spritesheet_fille_115
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28.75, y: 37.5}
+        - {x: -43.75, y: 22.5}
+        - {x: -43.75, y: -11.5}
+        - {x: -34.75, y: -29.5}
+        - {x: -24.75, y: -31.5}
+        - {x: 11.25, y: -31.5}
+        - {x: 18.25, y: -25.5}
+        - {x: 18.25, y: 1.5}
+        - {x: 3.25, y: 37.5}
+      - - {x: -63.75, y: 14.5}
+        - {x: -63.75, y: 8.5}
+        - {x: -61.75, y: 7.5}
+        - {x: -56.75, y: 7.5}
+        - {x: -54.75, y: 8.5}
+        - {x: -54.75, y: 13.5}
+        - {x: -57.75, y: 14.5}
+    - name: spritesheet_fille_116
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19.5, y: 37.5}
+        - {x: -43.5, y: 26.5}
+        - {x: -43.5, y: -8.5}
+        - {x: -37.5, y: -29.5}
+        - {x: -35.5, y: -31.5}
+        - {x: 16.5, y: -31.5}
+        - {x: 16.5, y: 0.5}
+        - {x: 0.5, y: 37.5}
+      - - {x: -62.5, y: 29.5}
+        - {x: -63.5, y: 27.5}
+        - {x: -63.5, y: 23.5}
+        - {x: -59.5, y: 21.5}
+        - {x: -55.5, y: 21.5}
+        - {x: -55.5, y: 27.5}
+        - {x: -56.5, y: 29.5}
+    - name: spritesheet_fille_117
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -33.25, y: -31.5}
+        - {x: 16.75, y: -31.5}
+        - {x: 16.75, y: 13.5}
+        - {x: 11.75, y: 37.5}
+        - {x: -30.25, y: 37.5}
+        - {x: -41.25, y: 32.5}
+        - {x: -41.25, y: -1.5}
+    - name: spritesheet_fille_118
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 37.5}
+        - {x: -38, y: 35.5}
+        - {x: -38, y: -30.5}
+        - {x: -33, y: -31.5}
+        - {x: 15, y: -31.5}
+        - {x: 18, y: -25.5}
+        - {x: 18, y: -0.5}
+        - {x: 6, y: 37.5}
+    - name: spritesheet_fille_119
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1.25, y: 39.5}
+        - {x: -22.75, y: 39.5}
+        - {x: -32.75, y: 33.5}
+        - {x: -36.75, y: 23.5}
+        - {x: -36.75, y: 6.5}
+        - {x: -33.75, y: -16.5}
+        - {x: -32.75, y: -27.5}
+        - {x: -27.75, y: -31.5}
+        - {x: 3.25, y: -31.5}
+        - {x: 11.25, y: -30.5}
+        - {x: 18.25, y: -25.5}
+        - {x: 18.25, y: -2.5}
+        - {x: 15.25, y: 26.5}
+      - - {x: -22.75, y: 71.5}
+        - {x: -22.75, y: 61.5}
+        - {x: -16.75, y: 61.5}
+        - {x: -16.75, y: 70.5}
+        - {x: -17.75, y: 71.5}
+    - name: spritesheet_fille_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 41.25}
+        - {x: -37.5, y: -20.75}
+        - {x: -36.5, y: -30.75}
+        - {x: 7.5, y: -30.75}
+        - {x: 16.5, y: -29.75}
+        - {x: 16.5, y: 12.25}
+        - {x: 11.5, y: 40.25}
+        - {x: 9.5, y: 41.25}
+      - - {x: -22.5, y: 73.25}
+        - {x: -24.5, y: 71.25}
+        - {x: -24.5, y: 65.25}
+        - {x: -22.5, y: 63.25}
+        - {x: -19.5, y: 63.25}
+        - {x: -17.5, y: 67.25}
+        - {x: -17.5, y: 69.25}
+        - {x: -19.5, y: 73.25}
+    - name: spritesheet_fille_121
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.25, y: 44.25}
+        - {x: -37.25, y: -30.75}
+        - {x: 6.75, y: -30.75}
+        - {x: 16.75, y: -27.75}
+        - {x: 16.75, y: 1.25}
+        - {x: 10.75, y: 19.25}
+        - {x: -0.25, y: 43.25}
+        - {x: -1.25, y: 44.25}
+      - - {x: -30.25, y: 70.25}
+        - {x: -30.25, y: 60.25}
+        - {x: -24.25, y: 60.25}
+        - {x: -24.25, y: 69.25}
+        - {x: -25.25, y: 70.25}
+    - name: spritesheet_fille_122
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 48.25}
+        - {x: -29, y: 48.25}
+        - {x: -33, y: 47.25}
+        - {x: -37, y: 37.25}
+        - {x: -37, y: -28.75}
+        - {x: -31, y: -30.75}
+        - {x: 12, y: -30.75}
+        - {x: 18, y: -24.75}
+        - {x: 18, y: 15.25}
+        - {x: 8, y: 41.25}
+      - - {x: -37, y: 67.25}
+        - {x: -37, y: 62.25}
+        - {x: -35, y: 57.25}
+        - {x: -32, y: 57.25}
+        - {x: -30, y: 59.25}
+        - {x: -30, y: 64.25}
+        - {x: -31, y: 67.25}
+    - name: spritesheet_fille_123
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36.75, y: 52.25}
+        - {x: -36.75, y: -30.75}
+        - {x: 5.25, y: -30.75}
+        - {x: 18.25, y: -24.75}
+        - {x: 18.25, y: 2.25}
+        - {x: 5.25, y: 52.25}
+      - - {x: -41.75, y: 61.25}
+        - {x: -41.75, y: 56.25}
+        - {x: -40.75, y: 53.25}
+        - {x: -37.75, y: 53.25}
+        - {x: -34.75, y: 54.25}
+        - {x: -34.75, y: 58.25}
+        - {x: -36.75, y: 63.25}
+        - {x: -39.75, y: 63.25}
+    - name: spritesheet_fille_124
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.5, y: 57.25}
+        - {x: -37.5, y: -10.75}
+        - {x: -32.5, y: -30.75}
+        - {x: 2.5, y: -30.75}
+        - {x: 16.5, y: -24.75}
+        - {x: 16.5, y: -1.75}
+        - {x: 2.5, y: 57.25}
+      - - {x: -48.5, y: 57.25}
+        - {x: -48.5, y: 52.25}
+        - {x: -46.5, y: 48.25}
+        - {x: -43.5, y: 48.25}
+        - {x: -41.5, y: 50.25}
+        - {x: -41.5, y: 54.25}
+        - {x: -42.5, y: 57.25}
+    - name: spritesheet_fille_125
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -37.25, y: -27.75}
+        - {x: -34.25, y: -30.75}
+        - {x: 6.75, y: -30.75}
+        - {x: 16.75, y: -27.75}
+        - {x: 16.75, y: 8.25}
+        - {x: 4.75, y: 54.25}
+        - {x: -8.25, y: 61.25}
+        - {x: -32.25, y: 61.25}
+        - {x: -37.25, y: 58.25}
+      - - {x: -52.25, y: 52.25}
+        - {x: -53.25, y: 50.25}
+        - {x: -53.25, y: 46.25}
+        - {x: -49.25, y: 43.25}
+        - {x: -47.25, y: 43.25}
+        - {x: -45.25, y: 45.25}
+        - {x: -45.25, y: 47.25}
+        - {x: -47.25, y: 52.25}
+    - name: spritesheet_fille_126
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 39.25}
+        - {x: -38, y: 39.25}
+        - {x: -38, y: -30.75}
+        - {x: 8, y: -30.75}
+        - {x: 18, y: -28.75}
+        - {x: 18, y: 28.25}
+        - {x: 17, y: 30.25}
+      - - {x: -55, y: 46.25}
+        - {x: -57, y: 44.25}
+        - {x: -57, y: 42.25}
+        - {x: -52, y: 37.25}
+        - {x: -48, y: 37.25}
+        - {x: -48, y: 42.25}
+        - {x: -50, y: 46.25}
+      - - {x: -36, y: 66.25}
+        - {x: -37, y: 62.25}
+        - {x: -37, y: 48.25}
+        - {x: -30, y: 40.25}
+        - {x: 4, y: 40.25}
+        - {x: 4, y: 61.25}
+        - {x: -7, y: 66.25}
+    - name: spritesheet_fille_127
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.25, y: 39.25}
+        - {x: -27.75, y: 39.25}
+        - {x: -38.75, y: 33.25}
+        - {x: -38.75, y: -21.75}
+        - {x: -37.75, y: -27.75}
+        - {x: -24.75, y: -30.75}
+        - {x: 9.25, y: -30.75}
+        - {x: 18.25, y: -24.75}
+        - {x: 18.25, y: -6.75}
+        - {x: 10.25, y: 20.25}
+      - - {x: -58.75, y: 40.25}
+        - {x: -59.75, y: 38.25}
+        - {x: -59.75, y: 34.25}
+        - {x: -55.75, y: 32.25}
+        - {x: -50.75, y: 32.25}
+        - {x: -50.75, y: 37.25}
+        - {x: -52.75, y: 40.25}
+      - - {x: -14.75, y: 71.25}
+        - {x: -30.75, y: 71.25}
+        - {x: -36.75, y: 62.25}
+        - {x: -36.75, y: 55.25}
+        - {x: -27.75, y: 44.25}
+        - {x: -4.75, y: 44.25}
+        - {x: 5.25, y: 49.25}
+        - {x: 5.25, y: 62.25}
+        - {x: 3.25, y: 67.25}
+    - name: spritesheet_fille_128
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 39.25}
+        - {x: -41.5, y: 33.25}
+        - {x: -41.5, y: -9.75}
+        - {x: -37.5, y: -27.75}
+        - {x: -26.5, y: -30.75}
+        - {x: 16.5, y: -30.75}
+        - {x: 16.5, y: 24.25}
+        - {x: 7.5, y: 39.25}
+      - - {x: -62.5, y: 33.25}
+        - {x: -63.5, y: 31.25}
+        - {x: -63.5, y: 27.25}
+        - {x: -60.5, y: 25.25}
+        - {x: -56.5, y: 25.25}
+        - {x: -54.5, y: 26.25}
+        - {x: -54.5, y: 29.25}
+        - {x: -58.5, y: 33.25}
+      - - {x: -33.5, y: 71.25}
+        - {x: -37.5, y: 63.25}
+        - {x: -37.5, y: 55.25}
+        - {x: -28.5, y: 44.25}
+        - {x: -5.5, y: 44.25}
+        - {x: 3.5, y: 51.25}
+        - {x: 3.5, y: 64.25}
+        - {x: -14.5, y: 71.25}
+    - name: spritesheet_fille_129
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16.25, y: 39.25}
+        - {x: -42.25, y: 29.25}
+        - {x: -42.25, y: -14.75}
+        - {x: -40.25, y: -28.75}
+        - {x: -26.25, y: -30.75}
+        - {x: 12.75, y: -30.75}
+        - {x: 16.75, y: -29.75}
+        - {x: 16.75, y: 21.25}
+        - {x: 12.75, y: 39.25}
+      - - {x: -63.25, y: 26.25}
+        - {x: -64.25, y: 24.25}
+        - {x: -64.25, y: 20.25}
+        - {x: -61.25, y: 18.25}
+        - {x: -57.25, y: 18.25}
+        - {x: -55.25, y: 19.25}
+        - {x: -55.25, y: 24.25}
+        - {x: -58.25, y: 26.25}
+      - - {x: -17.25, y: 71.25}
+        - {x: -31.25, y: 71.25}
+        - {x: -37.25, y: 66.25}
+        - {x: -37.25, y: 50.25}
+        - {x: -35.25, y: 44.25}
+        - {x: 3.75, y: 44.25}
+        - {x: 3.75, y: 61.25}
+        - {x: -0.25, y: 69.25}
+    - name: spritesheet_fille_130
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 39.25}
+        - {x: -43, y: 27.25}
+        - {x: -43, y: 9.25}
+        - {x: -33, y: -26.75}
+        - {x: -28, y: -30.75}
+        - {x: 8, y: -30.75}
+        - {x: 18, y: -29.75}
+        - {x: 18, y: 22.25}
+        - {x: 8, y: 39.25}
+      - - {x: -65, y: 17.25}
+        - {x: -65, y: 14.25}
+        - {x: -60, y: 11.25}
+        - {x: -57, y: 11.25}
+        - {x: -55, y: 12.25}
+        - {x: -55, y: 15.25}
+        - {x: -59, y: 19.25}
+        - {x: -63, y: 19.25}
+      - - {x: -34, y: 71.25}
+        - {x: -37, y: 65.25}
+        - {x: -37, y: 58.25}
+        - {x: -28, y: 44.25}
+        - {x: -5, y: 44.25}
+        - {x: 4, y: 49.25}
+        - {x: 4, y: 66.25}
+        - {x: -9, y: 71.25}
+    - name: spritesheet_fille_131
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18.75, y: 39.25}
+        - {x: -42.75, y: 31.25}
+        - {x: -42.75, y: -9.75}
+        - {x: -36.75, y: -27.75}
+        - {x: -24.75, y: -30.75}
+        - {x: 10.25, y: -30.75}
+        - {x: 18.25, y: -24.75}
+        - {x: 18.25, y: -2.75}
+        - {x: 10.25, y: 39.25}
+      - - {x: -61.75, y: 11.25}
+        - {x: -63.75, y: 10.25}
+        - {x: -63.75, y: 7.25}
+        - {x: -62.75, y: 5.25}
+        - {x: -55.75, y: 5.25}
+        - {x: -54.75, y: 6.25}
+        - {x: -54.75, y: 10.25}
+        - {x: -56.75, y: 11.25}
+      - - {x: -16.75, y: 71.25}
+        - {x: -30.75, y: 71.25}
+        - {x: -36.75, y: 65.25}
+        - {x: -36.75, y: 49.25}
+        - {x: -27.75, y: 44.25}
+        - {x: 2.25, y: 44.25}
+        - {x: 5.25, y: 48.25}
+        - {x: 5.25, y: 60.25}
+        - {x: -3.75, y: 68.25}
+    - name: spritesheet_fille_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15.5, y: 39}
+        - {x: -45.5, y: 27}
+        - {x: -45.5, y: -18}
+        - {x: -40.5, y: -29}
+        - {x: -31.5, y: -31}
+        - {x: 16.5, y: -31}
+        - {x: 16.5, y: 20}
+        - {x: 12.5, y: 39}
+      - - {x: -61.5, y: 5}
+        - {x: -64.5, y: 4}
+        - {x: -64.5, y: 0}
+        - {x: -63.5, y: -2}
+        - {x: -56.5, y: -2}
+        - {x: -54.5, y: 0}
+        - {x: -54.5, y: 2}
+        - {x: -57.5, y: 5}
+      - - {x: -9.5, y: 70}
+        - {x: -32.5, y: 70}
+        - {x: -37.5, y: 61}
+        - {x: -37.5, y: 53}
+        - {x: -28.5, y: 44}
+        - {x: 1.5, y: 44}
+        - {x: 3.5, y: 51}
+        - {x: 3.5, y: 62}
+        - {x: -1.5, y: 69}
+    - name: spritesheet_fille_133
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.75, y: 39}
+        - {x: -19.25, y: 39}
+        - {x: -44.25, y: 29}
+        - {x: -44.25, y: -31}
+        - {x: 16.75, y: -31}
+        - {x: 16.75, y: 23}
+        - {x: 15.75, y: 28}
+      - - {x: -59.25, y: -2}
+        - {x: -61.25, y: -5}
+        - {x: -61.25, y: -7}
+        - {x: -59.25, y: -9}
+        - {x: -51.25, y: -9}
+        - {x: -51.25, y: -3}
+        - {x: -54.25, y: -2}
+      - - {x: -37.25, y: 70}
+        - {x: -37.25, y: 47}
+        - {x: -29.25, y: 44}
+        - {x: 0.75, y: 44}
+        - {x: 3.75, y: 48}
+        - {x: 3.75, y: 65}
+        - {x: -6.25, y: 70}
+    - name: spritesheet_fille_134
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: 39}
+        - {x: -15, y: 39}
+        - {x: -40, y: 16}
+        - {x: -43, y: 13}
+        - {x: -44, y: 11}
+        - {x: -44, y: -29}
+        - {x: -41, y: -31}
+        - {x: 18, y: -31}
+        - {x: 18, y: 19}
+        - {x: 16, y: 29}
+      - - {x: -58, y: -9}
+        - {x: -58, y: -15}
+        - {x: -56, y: -16}
+        - {x: -49, y: -16}
+        - {x: -48, y: -14}
+        - {x: -48, y: -9}
+      - - {x: -22, y: 70}
+        - {x: -30, y: 70}
+        - {x: -37, y: 63}
+        - {x: -37, y: 56}
+        - {x: -27, y: 44}
+        - {x: 2, y: 44}
+        - {x: 4, y: 52}
+        - {x: 4, y: 61}
+        - {x: 0, y: 65}
+    - name: spritesheet_fille_135
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.75, y: -19}
+        - {x: -35.75, y: -31}
+        - {x: 18.25, y: -31}
+        - {x: 18.25, y: 17}
+        - {x: 9.25, y: 39}
+        - {x: -20.75, y: 39}
+        - {x: -43.75, y: 18}
+      - - {x: -51.75, y: -14}
+        - {x: -52.75, y: -16}
+        - {x: -52.75, y: -21}
+        - {x: -43.75, y: -21}
+        - {x: -43.75, y: -15}
+        - {x: -45.75, y: -14}
+      - - {x: -12.75, y: 70}
+        - {x: -28.75, y: 70}
+        - {x: -35.75, y: 64}
+        - {x: -35.75, y: 56}
+        - {x: -30.75, y: 49}
+        - {x: -26.75, y: 44}
+        - {x: -7.75, y: 44}
+        - {x: 3.25, y: 47}
+        - {x: 4.25, y: 48}
+        - {x: 4.25, y: 60}
+        - {x: 2.25, y: 67}
+    - name: spritesheet_fille_136
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: 39}
+        - {x: -44.5, y: 15}
+        - {x: -44.5, y: -31}
+        - {x: 16.5, y: -31}
+        - {x: 16.5, y: 7}
+        - {x: 4.5, y: 39}
+      - - {x: -48.5, y: -20}
+        - {x: -50.5, y: -21}
+        - {x: -50.5, y: -26}
+        - {x: -48.5, y: -27}
+        - {x: -43.5, y: -27}
+        - {x: -41.5, y: -24}
+        - {x: -41.5, y: -20}
+      - - {x: -18.5, y: 69}
+        - {x: -30.5, y: 69}
+        - {x: -33.5, y: 66}
+        - {x: -35.5, y: 61}
+        - {x: -35.5, y: 53}
+        - {x: -26.5, y: 44}
+        - {x: -10.5, y: 44}
+        - {x: -1.5, y: 47}
+        - {x: 1.5, y: 49}
+        - {x: 1.5, y: 60}
+        - {x: 0.5, y: 65}
+    - name: spritesheet_fille_137
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -40.25, y: -24}
+        - {x: -44.25, y: -25}
+        - {x: -44.25, y: -31}
+        - {x: -42.25, y: -32}
+        - {x: -38.25, y: -32}
+        - {x: -35.25, y: -28}
+        - {x: -35.25, y: -26}
+        - {x: -36.25, y: -24}
+      - - {x: -16.25, y: 39}
+        - {x: -26.25, y: 34}
+        - {x: -42.25, y: 8}
+        - {x: -42.25, y: -12}
+        - {x: -36.25, y: -26}
+        - {x: -25.25, y: -32}
+        - {x: -1.25, y: -32}
+        - {x: 16.75, y: -26}
+        - {x: 16.75, y: -2}
+        - {x: 2.75, y: 39}
+      - - {x: -34.25, y: 53}
+        - {x: -28.25, y: 45}
+        - {x: -5.25, y: 45}
+        - {x: 1.75, y: 47}
+        - {x: 1.75, y: 57}
+        - {x: -2.25, y: 67}
+        - {x: -15.25, y: 69}
+        - {x: -29.25, y: 69}
+        - {x: -34.25, y: 62}
+    - name: spritesheet_fille_138
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: -28}
+        - {x: -38, y: -32}
+        - {x: -38, y: -36}
+        - {x: -32, y: -36}
+        - {x: -29, y: -32}
+        - {x: -29, y: -29}
+        - {x: -31, y: -28}
+      - - {x: 1, y: 39}
+        - {x: -19, y: 39}
+        - {x: -39, y: 18}
+        - {x: -41, y: 16}
+        - {x: -41, y: -28}
+        - {x: -36, y: -32}
+        - {x: 18, y: -32}
+        - {x: 18, y: 26}
+        - {x: 17, y: 29}
+      - - {x: -5, y: 65}
+        - {x: -17, y: 68}
+        - {x: -29, y: 68}
+        - {x: -33, y: 64}
+        - {x: -33, y: 55}
+        - {x: -26, y: 46}
+        - {x: -5, y: 46}
+        - {x: 1, y: 53}
+        - {x: 1, y: 60}
+    - name: spritesheet_fille_139
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.75, y: -31}
+        - {x: -30.75, y: -34}
+        - {x: -30.75, y: -39}
+        - {x: -28.75, y: -40}
+        - {x: -24.75, y: -40}
+        - {x: -22.75, y: -38}
+        - {x: -22.75, y: -33}
+        - {x: -23.75, y: -31}
+      - - {x: -29.75, y: 39}
+        - {x: -38.75, y: 19}
+        - {x: -38.75, y: -15}
+        - {x: -32.75, y: -32}
+        - {x: 14.25, y: -32}
+        - {x: 18.25, y: -31}
+        - {x: 18.25, y: 34}
+        - {x: 9.25, y: 39}
+      - - {x: -18.75, y: 67}
+        - {x: -27.75, y: 67}
+        - {x: -31.75, y: 62}
+        - {x: -31.75, y: 56}
+        - {x: -25.75, y: 46}
+        - {x: -5.75, y: 46}
+        - {x: 0.25, y: 51}
+        - {x: 0.25, y: 60}
+        - {x: -4.75, y: 65}
+    - name: spritesheet_fille_140
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22.5, y: -34}
+        - {x: -26.5, y: -36}
+        - {x: -26.5, y: -41}
+        - {x: -25.5, y: -43}
+        - {x: -22.5, y: -43}
+        - {x: -19.5, y: -41}
+        - {x: -17.5, y: -36}
+        - {x: -19.5, y: -34}
+      - - {x: -39.5, y: -32}
+        - {x: 1.5, y: -32}
+        - {x: 16.5, y: -28}
+        - {x: 16.5, y: 3}
+        - {x: 8.5, y: 39}
+        - {x: -17.5, y: 39}
+        - {x: -31.5, y: 31}
+        - {x: -39.5, y: 13}
+      - - {x: -31.5, y: 67}
+        - {x: -31.5, y: 54}
+        - {x: -26.5, y: 47}
+        - {x: -6.5, y: 47}
+        - {x: -1.5, y: 52}
+        - {x: -1.5, y: 64}
+        - {x: -9.5, y: 67}
+    - name: spritesheet_fille_141
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.25, y: -35}
+        - {x: -19.25, y: -40}
+        - {x: -19.25, y: -43}
+        - {x: -17.25, y: -44}
+        - {x: -13.25, y: -44}
+        - {x: -10.25, y: -39}
+        - {x: -10.25, y: -36}
+        - {x: -12.25, y: -35}
+      - - {x: -16.25, y: 39}
+        - {x: -27.25, y: 27}
+        - {x: -37.25, y: 4}
+        - {x: -37.25, y: -29}
+        - {x: -28.25, y: -32}
+        - {x: 16.75, y: -32}
+        - {x: 16.75, y: 26}
+        - {x: 13.75, y: 39}
+      - - {x: -28.25, y: 67}
+        - {x: -30.25, y: 62}
+        - {x: -30.25, y: 53}
+        - {x: -26.25, y: 47}
+        - {x: -8.25, y: 47}
+        - {x: -2.25, y: 49}
+        - {x: -2.25, y: 63}
+        - {x: -14.25, y: 67}
+    - name: spritesheet_fille_142
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: -36}
+        - {x: -11, y: -39}
+        - {x: -11, y: -45}
+        - {x: -10, y: -46}
+        - {x: -5, y: -46}
+        - {x: -4, y: -40}
+        - {x: -4, y: -37}
+        - {x: -6, y: -36}
+      - - {x: -35, y: 14}
+        - {x: -35, y: -5}
+        - {x: -32, y: -10}
+        - {x: -28, y: -10}
+        - {x: -25, y: -7}
+        - {x: -32, y: -16}
+        - {x: -33, y: -27}
+        - {x: -30, y: -32}
+        - {x: 18, y: -32}
+        - {x: 18, y: 22}
+        - {x: 17, y: 29}
+        - {x: 8, y: 39}
+        - {x: -17, y: 39}
+        - {x: -32, y: 33}
+      - - {x: -26, y: 66}
+        - {x: -28, y: 64}
+        - {x: -30, y: 61}
+        - {x: -30, y: 53}
+        - {x: -29, y: 49}
+        - {x: -24, y: 48}
+        - {x: -7, y: 48}
+        - {x: -3, y: 52}
+        - {x: -3, y: 63}
+        - {x: -9, y: 66}
+    - name: spritesheet_fille_143
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.75, y: -36}
+        - {x: -3.75, y: -37}
+        - {x: -3.75, y: -43}
+        - {x: -1.75, y: -45}
+        - {x: 0.25, y: -45}
+        - {x: 3.25, y: -43}
+        - {x: 3.25, y: -36}
+      - - {x: -16.75, y: 39}
+        - {x: -29.75, y: 34}
+        - {x: -31.75, y: 20}
+        - {x: -31.75, y: -9}
+        - {x: -28.75, y: -10}
+        - {x: -23.75, y: -10}
+        - {x: -21.75, y: -8}
+        - {x: -21.75, y: -9}
+        - {x: -25.75, y: -12}
+        - {x: -28.75, y: -12}
+        - {x: -31.75, y: -16}
+        - {x: -31.75, y: -29}
+        - {x: -23.75, y: -32}
+        - {x: 15.25, y: -32}
+        - {x: 18.25, y: -31}
+        - {x: 18.25, y: 24}
+        - {x: 6.25, y: 39}
+      - - {x: -17.75, y: 65}
+        - {x: -24.75, y: 65}
+        - {x: -28.75, y: 59}
+        - {x: -28.75, y: 54}
+        - {x: -21.75, y: 48}
+        - {x: -4.75, y: 48}
+        - {x: -2.75, y: 53}
+        - {x: -2.75, y: 61}
+        - {x: -5.75, y: 63}
+    - name: spritesheet_fille_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: -35.25}
+        - {x: 1.5, y: -39.25}
+        - {x: 1.5, y: -42.25}
+        - {x: 4.5, y: -44.25}
+        - {x: 6.5, y: -44.25}
+        - {x: 8.5, y: -42.25}
+        - {x: 8.5, y: -37.25}
+        - {x: 6.5, y: -35.25}
+      - - {x: -15.5, y: 38.75}
+        - {x: -29.5, y: 28.75}
+        - {x: -33.5, y: 17.75}
+        - {x: -33.5, y: -32.25}
+        - {x: 16.5, y: -32.25}
+        - {x: 16.5, y: 27.75}
+        - {x: 13.5, y: 38.75}
+      - - {x: -27.5, y: 64.75}
+        - {x: -28.5, y: 61.75}
+        - {x: -28.5, y: 52.75}
+        - {x: -22.5, y: 48.75}
+        - {x: -10.5, y: 48.75}
+        - {x: -5.5, y: 52.75}
+        - {x: -5.5, y: 60.75}
+        - {x: -15.5, y: 64.75}
+    - name: spritesheet_fille_145
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.75, y: -35.25}
+        - {x: 9.75, y: -41.25}
+        - {x: 10.75, y: -43.25}
+        - {x: 13.75, y: -43.25}
+        - {x: 15.75, y: -42.25}
+        - {x: 15.75, y: -35.25}
+        - {x: 13.75, y: -33.25}
+        - {x: 11.75, y: -33.25}
+      - - {x: -16.25, y: 38.75}
+        - {x: -29.25, y: 22.75}
+        - {x: -33.25, y: 5.75}
+        - {x: -33.25, y: -31.25}
+        - {x: -29.25, y: -32.25}
+        - {x: 7.75, y: -32.25}
+        - {x: 16.75, y: -25.25}
+        - {x: 16.75, y: -0.25}
+        - {x: 1.75, y: 38.75}
+      - - {x: -24.25, y: 63.75}
+        - {x: -27.25, y: 58.75}
+        - {x: -27.25, y: 51.75}
+        - {x: -24.25, y: 48.75}
+        - {x: -11.25, y: 48.75}
+        - {x: -5.25, y: 50.75}
+        - {x: -5.25, y: 58.75}
+        - {x: -6.25, y: 61.75}
+        - {x: -14.25, y: 63.75}
+    - name: spritesheet_fille_146
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -35.25}
+        - {x: 10, y: -41.25}
+        - {x: 11, y: -43.25}
+        - {x: 14, y: -43.25}
+        - {x: 16, y: -42.25}
+        - {x: 16, y: -35.25}
+        - {x: 14, y: -33.25}
+        - {x: 12, y: -33.25}
+      - - {x: 6, y: 38.75}
+        - {x: -15, y: 38.75}
+        - {x: -32, y: 31.75}
+        - {x: -32, y: -27.25}
+        - {x: -28, y: -30.25}
+        - {x: -23, y: -32.25}
+        - {x: 10, y: -32.25}
+        - {x: 18, y: -30.25}
+        - {x: 18, y: 10.75}
+        - {x: 16, y: 21.75}
+      - - {x: -26, y: 62.75}
+        - {x: -26, y: 54.75}
+        - {x: -21, y: 48.75}
+        - {x: -9, y: 48.75}
+        - {x: -6, y: 53.75}
+        - {x: -6, y: 58.75}
+        - {x: -11, y: 62.75}
+    - name: spritesheet_fille_147
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.25, y: -35.25}
+        - {x: 10.25, y: -41.25}
+        - {x: 11.25, y: -43.25}
+        - {x: 14.25, y: -43.25}
+        - {x: 16.25, y: -42.25}
+        - {x: 16.25, y: -35.25}
+        - {x: 14.25, y: -33.25}
+        - {x: 12.25, y: -33.25}
+      - - {x: 1.25, y: 38.75}
+        - {x: -15.75, y: 38.75}
+        - {x: -30.75, y: 21.75}
+        - {x: -31.75, y: 11.75}
+        - {x: -31.75, y: -31.25}
+        - {x: -30.75, y: -32.25}
+        - {x: 5.25, y: -32.25}
+        - {x: 18.25, y: -27.25}
+        - {x: 18.25, y: -12.25}
+        - {x: 16.25, y: -8.25}
+        - {x: 10.25, y: -5.25}
+        - {x: 12.25, y: 20.75}
+      - - {x: -24.75, y: 53.75}
+        - {x: -20.75, y: 49.75}
+        - {x: -11.75, y: 49.75}
+        - {x: -6.75, y: 50.75}
+        - {x: -6.75, y: 59.75}
+        - {x: -7.75, y: 62.75}
+        - {x: -22.75, y: 62.75}
+        - {x: -24.75, y: 57.75}
+    - name: spritesheet_fille_148
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -33.25}
+        - {x: 8.5, y: -34.25}
+        - {x: 8.5, y: -42.25}
+        - {x: 10.5, y: -43.25}
+        - {x: 14.5, y: -43.25}
+        - {x: 15.5, y: -41.25}
+        - {x: 15.5, y: -35.25}
+        - {x: 14.5, y: -33.25}
+      - - {x: 0.5, y: 38.75}
+        - {x: -26.5, y: 38.75}
+        - {x: -33.5, y: 26.75}
+        - {x: -33.5, y: -32.25}
+        - {x: 5.5, y: -32.25}
+        - {x: 16.5, y: -26.25}
+        - {x: 16.5, y: -8.25}
+        - {x: 10.5, y: 17.75}
+      - - {x: -14.5, y: 62.75}
+        - {x: -21.5, y: 62.75}
+        - {x: -24.5, y: 58.75}
+        - {x: -24.5, y: 55.75}
+        - {x: -20.5, y: 50.75}
+        - {x: -12.5, y: 50.75}
+        - {x: -8.5, y: 54.75}
+        - {x: -8.5, y: 59.75}
+    - name: spritesheet_fille_149
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.75, y: -35.25}
+        - {x: 9.75, y: -41.25}
+        - {x: 10.75, y: -43.25}
+        - {x: 13.75, y: -43.25}
+        - {x: 15.75, y: -42.25}
+        - {x: 15.75, y: -35.25}
+        - {x: 13.75, y: -33.25}
+        - {x: 11.75, y: -33.25}
+      - - {x: -17.25, y: 38.75}
+        - {x: -33.25, y: 24.75}
+        - {x: -33.25, y: -32.25}
+        - {x: 11.75, y: -32.25}
+        - {x: 16.75, y: -26.25}
+        - {x: 16.75, y: -1.25}
+        - {x: 1.75, y: 38.75}
+      - - {x: -22.25, y: 61.75}
+        - {x: -23.25, y: 59.75}
+        - {x: -23.25, y: 55.75}
+        - {x: -21.25, y: 50.75}
+        - {x: -10.25, y: 50.75}
+        - {x: -9.25, y: 53.75}
+        - {x: -9.25, y: 59.75}
+        - {x: -16.25, y: 61.75}
+    - name: spritesheet_fille_150
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -35.25}
+        - {x: 10, y: -41.25}
+        - {x: 11, y: -43.25}
+        - {x: 14, y: -43.25}
+        - {x: 16, y: -42.25}
+        - {x: 16, y: -35.25}
+        - {x: 14, y: -33.25}
+        - {x: 12, y: -33.25}
+      - - {x: 6, y: 38.75}
+        - {x: -18, y: 38.75}
+        - {x: -32, y: 32.75}
+        - {x: -32, y: -27.25}
+        - {x: -28, y: -30.25}
+        - {x: -23, y: -32.25}
+        - {x: 6, y: -32.25}
+        - {x: 18, y: -28.25}
+        - {x: 18, y: -4.25}
+        - {x: 17, y: -0.25}
+      - - {x: -22, y: 60.75}
+        - {x: -22, y: 54.75}
+        - {x: -21, y: 50.75}
+        - {x: -10, y: 50.75}
+        - {x: -9, y: 52.75}
+        - {x: -9, y: 59.75}
+        - {x: -13, y: 60.75}
+    - name: spritesheet_fille_151
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.25, y: -35.25}
+        - {x: 10.25, y: -41.25}
+        - {x: 11.25, y: -43.25}
+        - {x: 14.25, y: -43.25}
+        - {x: 16.25, y: -42.25}
+        - {x: 16.25, y: -35.25}
+        - {x: 14.25, y: -33.25}
+        - {x: 12.25, y: -33.25}
+      - - {x: 0.25, y: 38.75}
+        - {x: -22.75, y: 38.75}
+        - {x: -31.75, y: 23.75}
+        - {x: -31.75, y: -32.25}
+        - {x: 17.25, y: -32.25}
+        - {x: 18.25, y: -30.25}
+        - {x: 18.25, y: -1.25}
+        - {x: 4.25, y: 36.75}
+      - - {x: -19.75, y: 60.75}
+        - {x: -20.75, y: 57.75}
+        - {x: -20.75, y: 55.75}
+        - {x: -18.75, y: 51.75}
+        - {x: -12.75, y: 51.75}
+        - {x: -9.75, y: 52.75}
+        - {x: -9.75, y: 58.75}
+        - {x: -14.75, y: 60.75}
+    - name: spritesheet_fille_152
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -33.25}
+        - {x: 8.5, y: -34.25}
+        - {x: 8.5, y: -42.25}
+        - {x: 10.5, y: -43.25}
+        - {x: 14.5, y: -43.25}
+        - {x: 15.5, y: -41.25}
+        - {x: 15.5, y: -35.25}
+        - {x: 14.5, y: -33.25}
+      - - {x: 8.5, y: 37.75}
+        - {x: 4.5, y: 38.75}
+        - {x: -25.5, y: 38.75}
+        - {x: -33.5, y: 24.75}
+        - {x: -33.5, y: -32.25}
+        - {x: 2.5, y: -32.25}
+        - {x: 12.5, y: -30.25}
+        - {x: 16.5, y: -22.25}
+        - {x: 16.5, y: -1.25}
+      - - {x: -18.5, y: 60.75}
+        - {x: -21.5, y: 57.75}
+        - {x: -21.5, y: 55.75}
+        - {x: -18.5, y: 52.75}
+        - {x: -14.5, y: 52.75}
+        - {x: -12.5, y: 53.75}
+        - {x: -12.5, y: 57.75}
+        - {x: -13.5, y: 60.75}
+    - name: spritesheet_fille_153
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.75, y: -35.25}
+        - {x: 9.75, y: -41.25}
+        - {x: 10.75, y: -43.25}
+        - {x: 13.75, y: -43.25}
+        - {x: 15.75, y: -42.25}
+        - {x: 15.75, y: -35.25}
+        - {x: 13.75, y: -33.25}
+        - {x: 11.75, y: -33.25}
+      - - {x: -17.25, y: 38.75}
+        - {x: -32.25, y: 23.75}
+        - {x: -33.25, y: 14.75}
+        - {x: -33.25, y: -32.25}
+        - {x: 6.75, y: -32.25}
+        - {x: 16.75, y: -30.25}
+        - {x: 16.75, y: -3.25}
+        - {x: 6.75, y: 24.75}
+        - {x: -1.25, y: 38.75}
+      - - {x: -15.25, y: 59.75}
+        - {x: -19.25, y: 59.75}
+        - {x: -20.25, y: 56.75}
+        - {x: -20.25, y: 55.75}
+        - {x: -17.25, y: 52.75}
+        - {x: -15.25, y: 52.75}
+        - {x: -13.25, y: 54.75}
+        - {x: -13.25, y: 58.75}
+    - name: spritesheet_fille_154
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -35.25}
+        - {x: 10, y: -41.25}
+        - {x: 11, y: -43.25}
+        - {x: 14, y: -43.25}
+        - {x: 16, y: -42.25}
+        - {x: 16, y: -35.25}
+        - {x: 14, y: -33.25}
+        - {x: 12, y: -33.25}
+      - - {x: -20, y: 38.75}
+        - {x: -32, y: 18.75}
+        - {x: -32, y: -27.25}
+        - {x: -28, y: -32.25}
+        - {x: 15, y: -32.25}
+        - {x: 18, y: -26.25}
+        - {x: 18, y: 15.75}
+        - {x: 4, y: 38.75}
+    - name: spritesheet_fille_155
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.25, y: -35.25}
+        - {x: 10.25, y: -41.25}
+        - {x: 11.25, y: -43.25}
+        - {x: 14.25, y: -43.25}
+        - {x: 16.25, y: -42.25}
+        - {x: 16.25, y: -35.25}
+        - {x: 14.25, y: -33.25}
+        - {x: 12.25, y: -33.25}
+      - - {x: -16.75, y: 38.75}
+        - {x: -31.75, y: 22.75}
+        - {x: -31.75, y: -30.25}
+        - {x: -25.75, y: -32.25}
+        - {x: 6.25, y: -32.25}
+        - {x: 18.25, y: -28.25}
+        - {x: 18.25, y: 0.75}
+        - {x: 8.25, y: 38.75}
+    - name: spritesheet_fille_156
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: -33.5}
+        - {x: 8.5, y: -34.5}
+        - {x: 8.5, y: -42.5}
+        - {x: 10.5, y: -43.5}
+        - {x: 14.5, y: -43.5}
+        - {x: 15.5, y: -41.5}
+        - {x: 15.5, y: -35.5}
+        - {x: 14.5, y: -33.5}
+      - - {x: 10.5, y: -7.5}
+        - {x: 6.5, y: 24.5}
+        - {x: -1.5, y: 37.5}
+        - {x: -19.5, y: 37.5}
+        - {x: -33.5, y: 22.5}
+        - {x: -33.5, y: -32.5}
+        - {x: 4.5, y: -32.5}
+        - {x: 16.5, y: -25.5}
+        - {x: 16.5, y: -14.5}
+    - name: spritesheet_fille_157
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.75, y: -35.5}
+        - {x: 9.75, y: -41.5}
+        - {x: 10.75, y: -43.5}
+        - {x: 13.75, y: -43.5}
+        - {x: 15.75, y: -42.5}
+        - {x: 15.75, y: -35.5}
+        - {x: 13.75, y: -33.5}
+        - {x: 11.75, y: -33.5}
+      - - {x: -20.25, y: 37.5}
+        - {x: -33.25, y: 11.5}
+        - {x: -33.25, y: -32.5}
+        - {x: 16.75, y: -32.5}
+        - {x: 16.75, y: 8.5}
+        - {x: 9.75, y: 37.5}
+    - name: spritesheet_fille_158
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -35.5}
+        - {x: 10, y: -41.5}
+        - {x: 11, y: -43.5}
+        - {x: 14, y: -43.5}
+        - {x: 16, y: -42.5}
+        - {x: 16, y: -35.5}
+        - {x: 14, y: -33.5}
+        - {x: 12, y: -33.5}
+      - - {x: -15, y: 37.5}
+        - {x: -24, y: 26.5}
+        - {x: -27, y: 22.5}
+        - {x: -32, y: 12.5}
+        - {x: -32, y: -32.5}
+        - {x: 4, y: -32.5}
+        - {x: 17, y: -29.5}
+        - {x: 18, y: -26.5}
+        - {x: 18, y: -6.5}
+        - {x: 7, y: 37.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

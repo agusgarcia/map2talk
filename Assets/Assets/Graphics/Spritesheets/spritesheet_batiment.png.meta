@@ -1,0 +1,867 @@
+fileFormatVersion: 2
+guid: 61eae5dc2bb87a24d8c3309c17433bbe
+timeCreated: 1466262527
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheet_batiment_0
+    21300002: spritesheet_batiment_1
+    21300004: spritesheet_batiment_2
+    21300006: spritesheet_batiment_3
+    21300008: spritesheet_batiment_4
+    21300010: spritesheet_batiment_5
+    21300012: spritesheet_batiment_6
+    21300014: spritesheet_batiment_7
+    21300016: spritesheet_batiment_8
+    21300018: spritesheet_batiment_9
+    21300020: spritesheet_batiment_10
+    21300022: spritesheet_batiment_11
+    21300024: spritesheet_batiment_12
+    21300026: spritesheet_batiment_13
+    21300028: spritesheet_batiment_14
+    21300030: spritesheet_batiment_15
+    21300032: spritesheet_batiment_16
+    21300034: spritesheet_batiment_17
+    21300036: spritesheet_batiment_18
+    21300038: spritesheet_batiment_19
+    21300040: spritesheet_batiment_20
+    21300042: spritesheet_batiment_21
+    21300044: spritesheet_batiment_22
+    21300046: spritesheet_batiment_23
+    21300048: spritesheet_batiment_24
+    21300050: spritesheet_batiment_25
+    21300052: spritesheet_batiment_26
+    21300054: spritesheet_batiment_27
+    21300056: spritesheet_batiment_28
+    21300058: spritesheet_batiment_29
+    21300060: spritesheet_batiment_30
+    21300062: spritesheet_batiment_31
+    21300064: spritesheet_batiment_32
+    21300066: spritesheet_batiment_33
+    21300068: spritesheet_batiment_34
+    21300070: spritesheet_batiment_35
+    21300072: spritesheet_batiment_36
+    21300074: spritesheet_batiment_37
+    21300076: spritesheet_batiment_38
+    21300078: spritesheet_batiment_39
+    21300080: spritesheet_batiment_40
+    21300082: spritesheet_batiment_41
+    21300084: spritesheet_batiment_42
+    21300086: spritesheet_batiment_43
+    21300088: spritesheet_batiment_44
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritesheet_batiment_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_11
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_23
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_32
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_34
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_35
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_37
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_38
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_39
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_40
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_41
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_43
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    - name: spritesheet_batiment_44
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 63}
+        - {x: -85, y: 63}
+        - {x: -85, y: -64}
+        - {x: -80, y: -65}
+        - {x: 81, y: -65}
+        - {x: 81, y: 51}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

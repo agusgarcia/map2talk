@@ -1,0 +1,2544 @@
+fileFormatVersion: 2
+guid: 0dbda63670bbef94fa20eccebbd21f15
+timeCreated: 1466262611
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheet_eglise_0
+    21300002: spritesheet_eglise_1
+    21300004: spritesheet_eglise_2
+    21300006: spritesheet_eglise_3
+    21300008: spritesheet_eglise_4
+    21300010: spritesheet_eglise_5
+    21300012: spritesheet_eglise_6
+    21300014: spritesheet_eglise_7
+    21300016: spritesheet_eglise_8
+    21300018: spritesheet_eglise_9
+    21300020: spritesheet_eglise_10
+    21300022: spritesheet_eglise_11
+    21300024: spritesheet_eglise_12
+    21300026: spritesheet_eglise_13
+    21300028: spritesheet_eglise_14
+    21300030: spritesheet_eglise_15
+    21300032: spritesheet_eglise_16
+    21300034: spritesheet_eglise_17
+    21300036: spritesheet_eglise_18
+    21300038: spritesheet_eglise_19
+    21300040: spritesheet_eglise_20
+    21300042: spritesheet_eglise_21
+    21300044: spritesheet_eglise_22
+    21300046: spritesheet_eglise_23
+    21300048: spritesheet_eglise_24
+    21300050: spritesheet_eglise_25
+    21300052: spritesheet_eglise_26
+    21300054: spritesheet_eglise_27
+    21300056: spritesheet_eglise_28
+    21300058: spritesheet_eglise_29
+    21300060: spritesheet_eglise_30
+    21300062: spritesheet_eglise_31
+    21300064: spritesheet_eglise_32
+    21300066: spritesheet_eglise_33
+    21300068: spritesheet_eglise_34
+    21300070: spritesheet_eglise_35
+    21300072: spritesheet_eglise_36
+    21300074: spritesheet_eglise_37
+    21300076: spritesheet_eglise_38
+    21300078: spritesheet_eglise_39
+    21300080: spritesheet_eglise_40
+    21300082: spritesheet_eglise_41
+    21300084: spritesheet_eglise_42
+    21300086: spritesheet_eglise_43
+    21300088: spritesheet_eglise_44
+    21300090: spritesheet_eglise_45
+    21300092: spritesheet_eglise_46
+    21300094: spritesheet_eglise_47
+    21300096: spritesheet_eglise_48
+    21300098: spritesheet_eglise_49
+    21300100: spritesheet_eglise_50
+    21300102: spritesheet_eglise_51
+    21300104: spritesheet_eglise_52
+    21300106: spritesheet_eglise_53
+    21300108: spritesheet_eglise_54
+    21300110: spritesheet_eglise_55
+    21300112: spritesheet_eglise_56
+    21300114: spritesheet_eglise_57
+    21300116: spritesheet_eglise_58
+    21300118: spritesheet_eglise_59
+    21300120: spritesheet_eglise_60
+    21300122: spritesheet_eglise_61
+    21300124: spritesheet_eglise_62
+    21300126: spritesheet_eglise_63
+    21300128: spritesheet_eglise_64
+    21300130: spritesheet_eglise_65
+    21300132: spritesheet_eglise_66
+    21300134: spritesheet_eglise_67
+    21300136: spritesheet_eglise_68
+    21300138: spritesheet_eglise_69
+    21300140: spritesheet_eglise_70
+    21300142: spritesheet_eglise_71
+    21300144: spritesheet_eglise_72
+    21300146: spritesheet_eglise_73
+    21300148: spritesheet_eglise_74
+    21300150: spritesheet_eglise_75
+    21300152: spritesheet_eglise_76
+    21300154: spritesheet_eglise_77
+    21300156: spritesheet_eglise_78
+    21300158: spritesheet_eglise_79
+    21300160: spritesheet_eglise_80
+    21300162: spritesheet_eglise_81
+    21300164: spritesheet_eglise_82
+    21300166: spritesheet_eglise_83
+    21300168: spritesheet_eglise_84
+    21300170: spritesheet_eglise_85
+    21300172: spritesheet_eglise_86
+    21300174: spritesheet_eglise_87
+    21300176: spritesheet_eglise_88
+    21300178: spritesheet_eglise_89
+    21300180: spritesheet_eglise_90
+    21300182: spritesheet_eglise_91
+    21300184: spritesheet_eglise_92
+    21300186: spritesheet_eglise_93
+    21300188: spritesheet_eglise_94
+    21300190: spritesheet_eglise_95
+    21300192: spritesheet_eglise_96
+    21300194: spritesheet_eglise_97
+    21300196: spritesheet_eglise_98
+    21300198: spritesheet_eglise_99
+    21300200: spritesheet_eglise_100
+    21300202: spritesheet_eglise_101
+    21300204: spritesheet_eglise_102
+    21300206: spritesheet_eglise_103
+    21300208: spritesheet_eglise_104
+    21300210: spritesheet_eglise_105
+    21300212: spritesheet_eglise_106
+    21300214: spritesheet_eglise_107
+    21300216: spritesheet_eglise_108
+    21300218: spritesheet_eglise_109
+    21300220: spritesheet_eglise_110
+    21300222: spritesheet_eglise_111
+    21300224: spritesheet_eglise_112
+    21300226: spritesheet_eglise_113
+    21300228: spritesheet_eglise_114
+    21300230: spritesheet_eglise_115
+    21300232: spritesheet_eglise_116
+    21300234: spritesheet_eglise_117
+    21300236: spritesheet_eglise_118
+    21300238: spritesheet_eglise_119
+    21300240: spritesheet_eglise_120
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spritesheet_eglise_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.5, y: 42.318237}
+        - {x: 48.5, y: 48.318237}
+        - {x: 46.5, y: 50.318237}
+        - {x: 41.5, y: 51.318237}
+        - {x: 42.5, y: 51.318237}
+        - {x: 38.5, y: 57.318237}
+        - {x: 40.5, y: 84.31824}
+        - {x: 18.5, y: 84.31824}
+        - {x: -52.5, y: -2.6817627}
+        - {x: -52.5, y: -74.68176}
+        - {x: -48.5, y: -82.68176}
+        - {x: 34.5, y: -82.68176}
+        - {x: 44.5, y: -81.68176}
+        - {x: 51.5, y: -74.68176}
+    - name: spritesheet_eglise_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 2000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.681824, y: 51.318237}
+        - {x: 42.681824, y: 51.318237}
+        - {x: 38.681824, y: 57.318237}
+        - {x: 36.681824, y: 80.31824}
+        - {x: 33.681824, y: 84.31824}
+        - {x: 28.681824, y: 84.31824}
+        - {x: 25.681824, y: 83.31824}
+        - {x: 14.681824, y: 49.318237}
+        - {x: 10.681824, y: 32.318237}
+        - {x: -52.318176, y: -11.681763}
+        - {x: -52.318176, y: -82.68176}
+        - {x: 51.681824, y: -82.68176}
+        - {x: 51.681824, y: 51.318237}
+        - {x: 46.681824, y: 50.318237}
+    - name: spritesheet_eglise_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.8636475, y: 84.31824}
+        - {x: -51.136353, y: -11.681763}
+        - {x: -51.136353, y: -82.68176}
+        - {x: 44.863647, y: -82.68176}
+        - {x: 51.863647, y: -78.68176}
+        - {x: 51.863647, y: 64.31824}
+        - {x: 38.863647, y: 84.31824}
+    - name: spritesheet_eglise_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 2000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.04547, y: 51.318237}
+        - {x: 39.04547, y: 57.318237}
+        - {x: 41.04547, y: 64.31824}
+        - {x: 37.04547, y: 84.31824}
+        - {x: 27.045471, y: 84.31824}
+        - {x: 26.045471, y: 83.31824}
+        - {x: -50.95453, y: -6.6817627}
+        - {x: -50.95453, y: -82.68176}
+        - {x: 52.04547, y: -82.68176}
+        - {x: 52.04547, y: 51.318237}
+        - {x: 47.04547, y: 50.318237}
+    - name: spritesheet_eglise_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.227295, y: 84.31824}
+        - {x: 11.227295, y: 84.31824}
+        - {x: -50.772705, y: -5.6817627}
+        - {x: -50.772705, y: -53.681763}
+        - {x: -45.772705, y: -82.68176}
+        - {x: 43.227295, y: -82.68176}
+        - {x: 53.227295, y: -78.68176}
+        - {x: 53.227295, y: 41.318237}
+        - {x: 49.227295, y: 51.318237}
+    - name: spritesheet_eglise_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.90912, y: 51.318237}
+        - {x: 43.90912, y: 51.318237}
+        - {x: 39.90912, y: 57.318237}
+        - {x: 37.90912, y: 80.31824}
+        - {x: 35.90912, y: 84.31824}
+        - {x: 0.90911865, y: 84.31824}
+        - {x: -51.09088, y: 14.318237}
+        - {x: -51.09088, y: -65.68176}
+        - {x: -47.09088, y: -82.68176}
+        - {x: 42.90912, y: -82.68176}
+        - {x: 52.90912, y: -78.68176}
+        - {x: 52.90912, y: 51.318237}
+        - {x: 47.90912, y: 50.318237}
+    - name: spritesheet_eglise_6
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.590942, y: 51.318237}
+        - {x: 42.590942, y: 51.318237}
+        - {x: 38.590942, y: 57.318237}
+        - {x: 36.590942, y: 80.31824}
+        - {x: 33.590942, y: 84.31824}
+        - {x: 21.590942, y: 84.31824}
+        - {x: -52.409058, y: 4.3182373}
+        - {x: -52.409058, y: -82.68176}
+        - {x: 51.590942, y: -82.68176}
+        - {x: 51.590942, y: 51.318237}
+        - {x: 46.590942, y: 50.318237}
+    - name: spritesheet_eglise_7
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 2000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.772705, y: 51.318237}
+        - {x: 42.772705, y: 51.318237}
+        - {x: 38.772705, y: 57.318237}
+        - {x: 36.772705, y: 80.31824}
+        - {x: 33.772705, y: 84.31824}
+        - {x: 28.772705, y: 84.31824}
+        - {x: 25.772705, y: 83.31824}
+        - {x: -51.227295, y: -13.681763}
+        - {x: -51.227295, y: -74.68176}
+        - {x: -48.227295, y: -82.68176}
+        - {x: 41.772705, y: -82.68176}
+        - {x: 51.772705, y: -78.68176}
+        - {x: 51.772705, y: 51.318237}
+        - {x: 46.772705, y: 50.318237}
+    - name: spritesheet_eglise_8
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51.95459, y: 39.318237}
+        - {x: 48.95459, y: 48.318237}
+        - {x: 46.95459, y: 50.318237}
+        - {x: 41.95459, y: 51.318237}
+        - {x: 37.95459, y: 61.318237}
+        - {x: 37.95459, y: 79.31824}
+        - {x: 33.95459, y: 84.31824}
+        - {x: 7.95459, y: 84.31824}
+        - {x: -50.04541, y: 16.318237}
+        - {x: -51.04541, y: 7.3182373}
+        - {x: -51.04541, y: -82.68176}
+        - {x: 44.95459, y: -82.68176}
+        - {x: 51.95459, y: -75.68176}
+    - name: spritesheet_eglise_9
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 2000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.136353, y: 84.31824}
+        - {x: 26.136353, y: 83.31824}
+        - {x: -50.863647, y: -20.681763}
+        - {x: -50.863647, y: -71.68176}
+        - {x: -48.863647, y: -79.68176}
+        - {x: -45.863647, y: -82.68176}
+        - {x: 53.136353, y: -82.68176}
+        - {x: 53.136353, y: 43.318237}
+        - {x: 37.136353, y: 84.31824}
+    - name: spritesheet_eglise_10
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 2000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.318237, y: 84.31824}
+        - {x: 11.318237, y: 84.31824}
+        - {x: -50.681763, y: 19.318237}
+        - {x: -50.681763, y: -82.68176}
+        - {x: 43.318237, y: -82.68176}
+        - {x: 53.318237, y: -78.68176}
+        - {x: 53.318237, y: 54.318237}
+        - {x: 43.318237, y: 82.31824}
+    - name: spritesheet_eglise_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.5, y: 84.13635}
+        - {x: -5.5, y: 43.136353}
+        - {x: -52.5, y: -25.863647}
+        - {x: -52.5, y: -60.863647}
+        - {x: -48.5, y: -82.86365}
+        - {x: 43.5, y: -82.86365}
+        - {x: 51.5, y: -79.86365}
+        - {x: 51.5, y: 46.136353}
+        - {x: 42.5, y: 84.13635}
+    - name: spritesheet_eglise_12
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.681824, y: 51.136353}
+        - {x: 42.681824, y: 51.136353}
+        - {x: 38.681824, y: 57.136353}
+        - {x: 39.681824, y: 66.13635}
+        - {x: 34.681824, y: 84.13635}
+        - {x: 26.681824, y: 84.13635}
+        - {x: 10.681824, y: 35.136353}
+        - {x: -33.318176, y: -2.8636475}
+        - {x: -52.318176, y: -26.863647}
+        - {x: -52.318176, y: -72.86365}
+        - {x: -50.318176, y: -82.86365}
+        - {x: 51.681824, y: -82.86365}
+        - {x: 51.681824, y: 47.136353}
+        - {x: 46.681824, y: 50.136353}
+    - name: spritesheet_eglise_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.863647, y: 84.13635}
+        - {x: -51.136353, y: 3.1363525}
+        - {x: -51.136353, y: -82.86365}
+        - {x: 51.863647, y: -82.86365}
+        - {x: 51.863647, y: 84.13635}
+    - name: spritesheet_eglise_14
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.04547, y: 51.136353}
+        - {x: 39.04547, y: 57.136353}
+        - {x: 42.04547, y: 64.13635}
+        - {x: 37.04547, y: 84.13635}
+        - {x: 26.045471, y: 84.13635}
+        - {x: -50.95453, y: -20.863647}
+        - {x: -50.95453, y: -74.86365}
+        - {x: -48.95453, y: -82.86365}
+        - {x: 48.04547, y: -82.86365}
+        - {x: 52.04547, y: -77.86365}
+        - {x: 52.04547, y: 48.136353}
+        - {x: 47.04547, y: 50.136353}
+    - name: spritesheet_eglise_15
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.227295, y: 84.13635}
+        - {x: -29.772705, y: 84.13635}
+        - {x: -50.772705, y: 9.136353}
+        - {x: -50.772705, y: -82.86365}
+        - {x: 43.227295, y: -82.86365}
+        - {x: 53.227295, y: -77.86365}
+        - {x: 53.227295, y: 49.136353}
+        - {x: 41.227295, y: 81.13635}
+    - name: spritesheet_eglise_16
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.90912, y: 50.136353}
+        - {x: 42.90912, y: 51.136353}
+        - {x: 37.90912, y: 75.13635}
+        - {x: 35.90912, y: 83.13635}
+        - {x: 32.90912, y: 84.13635}
+        - {x: 29.909119, y: 84.13635}
+        - {x: 26.909119, y: 81.13635}
+        - {x: 24.909119, y: 78.13635}
+        - {x: 15.909119, y: 49.136353}
+        - {x: 11.909119, y: 31.136353}
+        - {x: -45.09088, y: -20.863647}
+        - {x: -51.09088, y: -29.863647}
+        - {x: -51.09088, y: -51.863647}
+        - {x: -47.09088, y: -82.86365}
+        - {x: 44.90912, y: -82.86365}
+        - {x: 52.90912, y: -79.86365}
+        - {x: 52.90912, y: 41.136353}
+        - {x: 49.90912, y: 48.136353}
+    - name: spritesheet_eglise_17
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.590942, y: 50.136353}
+        - {x: 41.590942, y: 51.136353}
+        - {x: 42.590942, y: 51.136353}
+        - {x: 38.590942, y: 57.136353}
+        - {x: 39.590942, y: 66.13635}
+        - {x: 34.590942, y: 84.13635}
+        - {x: 27.590942, y: 84.13635}
+        - {x: 24.590942, y: 74.13635}
+        - {x: -52.409058, y: -20.863647}
+        - {x: -52.409058, y: -68.86365}
+        - {x: -48.409058, y: -82.86365}
+        - {x: 45.590942, y: -82.86365}
+        - {x: 51.590942, y: -75.86365}
+        - {x: 51.590942, y: 41.136353}
+        - {x: 48.590942, y: 48.136353}
+    - name: spritesheet_eglise_18
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.772705, y: 50.136353}
+        - {x: 41.772705, y: 51.136353}
+        - {x: 42.772705, y: 51.136353}
+        - {x: 38.772705, y: 57.136353}
+        - {x: 39.772705, y: 66.13635}
+        - {x: 34.772705, y: 84.13635}
+        - {x: 24.772705, y: 84.13635}
+        - {x: -51.227295, y: -22.863647}
+        - {x: -51.227295, y: -74.86365}
+        - {x: -50.227295, y: -79.86365}
+        - {x: -43.227295, y: -82.86365}
+        - {x: 44.772705, y: -82.86365}
+        - {x: 51.772705, y: -78.86365}
+        - {x: 51.772705, y: 51.136353}
+    - name: spritesheet_eglise_19
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.95459, y: 50.136353}
+        - {x: 41.95459, y: 51.136353}
+        - {x: 37.95459, y: 61.136353}
+        - {x: 37.95459, y: 79.13635}
+        - {x: 33.95459, y: 84.13635}
+        - {x: 14.95459, y: 84.13635}
+        - {x: -51.04541, y: -3.8636475}
+        - {x: -51.04541, y: -82.86365}
+        - {x: 49.95459, y: -82.86365}
+        - {x: 51.95459, y: -78.86365}
+        - {x: 51.95459, y: 40.136353}
+        - {x: 48.95459, y: 48.136353}
+    - name: spritesheet_eglise_20
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.136353, y: 84.13635}
+        - {x: 24.136353, y: 84.13635}
+        - {x: -50.863647, y: -14.863647}
+        - {x: -50.863647, y: -77.86365}
+        - {x: -48.863647, y: -82.86365}
+        - {x: 48.136353, y: -82.86365}
+        - {x: 52.136353, y: -74.86365}
+        - {x: 53.136353, y: -54.863647}
+        - {x: 53.136353, y: 46.136353}
+    - name: spritesheet_eglise_21
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.318237, y: 84.13635}
+        - {x: 23.318237, y: 84.13635}
+        - {x: -50.681763, y: -11.863647}
+        - {x: -50.681763, y: -72.86365}
+        - {x: -47.681763, y: -82.86365}
+        - {x: 49.318237, y: -82.86365}
+        - {x: 53.318237, y: -76.86365}
+        - {x: 53.318237, y: 41.136353}
+        - {x: 49.318237, y: 51.136353}
+    - name: spritesheet_eglise_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.5, y: -77.04541}
+        - {x: -50.5, y: -83.04541}
+        - {x: 51.5, y: -83.04541}
+        - {x: 51.5, y: 83.95459}
+        - {x: 6.5, y: 83.95459}
+        - {x: -52.5, y: 43.95459}
+    - name: spritesheet_eglise_23
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.681824, y: 83.95459}
+        - {x: -52.318176, y: -11.04541}
+        - {x: -52.318176, y: -83.04541}
+        - {x: 51.681824, y: -83.04541}
+        - {x: 51.681824, y: 62.95459}
+        - {x: 38.681824, y: 83.95459}
+    - name: spritesheet_eglise_24
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.86364746, y: 83.95459}
+        - {x: -51.136353, y: 15.95459}
+        - {x: -51.136353, y: -83.04541}
+        - {x: 51.863647, y: -83.04541}
+        - {x: 51.863647, y: 64.95459}
+        - {x: 39.863647, y: 83.95459}
+    - name: spritesheet_eglise_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.04547, y: 83.95459}
+        - {x: 2.0454712, y: 83.95459}
+        - {x: -50.95453, y: -9.04541}
+        - {x: -50.95453, y: -83.04541}
+        - {x: 52.04547, y: -83.04541}
+        - {x: 52.04547, y: 60.95459}
+    - name: spritesheet_eglise_26
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53.227295, y: -83.04541}
+        - {x: 53.227295, y: 48.95459}
+        - {x: 47.227295, y: 83.95459}
+        - {x: 24.227295, y: 83.95459}
+        - {x: -50.772705, y: 0.95458984}
+        - {x: -50.772705, y: -83.04541}
+    - name: spritesheet_eglise_27
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.909119, y: 83.95459}
+        - {x: -51.09088, y: -23.04541}
+        - {x: -51.09088, y: -83.04541}
+        - {x: 52.90912, y: -83.04541}
+        - {x: 52.90912, y: 83.95459}
+    - name: spritesheet_eglise_28
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.409058, y: -73.04541}
+        - {x: -49.409058, y: -83.04541}
+        - {x: 51.590942, y: -83.04541}
+        - {x: 51.590942, y: 83.95459}
+        - {x: 18.590942, y: 83.95459}
+        - {x: -52.409058, y: 17.95459}
+    - name: spritesheet_eglise_29
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.772705, y: 83.95459}
+        - {x: -51.227295, y: -11.04541}
+        - {x: -51.227295, y: -83.04541}
+        - {x: 51.772705, y: -83.04541}
+        - {x: 51.772705, y: 63.95459}
+        - {x: 36.772705, y: 83.95459}
+    - name: spritesheet_eglise_30
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.95459, y: 83.95459}
+        - {x: 25.95459, y: 82.95459}
+        - {x: 24.95459, y: 76.95459}
+        - {x: -51.04541, y: -4.04541}
+        - {x: -51.04541, y: -83.04541}
+        - {x: 50.95459, y: -83.04541}
+        - {x: 51.95459, y: -79.04541}
+        - {x: 51.95459, y: 48.95459}
+        - {x: 34.95459, y: 83.95459}
+    - name: spritesheet_eglise_31
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.136353, y: 83.95459}
+        - {x: -50.863647, y: 24.95459}
+        - {x: -50.863647, y: -83.04541}
+        - {x: 49.136353, y: -83.04541}
+        - {x: 53.136353, y: -78.04541}
+        - {x: 53.136353, y: 83.95459}
+    - name: spritesheet_eglise_32
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40.318237, y: 79.95459}
+        - {x: 34.318237, y: 83.95459}
+        - {x: 22.318237, y: 83.95459}
+        - {x: -50.681763, y: -12.04541}
+        - {x: -50.681763, y: -72.04541}
+        - {x: -46.681763, y: -83.04541}
+        - {x: 45.318237, y: -83.04541}
+        - {x: 53.318237, y: -80.04541}
+        - {x: 53.318237, y: 42.95459}
+        - {x: 52.318237, y: 47.95459}
+    - name: spritesheet_eglise_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 49.772705}
+        - {x: 38.5, y: 56.772705}
+        - {x: 37.5, y: 59.772705}
+        - {x: 34.5, y: 83.772705}
+        - {x: 24.5, y: 83.772705}
+        - {x: -52.5, y: -20.227295}
+        - {x: -52.5, y: -72.227295}
+        - {x: -49.5, y: -83.227295}
+        - {x: 45.5, y: -83.227295}
+        - {x: 51.5, y: -76.227295}
+        - {x: 51.5, y: 40.772705}
+        - {x: 47.5, y: 48.772705}
+    - name: spritesheet_eglise_34
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.681824, y: 49.772705}
+        - {x: 38.681824, y: 56.772705}
+        - {x: 37.681824, y: 59.772705}
+        - {x: 34.681824, y: 83.772705}
+        - {x: 17.681824, y: 83.772705}
+        - {x: -39.318176, y: 59.772705}
+        - {x: -52.318176, y: 6.772705}
+        - {x: -52.318176, y: -83.227295}
+        - {x: 51.681824, y: -83.227295}
+        - {x: 51.681824, y: 47.772705}
+        - {x: 47.681824, y: 48.772705}
+    - name: spritesheet_eglise_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.863647, y: 49.772705}
+        - {x: 38.863647, y: 56.772705}
+        - {x: 35.863647, y: 81.772705}
+        - {x: 33.863647, y: 83.772705}
+        - {x: 13.863647, y: 83.772705}
+        - {x: -51.136353, y: -12.227295}
+        - {x: -51.136353, y: -83.227295}
+        - {x: 46.863647, y: -83.227295}
+        - {x: 51.863647, y: -80.227295}
+        - {x: 51.863647, y: 49.772705}
+        - {x: 46.863647, y: 48.772705}
+    - name: spritesheet_eglise_36
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.95453, y: -83.227295}
+        - {x: 52.04547, y: -83.227295}
+        - {x: 52.04547, y: 83.772705}
+        - {x: 12.045471, y: 83.772705}
+        - {x: -50.95453, y: 27.772705}
+    - name: spritesheet_eglise_37
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 39.227295, y: 83.772705}
+        - {x: 7.227295, y: 83.772705}
+        - {x: -50.772705, y: 0.7727051}
+        - {x: -50.772705, y: -79.227295}
+        - {x: -48.772705, y: -83.227295}
+        - {x: 53.227295, y: -83.227295}
+        - {x: 53.227295, y: 63.772705}
+        - {x: 42.227295, y: 80.772705}
+    - name: spritesheet_eglise_38
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.90912, y: 49.772705}
+        - {x: 39.90912, y: 56.772705}
+        - {x: 38.90912, y: 83.772705}
+        - {x: 25.909119, y: 83.772705}
+        - {x: -5.0908813, y: 63.772705}
+        - {x: -51.09088, y: 1.7727051}
+        - {x: -51.09088, y: -76.227295}
+        - {x: -46.09088, y: -83.227295}
+        - {x: 45.90912, y: -83.227295}
+        - {x: 52.90912, y: -76.227295}
+        - {x: 52.90912, y: 40.772705}
+        - {x: 48.90912, y: 48.772705}
+    - name: spritesheet_eglise_39
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.590942, y: 49.772705}
+        - {x: 38.590942, y: 56.772705}
+        - {x: 37.590942, y: 59.772705}
+        - {x: 34.590942, y: 83.772705}
+        - {x: 25.590942, y: 83.772705}
+        - {x: 0.5909424, y: 50.772705}
+        - {x: -52.409058, y: -17.227295}
+        - {x: -52.409058, y: -61.227295}
+        - {x: -50.409058, y: -83.227295}
+        - {x: 51.590942, y: -83.227295}
+        - {x: 51.590942, y: 46.772705}
+        - {x: 47.590942, y: 48.772705}
+    - name: spritesheet_eglise_40
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.772705, y: 49.772705}
+        - {x: 38.772705, y: 56.772705}
+        - {x: 46.772705, y: 63.772705}
+        - {x: 34.772705, y: 83.772705}
+        - {x: -9.227295, y: 83.772705}
+        - {x: -51.227295, y: 20.772705}
+        - {x: -51.227295, y: -83.227295}
+        - {x: 46.772705, y: -83.227295}
+        - {x: 51.772705, y: -77.227295}
+        - {x: 51.772705, y: 40.772705}
+        - {x: 47.772705, y: 48.772705}
+    - name: spritesheet_eglise_41
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.95459, y: 48.772705}
+        - {x: 41.95459, y: 49.772705}
+        - {x: 38.95459, y: 56.772705}
+        - {x: 41.95459, y: 75.772705}
+        - {x: 35.95459, y: 83.772705}
+        - {x: 7.95459, y: 83.772705}
+        - {x: -51.04541, y: 1.7727051}
+        - {x: -51.04541, y: -83.227295}
+        - {x: 47.95459, y: -83.227295}
+        - {x: 51.95459, y: -78.227295}
+        - {x: 51.95459, y: 40.772705}
+        - {x: 48.95459, y: 46.772705}
+    - name: spritesheet_eglise_42
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.136353, y: 48.772705}
+        - {x: 42.136353, y: 49.772705}
+        - {x: 40.136353, y: 52.772705}
+        - {x: 39.136353, y: 58.772705}
+        - {x: 38.136353, y: 62.772705}
+        - {x: 38.136353, y: 78.772705}
+        - {x: 36.136353, y: 82.772705}
+        - {x: 35.136353, y: 83.772705}
+        - {x: -25.863647, y: 83.772705}
+        - {x: -50.863647, y: -0.22729492}
+        - {x: -50.863647, y: -83.227295}
+        - {x: 51.136353, y: -83.227295}
+        - {x: 53.136353, y: -78.227295}
+        - {x: 53.136353, y: 43.772705}
+        - {x: 52.136353, y: 46.772705}
+    - name: spritesheet_eglise_43
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.318237, y: 83.772705}
+        - {x: -50.681763, y: -20.227295}
+        - {x: -50.681763, y: -67.227295}
+        - {x: -45.681763, y: -83.227295}
+        - {x: 53.318237, y: -83.227295}
+        - {x: 53.318237, y: 59.772705}
+        - {x: 50.318237, y: 83.772705}
+    - name: spritesheet_eglise_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 83.59094}
+        - {x: 5.5, y: 46.590942}
+        - {x: -52.5, y: -23.409058}
+        - {x: -52.5, y: -72.40906}
+        - {x: -49.5, y: -83.40906}
+        - {x: 45.5, y: -83.40906}
+        - {x: 51.5, y: -77.40906}
+        - {x: 51.5, y: 47.590942}
+        - {x: 35.5, y: 83.59094}
+    - name: spritesheet_eglise_45
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.681824, y: 83.59094}
+        - {x: -52.318176, y: -8.409058}
+        - {x: -52.318176, y: -60.409058}
+        - {x: -48.318176, y: -83.40906}
+        - {x: 38.681824, y: -83.40906}
+        - {x: 51.681824, y: -79.40906}
+        - {x: 51.681824, y: 47.590942}
+        - {x: 35.681824, y: 83.59094}
+    - name: spritesheet_eglise_46
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.863647, y: 83.59094}
+        - {x: -51.136353, y: 5.5909424}
+        - {x: -51.136353, y: -83.40906}
+        - {x: 46.863647, y: -83.40906}
+        - {x: 51.863647, y: -77.40906}
+        - {x: 51.863647, y: 42.590942}
+        - {x: 42.863647, y: 83.59094}
+    - name: spritesheet_eglise_47
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.045471, y: 83.59094}
+        - {x: 2.0454712, y: 53.590942}
+        - {x: -50.95453, y: -2.4090576}
+        - {x: -50.95453, y: -83.40906}
+        - {x: 51.04547, y: -83.40906}
+        - {x: 52.04547, y: -79.40906}
+        - {x: 52.04547, y: 48.590942}
+        - {x: 37.04547, y: 83.59094}
+    - name: spritesheet_eglise_48
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.227295, y: 83.59094}
+        - {x: -50.772705, y: -26.409058}
+        - {x: -50.772705, y: -83.40906}
+        - {x: 53.227295, y: -83.40906}
+        - {x: 53.227295, y: 62.590942}
+        - {x: 38.227295, y: 83.59094}
+    - name: spritesheet_eglise_49
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.909119, y: 83.59094}
+        - {x: -51.09088, y: -21.409058}
+        - {x: -51.09088, y: -83.40906}
+        - {x: 52.90912, y: -83.40906}
+        - {x: 52.90912, y: 72.59094}
+        - {x: 51.90912, y: 83.59094}
+    - name: spritesheet_eglise_50
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.590942, y: 83.59094}
+        - {x: 25.590942, y: 82.59094}
+        - {x: -52.409058, y: -29.409058}
+        - {x: -52.409058, y: -59.409058}
+        - {x: -48.409058, y: -83.40906}
+        - {x: 38.590942, y: -83.40906}
+        - {x: 51.590942, y: -79.40906}
+        - {x: 51.590942, y: 47.590942}
+        - {x: 35.590942, y: 83.59094}
+    - name: spritesheet_eglise_51
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.772705, y: 83.59094}
+        - {x: -51.227295, y: -14.409058}
+        - {x: -51.227295, y: -83.40906}
+        - {x: 38.772705, y: -83.40906}
+        - {x: 51.772705, y: -79.40906}
+        - {x: 51.772705, y: 47.590942}
+        - {x: 35.772705, y: 83.59094}
+    - name: spritesheet_eglise_52
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.95459, y: 48.590942}
+        - {x: 41.95459, y: 49.590942}
+        - {x: 39.95459, y: 52.590942}
+        - {x: 37.95459, y: 77.59094}
+        - {x: 32.95459, y: 83.59094}
+        - {x: 12.95459, y: 83.59094}
+        - {x: -51.04541, y: -23.409058}
+        - {x: -51.04541, y: -82.40906}
+        - {x: -50.04541, y: -83.40906}
+        - {x: 47.95459, y: -83.40906}
+        - {x: 51.95459, y: -78.40906}
+        - {x: 51.95459, y: 40.590942}
+        - {x: 48.95459, y: 46.590942}
+    - name: spritesheet_eglise_53
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49.136353, y: 48.590942}
+        - {x: 42.136353, y: 49.590942}
+        - {x: 39.136353, y: 58.590942}
+        - {x: 37.136353, y: 77.59094}
+        - {x: 36.136353, y: 82.59094}
+        - {x: 35.136353, y: 83.59094}
+        - {x: 23.136353, y: 83.59094}
+        - {x: -50.863647, y: -23.409058}
+        - {x: -50.863647, y: -68.40906}
+        - {x: -47.863647, y: -81.40906}
+        - {x: -44.863647, y: -83.40906}
+        - {x: 40.136353, y: -83.40906}
+        - {x: 49.136353, y: -82.40906}
+        - {x: 53.136353, y: -76.40906}
+        - {x: 53.136353, y: 43.590942}
+        - {x: 52.136353, y: 46.590942}
+    - name: spritesheet_eglise_54
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.318237, y: 83.59094}
+        - {x: -50.681763, y: -18.409058}
+        - {x: -50.681763, y: -83.40906}
+        - {x: 45.318237, y: -83.40906}
+        - {x: 53.318237, y: -79.40906}
+        - {x: 53.318237, y: 55.590942}
+        - {x: 36.318237, y: 83.59094}
+    - name: spritesheet_eglise_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.5, y: 50.90912}
+        - {x: 42.5, y: 50.90912}
+        - {x: 38.5, y: 56.90912}
+        - {x: 36.5, y: 79.90912}
+        - {x: 31.5, y: 83.90912}
+        - {x: 8.5, y: 83.90912}
+        - {x: -52.5, y: -1.0908813}
+        - {x: -52.5, y: -75.09088}
+        - {x: -49.5, y: -82.09088}
+        - {x: 46.5, y: -82.09088}
+        - {x: 51.5, y: -79.09088}
+        - {x: 51.5, y: 50.90912}
+        - {x: 46.5, y: 49.90912}
+    - name: spritesheet_eglise_56
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.681824, y: 49.90912}
+        - {x: 41.681824, y: 50.90912}
+        - {x: 39.681824, y: 56.90912}
+        - {x: 40.681824, y: 57.90912}
+        - {x: 43.681824, y: 83.90912}
+        - {x: 16.681824, y: 83.90912}
+        - {x: -52.318176, y: 23.909119}
+        - {x: -52.318176, y: -82.09088}
+        - {x: 44.681824, y: -82.09088}
+        - {x: 51.681824, y: -76.09088}
+        - {x: 51.681824, y: 41.90912}
+        - {x: 48.681824, y: 47.90912}
+    - name: spritesheet_eglise_57
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17.863647, y: 83.90912}
+        - {x: -51.136353, y: -19.090881}
+        - {x: -51.136353, y: -82.09088}
+        - {x: 51.863647, y: -82.09088}
+        - {x: 51.863647, y: 83.90912}
+    - name: spritesheet_eglise_58
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19.045471, y: 83.90912}
+        - {x: -50.95453, y: -29.090881}
+        - {x: -50.95453, y: -38.09088}
+        - {x: -47.95453, y: -82.09088}
+        - {x: 52.04547, y: -82.09088}
+        - {x: 52.04547, y: 50.90912}
+        - {x: 37.04547, y: 83.90912}
+    - name: spritesheet_eglise_59
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7.227295, y: 83.90912}
+        - {x: -50.772705, y: 0.90911865}
+        - {x: -50.772705, y: -82.09088}
+        - {x: 53.227295, y: -82.09088}
+        - {x: 53.227295, y: 83.90912}
+    - name: spritesheet_eglise_60
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.909119, y: 83.90912}
+        - {x: -51.09088, y: -2.0908813}
+        - {x: -51.09088, y: -82.09088}
+        - {x: 52.90912, y: -82.09088}
+        - {x: 52.90912, y: 69.90912}
+        - {x: 35.90912, y: 83.90912}
+    - name: spritesheet_eglise_61
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38.590942, y: 80.90912}
+        - {x: 35.590942, y: 83.90912}
+        - {x: 5.5909424, y: 83.90912}
+        - {x: -52.409058, y: -25.090881}
+        - {x: -52.409058, y: -66.09088}
+        - {x: -47.409058, y: -82.09088}
+        - {x: 44.590942, y: -82.09088}
+        - {x: 51.590942, y: -76.09088}
+        - {x: 51.590942, y: 45.90912}
+    - name: spritesheet_eglise_62
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.772705, y: 83.90912}
+        - {x: -51.227295, y: 15.909119}
+        - {x: -51.227295, y: -82.09088}
+        - {x: 51.772705, y: -82.09088}
+        - {x: 51.772705, y: 83.90912}
+    - name: spritesheet_eglise_63
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.95459, y: 83.90912}
+        - {x: -51.04541, y: -25.090881}
+        - {x: -51.04541, y: -82.09088}
+        - {x: 51.95459, y: -82.09088}
+        - {x: 51.95459, y: 79.90912}
+        - {x: 50.95459, y: 83.90912}
+    - name: spritesheet_eglise_64
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.136353, y: 83.90912}
+        - {x: 20.136353, y: 83.90912}
+        - {x: -50.863647, y: -13.090881}
+        - {x: -50.863647, y: -82.09088}
+        - {x: 46.136353, y: -82.09088}
+        - {x: 52.136353, y: -80.09088}
+        - {x: 53.136353, y: -75.09088}
+        - {x: 53.136353, y: 64.90912}
+    - name: spritesheet_eglise_65
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22.318237, y: 83.90912}
+        - {x: -50.681763, y: -18.090881}
+        - {x: -50.681763, y: -67.09088}
+        - {x: -46.681763, y: -82.09088}
+        - {x: 47.318237, y: -82.09088}
+        - {x: 54.318237, y: -75.09088}
+        - {x: 54.318237, y: 56.90912}
+        - {x: 35.318237, y: 83.90912}
+    - name: spritesheet_eglise_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 84.227295}
+        - {x: -52.5, y: 19.227295}
+        - {x: -52.5, y: -82.772705}
+        - {x: 51.5, y: -82.772705}
+        - {x: 53.5, y: -81.772705}
+        - {x: 53.5, y: 71.227295}
+        - {x: 35.5, y: 84.227295}
+    - name: spritesheet_eglise_67
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.681824, y: 84.227295}
+        - {x: 21.681824, y: 84.227295}
+        - {x: -52.318176, y: -3.772705}
+        - {x: -52.318176, y: -82.772705}
+        - {x: 50.681824, y: -82.772705}
+        - {x: 53.681824, y: -69.772705}
+        - {x: 55.681824, y: -48.772705}
+        - {x: 55.681824, y: 67.227295}
+    - name: spritesheet_eglise_68
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.863647, y: 84.227295}
+        - {x: -51.136353, y: -16.772705}
+        - {x: -51.136353, y: -82.772705}
+        - {x: 55.863647, y: -82.772705}
+        - {x: 55.863647, y: 84.227295}
+    - name: spritesheet_eglise_69
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.04547, y: 84.227295}
+        - {x: 19.045471, y: 84.227295}
+        - {x: -50.95453, y: -19.772705}
+        - {x: -50.95453, y: -70.772705}
+        - {x: -47.95453, y: -82.772705}
+        - {x: 52.04547, y: -82.772705}
+        - {x: 57.04547, y: -49.772705}
+        - {x: 57.04547, y: 65.227295}
+        - {x: 56.04547, y: 66.227295}
+    - name: spritesheet_eglise_70
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16.227295, y: 84.227295}
+        - {x: -50.772705, y: -8.772705}
+        - {x: -50.772705, y: -82.772705}
+        - {x: 54.227295, y: -82.772705}
+        - {x: 57.227295, y: -80.772705}
+        - {x: 57.227295, y: 71.227295}
+        - {x: 42.227295, y: 84.227295}
+    - name: spritesheet_eglise_71
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48.90912, y: 84.227295}
+        - {x: 14.909119, y: 84.227295}
+        - {x: -51.09088, y: -10.772705}
+        - {x: -51.09088, y: -71.772705}
+        - {x: -47.09088, y: -82.772705}
+        - {x: 45.90912, y: -82.772705}
+        - {x: 55.90912, y: -75.772705}
+        - {x: 56.90912, y: -66.772705}
+        - {x: 56.90912, y: 79.227295}
+    - name: spritesheet_eglise_72
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21.590942, y: 84.227295}
+        - {x: -52.409058, y: -16.772705}
+        - {x: -52.409058, y: -82.772705}
+        - {x: 56.590942, y: -82.772705}
+        - {x: 56.590942, y: 65.227295}
+        - {x: 52.590942, y: 84.227295}
+    - name: spritesheet_eglise_73
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.772705, y: 84.227295}
+        - {x: 16.772705, y: 84.227295}
+        - {x: -32.227295, y: 47.227295}
+        - {x: -51.227295, y: -7.772705}
+        - {x: -51.227295, y: -82.772705}
+        - {x: 43.772705, y: -82.772705}
+        - {x: 56.772705, y: -77.772705}
+        - {x: 56.772705, y: 65.227295}
+    - name: spritesheet_eglise_74
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.95459, y: 84.227295}
+        - {x: 23.95459, y: 84.227295}
+        - {x: 6.95459, y: 47.227295}
+        - {x: -51.04541, y: -9.772705}
+        - {x: -51.04541, y: -82.772705}
+        - {x: 42.95459, y: -82.772705}
+        - {x: 56.95459, y: -80.772705}
+        - {x: 56.95459, y: 66.227295}
+        - {x: 40.95459, y: 81.227295}
+    - name: spritesheet_eglise_75
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50.863647, y: -57.772705}
+        - {x: -47.863647, y: -82.772705}
+        - {x: 57.136353, y: -82.772705}
+        - {x: 57.136353, y: 84.227295}
+        - {x: 12.136353, y: 84.227295}
+        - {x: -50.863647, y: -11.772705}
+    - name: spritesheet_eglise_76
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.318237, y: 84.227295}
+        - {x: -50.681763, y: -28.772705}
+        - {x: -50.681763, y: -65.772705}
+        - {x: -49.681763, y: -82.772705}
+        - {x: 54.318237, y: -82.772705}
+        - {x: 57.318237, y: -53.772705}
+        - {x: 57.318237, y: 75.227295}
+        - {x: 44.318237, y: 84.227295}
+    - name: spritesheet_eglise_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47.5, y: 84.04547}
+        - {x: 14.5, y: 84.04547}
+        - {x: -52.5, y: 0.04547119}
+        - {x: -52.5, y: -75.95453}
+        - {x: -50.5, y: -82.95453}
+        - {x: 47.5, y: -82.95453}
+        - {x: 52.5, y: -74.95453}
+        - {x: 56.5, y: -2.9545288}
+        - {x: 56.5, y: 69.04547}
+    - name: spritesheet_eglise_78
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.681824, y: 84.04547}
+        - {x: -52.318176, y: -19.954529}
+        - {x: -52.318176, y: -74.95453}
+        - {x: -49.318176, y: -82.95453}
+        - {x: 51.681824, y: -82.95453}
+        - {x: 56.681824, y: -53.95453}
+        - {x: 56.681824, y: 79.04547}
+        - {x: 49.681824, y: 84.04547}
+    - name: spritesheet_eglise_79
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41.863647, y: 84.04547}
+        - {x: 2.8636475, y: 84.04547}
+        - {x: -51.136353, y: -13.954529}
+        - {x: -51.136353, y: -82.95453}
+        - {x: 42.863647, y: -82.95453}
+        - {x: 56.863647, y: -75.95453}
+        - {x: 56.863647, y: 68.04547}
+    - name: spritesheet_eglise_80
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.045471, y: 84.04547}
+        - {x: -38.95453, y: 68.04547}
+        - {x: -50.95453, y: 20.045471}
+        - {x: -50.95453, y: -82.95453}
+        - {x: 52.04547, y: -82.95453}
+        - {x: 59.04547, y: -28.954529}
+        - {x: 59.04547, y: 71.04547}
+        - {x: 37.04547, y: 84.04547}
+    - name: spritesheet_eglise_81
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46.227295, y: 84.04547}
+        - {x: 2.227295, y: 84.04547}
+        - {x: -50.772705, y: 12.045471}
+        - {x: -50.772705, y: -73.95453}
+        - {x: -44.772705, y: -82.95453}
+        - {x: 43.227295, y: -82.95453}
+        - {x: 59.227295, y: -75.95453}
+        - {x: 59.227295, y: 72.04547}
+    - name: spritesheet_eglise_82
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.909119, y: 84.04547}
+        - {x: -51.09088, y: 3.0454712}
+        - {x: -51.09088, y: -73.95453}
+        - {x: -49.09088, y: -82.95453}
+        - {x: 53.90912, y: -82.95453}
+        - {x: 59.90912, y: -38.95453}
+        - {x: 59.90912, y: 84.04547}
+    - name: spritesheet_eglise_83
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28.590942, y: 84.04547}
+        - {x: -39.409058, y: 63.04547}
+        - {x: -52.409058, y: 4.045471}
+        - {x: -52.409058, y: -82.95453}
+        - {x: 51.590942, y: -82.95453}
+        - {x: 58.590942, y: -24.954529}
+        - {x: 58.590942, y: 75.04547}
+        - {x: 35.590942, y: 84.04547}
+    - name: spritesheet_eglise_84
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.772705, y: 84.04547}
+        - {x: -30.227295, y: 75.04547}
+        - {x: -51.227295, y: 4.045471}
+        - {x: -51.227295, y: -82.95453}
+        - {x: 52.772705, y: -82.95453}
+        - {x: 60.772705, y: -11.954529}
+        - {x: 60.772705, y: 73.04547}
+        - {x: 35.772705, y: 84.04547}
+    - name: spritesheet_eglise_85
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.95459, y: 84.04547}
+        - {x: 6.95459, y: 53.04547}
+        - {x: -51.04541, y: -2.9545288}
+        - {x: -51.04541, y: -82.95453}
+        - {x: 57.95459, y: -82.95453}
+        - {x: 60.95459, y: -76.95453}
+        - {x: 60.95459, y: 78.04547}
+        - {x: 39.95459, y: 84.04547}
+    - name: spritesheet_eglise_86
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.136353, y: 84.04547}
+        - {x: 23.136353, y: 84.04547}
+        - {x: -50.863647, y: -7.954529}
+        - {x: -50.863647, y: -61.95453}
+        - {x: -45.863647, y: -82.95453}
+        - {x: 45.136353, y: -82.95453}
+        - {x: 57.136353, y: -73.95453}
+        - {x: 61.136353, y: 13.045471}
+        - {x: 61.136353, y: 77.04547}
+    - name: spritesheet_eglise_87
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25.318237, y: 84.04547}
+        - {x: -50.681763, y: -17.954529}
+        - {x: -50.681763, y: -82.95453}
+        - {x: 55.318237, y: -82.95453}
+        - {x: 61.318237, y: -24.954529}
+        - {x: 61.318237, y: 75.04547}
+        - {x: 50.318237, y: 84.04547}
+    - name: spritesheet_eglise_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.5, y: 83.86365}
+        - {x: 25.5, y: 82.86365}
+        - {x: -52.5, y: -12.136353}
+        - {x: -52.5, y: -83.13635}
+        - {x: 51.5, y: -83.13635}
+        - {x: 59.5, y: -20.136353}
+        - {x: 59.5, y: 81.86365}
+        - {x: 46.5, y: 83.86365}
+    - name: spritesheet_eglise_89
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.681824, y: 83.86365}
+        - {x: 26.681824, y: 83.86365}
+        - {x: -52.318176, y: -24.136353}
+        - {x: -52.318176, y: -74.13635}
+        - {x: -50.318176, y: -83.13635}
+        - {x: 47.681824, y: -83.13635}
+        - {x: 53.681824, y: -75.13635}
+        - {x: 59.681824, y: 35.863647}
+        - {x: 59.681824, y: 72.86365}
+    - name: spritesheet_eglise_90
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.86364746, y: 83.86365}
+        - {x: -51.136353, y: 10.863647}
+        - {x: -51.136353, y: -83.13635}
+        - {x: 44.863647, y: -83.13635}
+        - {x: 60.863647, y: -78.13635}
+        - {x: 60.863647, y: 74.86365}
+        - {x: 37.863647, y: 83.86365}
+    - name: spritesheet_eglise_91
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14.045471, y: 83.86365}
+        - {x: -50.95453, y: -3.1363525}
+        - {x: -50.95453, y: -70.13635}
+        - {x: -47.95453, y: -83.13635}
+        - {x: 55.04547, y: -83.13635}
+        - {x: 61.04547, y: 4.8636475}
+        - {x: 61.04547, y: 77.86365}
+        - {x: 48.04547, y: 83.86365}
+    - name: spritesheet_eglise_92
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42.227295, y: 83.86365}
+        - {x: 23.227295, y: 83.86365}
+        - {x: -50.772705, y: -15.136353}
+        - {x: -50.772705, y: -83.13635}
+        - {x: 54.227295, y: -83.13635}
+        - {x: 61.227295, y: -30.136353}
+        - {x: 61.227295, y: 77.86365}
+        - {x: 60.227295, y: 78.86365}
+    - name: spritesheet_eglise_93
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.909119, y: 83.86365}
+        - {x: -32.09088, y: 59.863647}
+        - {x: -51.09088, y: 10.863647}
+        - {x: -51.09088, y: -83.13635}
+        - {x: 47.90912, y: -83.13635}
+        - {x: 60.90912, y: -81.13635}
+        - {x: 60.90912, y: 77.86365}
+        - {x: 36.90912, y: 83.86365}
+    - name: spritesheet_eglise_94
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.40905762, y: 83.86365}
+        - {x: -52.409058, y: 20.863647}
+        - {x: -52.409058, y: -73.13635}
+        - {x: -49.409058, y: -83.13635}
+        - {x: 43.590942, y: -83.13635}
+        - {x: 59.590942, y: -77.13635}
+        - {x: 59.590942, y: 83.86365}
+    - name: spritesheet_eglise_95
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.772705, y: 83.86365}
+        - {x: -51.227295, y: 6.8636475}
+        - {x: -51.227295, y: -83.13635}
+        - {x: 60.772705, y: -83.13635}
+        - {x: 60.772705, y: 83.86365}
+    - name: spritesheet_eglise_96
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20.95459, y: 86.86365}
+        - {x: -51.04541, y: -13.136353}
+        - {x: -51.04541, y: -77.13635}
+        - {x: -49.04541, y: -83.13635}
+        - {x: 51.95459, y: -83.13635}
+        - {x: 60.95459, y: -16.136353}
+        - {x: 60.95459, y: 86.86365}
+    - name: spritesheet_eglise_97
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.136353, y: 88.86365}
+        - {x: -50.863647, y: 7.8636475}
+        - {x: -50.863647, y: -83.13635}
+        - {x: 45.136353, y: -83.13635}
+        - {x: 61.136353, y: -76.13635}
+        - {x: 61.136353, y: 88.86365}
+    - name: spritesheet_eglise_98
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.318237, y: 90.86365}
+        - {x: 34.318237, y: 90.86365}
+        - {x: 26.318237, y: 87.86365}
+        - {x: -50.681763, y: -29.136353}
+        - {x: -50.681763, y: -83.13635}
+        - {x: 52.318237, y: -83.13635}
+        - {x: 54.318237, y: -75.13635}
+        - {x: 61.318237, y: -8.136353}
+        - {x: 61.318237, y: 86.86365}
+    - name: spritesheet_eglise_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9.5, y: 90.68182}
+        - {x: -52.5, y: 1.6818237}
+        - {x: -52.5, y: -60.318176}
+        - {x: -47.5, y: -83.31818}
+        - {x: 38.5, y: -83.31818}
+        - {x: 55.5, y: -78.31818}
+        - {x: 59.5, y: -33.318176}
+        - {x: 59.5, y: 90.68182}
+    - name: spritesheet_eglise_100
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30.681824, y: 90.68182}
+        - {x: -13.318176, y: 60.681824}
+        - {x: -52.318176, y: -25.318176}
+        - {x: -52.318176, y: -83.31818}
+        - {x: 59.681824, y: -83.31818}
+        - {x: 59.681824, y: 90.68182}
+    - name: spritesheet_eglise_101
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54.863647, y: 90.68182}
+        - {x: 4.8636475, y: 90.68182}
+        - {x: -51.136353, y: 18.681824}
+        - {x: -51.136353, y: -83.31818}
+        - {x: 46.863647, y: -83.31818}
+        - {x: 57.863647, y: -77.31818}
+        - {x: 60.863647, y: -19.318176}
+        - {x: 60.863647, y: 83.68182}
+    - name: spritesheet_eglise_102
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.954529, y: 90.68182}
+        - {x: -50.95453, y: 0.68182373}
+        - {x: -50.95453, y: -83.31818}
+        - {x: 57.04547, y: -83.31818}
+        - {x: 61.04547, y: -50.318176}
+        - {x: 61.04547, y: 90.68182}
+    - name: spritesheet_eglise_103
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43.227295, y: 90.68182}
+        - {x: 22.227295, y: 84.68182}
+        - {x: -50.772705, y: -13.318176}
+        - {x: -50.772705, y: -81.31818}
+        - {x: -49.772705, y: -83.31818}
+        - {x: 61.227295, y: -83.31818}
+        - {x: 61.227295, y: 87.68182}
+        - {x: 58.227295, y: 90.68182}
+    - name: spritesheet_eglise_104
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55.90912, y: 90.68182}
+        - {x: 29.909119, y: 90.68182}
+        - {x: 25.909119, y: 87.68182}
+        - {x: -51.09088, y: -21.318176}
+        - {x: -51.09088, y: -83.31818}
+        - {x: 44.90912, y: -83.31818}
+        - {x: 56.90912, y: -77.31818}
+        - {x: 60.90912, y: -38.318176}
+        - {x: 60.90912, y: 87.68182}
+    - name: spritesheet_eglise_105
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52.409058, y: -81.31818}
+        - {x: -50.409058, y: -83.31818}
+        - {x: 51.590942, y: -83.31818}
+        - {x: 59.590942, y: -30.318176}
+        - {x: 59.590942, y: 90.68182}
+        - {x: 24.590942, y: 90.68182}
+        - {x: -52.409058, y: 11.681824}
+    - name: spritesheet_eglise_106
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13.772705, y: 90.68182}
+        - {x: -51.227295, y: 0.68182373}
+        - {x: -51.227295, y: -83.31818}
+        - {x: 49.772705, y: -83.31818}
+        - {x: 52.772705, y: -76.31818}
+        - {x: 60.772705, y: 38.681824}
+        - {x: 60.772705, y: 90.68182}
+    - name: spritesheet_eglise_107
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.95459, y: 90.68182}
+        - {x: 17.95459, y: 90.68182}
+        - {x: -51.04541, y: -24.318176}
+        - {x: -51.04541, y: -83.31818}
+        - {x: 45.95459, y: -83.31818}
+        - {x: 57.95459, y: -77.31818}
+        - {x: 60.95459, y: -20.318176}
+        - {x: 60.95459, y: 79.68182}
+    - name: spritesheet_eglise_108
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 56.136353, y: 90.68182}
+        - {x: 33.136353, y: 90.68182}
+        - {x: 27.136353, y: 87.68182}
+        - {x: -50.863647, y: -18.318176}
+        - {x: -50.863647, y: -83.31818}
+        - {x: 52.136353, y: -83.31818}
+        - {x: 54.136353, y: -74.31818}
+        - {x: 61.136353, y: -3.3181763}
+        - {x: 61.136353, y: 85.68182}
+    - name: spritesheet_eglise_109
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58.318237, y: 90.68182}
+        - {x: 41.318237, y: 90.68182}
+        - {x: 21.318237, y: 84.68182}
+        - {x: 11.318237, y: 47.681824}
+        - {x: -50.681763, y: -24.318176}
+        - {x: -50.681763, y: -83.31818}
+        - {x: 45.318237, y: -83.31818}
+        - {x: 57.318237, y: -77.31818}
+        - {x: 61.318237, y: -8.318176}
+        - {x: 61.318237, y: 86.68182}
+    - name: spritesheet_eglise_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.5, y: 90.5}
+        - {x: -52.5, y: 22.5}
+        - {x: -52.5, y: -83.5}
+        - {x: 47.5, y: -83.5}
+        - {x: 59.5, y: -79.5}
+        - {x: 59.5, y: 90.5}
+    - name: spritesheet_eglise_111
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27.681824, y: 90.5}
+        - {x: -25.318176, y: 18.5}
+        - {x: -52.318176, y: -20.5}
+        - {x: -52.318176, y: -76.5}
+        - {x: -49.318176, y: -83.5}
+        - {x: 45.681824, y: -83.5}
+        - {x: 59.681824, y: -79.5}
+        - {x: 59.681824, y: 88.5}
+        - {x: 58.681824, y: 90.5}
+    - name: spritesheet_eglise_112
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26.863647, y: 90.5}
+        - {x: 23.863647, y: 89.5}
+        - {x: -51.136353, y: -17.5}
+        - {x: -51.136353, y: -83.5}
+        - {x: 56.863647, y: -83.5}
+        - {x: 60.863647, y: -72.5}
+        - {x: 60.863647, y: 90.5}
+    - name: spritesheet_eglise_113
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18.045471, y: 90.5}
+        - {x: -50.95453, y: -13.5}
+        - {x: -50.95453, y: -83.5}
+        - {x: 52.04547, y: -83.5}
+        - {x: 61.04547, y: -3.5}
+        - {x: 61.04547, y: 90.5}
+    - name: spritesheet_eglise_114
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.227295, y: 90.5}
+        - {x: -50.772705, y: -19.5}
+        - {x: -50.772705, y: -83.5}
+        - {x: 54.227295, y: -83.5}
+        - {x: 61.227295, y: -25.5}
+        - {x: 61.227295, y: 90.5}
+    - name: spritesheet_eglise_115
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36.90912, y: 90.5}
+        - {x: 19.909119, y: 85.5}
+        - {x: -51.09088, y: -15.5}
+        - {x: -51.09088, y: -83.5}
+        - {x: 50.90912, y: -83.5}
+        - {x: 60.90912, y: -79.5}
+        - {x: 60.90912, y: 88.5}
+        - {x: 59.90912, y: 90.5}
+    - name: spritesheet_eglise_116
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5.5909424, y: 90.5}
+        - {x: -52.409058, y: 17.5}
+        - {x: -52.409058, y: -73.5}
+        - {x: -49.409058, y: -83.5}
+        - {x: 44.590942, y: -83.5}
+        - {x: 59.590942, y: -78.5}
+        - {x: 59.590942, y: 81.5}
+        - {x: 56.590942, y: 90.5}
+    - name: spritesheet_eglise_117
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34.772705, y: 90.5}
+        - {x: 26.772705, y: 87.5}
+        - {x: -51.227295, y: -15.5}
+        - {x: -51.227295, y: -83.5}
+        - {x: 48.772705, y: -83.5}
+        - {x: 60.772705, y: -78.5}
+        - {x: 60.772705, y: 90.5}
+    - name: spritesheet_eglise_118
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12.95459, y: 90.5}
+        - {x: -51.04541, y: -7.5}
+        - {x: -51.04541, y: -83.5}
+        - {x: 51.95459, y: -83.5}
+        - {x: 60.95459, y: -4.5}
+        - {x: 60.95459, y: 85.5}
+        - {x: 59.95459, y: 90.5}
+    - name: spritesheet_eglise_119
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59.136353, y: 90.5}
+        - {x: 9.136353, y: 90.5}
+        - {x: -50.863647, y: 3.5}
+        - {x: -50.863647, y: -83.5}
+        - {x: 48.136353, y: -83.5}
+        - {x: 54.136353, y: -75.5}
+        - {x: 61.136353, y: 37.5}
+        - {x: 61.136353, y: 84.5}
+    - name: spritesheet_eglise_120
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.318237, y: 90.5}
+        - {x: 29.318237, y: 86.5}
+        - {x: 24.318237, y: 72.5}
+        - {x: 10.318237, y: 48.5}
+        - {x: -44.681763, y: -22.5}
+        - {x: -50.681763, y: -34.5}
+        - {x: -50.681763, y: -83.5}
+        - {x: 50.318237, y: -83.5}
+        - {x: 61.318237, y: -78.5}
+        - {x: 61.318237, y: 90.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
